@@ -17,7 +17,158 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.PUB for Java API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <!--<header><i class="fa fa-bars"> </i>Features</header>
+
+<ul>
+
+<li>Loading</li>
+
+<li>Conversion</li>
+
+</ul>-->
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    General Features
+   </header>
+   <ul>
+    <li>
+     PUB File Loading
+    </li>
+    <li>
+     PDF Conversion
+    </li>
+    <li>
+     Work with Metadata of PUB files
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java  PUB Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"/>
+  <header>
+   Aspose.PUB
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.PUB for Java API fully supports the GUI based Desktop, Web and Console Applications." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Applications
+    </li>
+    <li>
+     Console Applications
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"/>
+  <header>
+   Aspose.PUB
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PUB for Java supports Publisher [file format](https://docs.aspose.com/pub/java/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Publisher:
+     </b>
+     PUB
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     PDF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java  PUB API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"/>
+  <header>
+   Aspose.PUB
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

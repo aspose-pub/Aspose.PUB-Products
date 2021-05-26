@@ -17,7 +17,158 @@ url: /cpp/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.PUB for C++ API." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <!--<header><i class="fa fa-bars"> </i>Features</header>
+
+<ul>
+
+<li>Loading</li>
+
+<li>Conversion</li>
+
+</ul>-->
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    General Features
+   </header>
+   <ul>
+    <li>
+     PUB File Loading
+    </li>
+    <li>
+     Modify Metadata
+    </li>
+    <li>
+     PDF Conversion
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET PUB Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png"/>
+  <header>
+   Aspose.PUB
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/pub/net/system-requirements/)  ." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 32 bit
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 64 bit
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Linux 64 bit
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png"/>
+  <header>
+   Aspose.PUB
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PUB for C++ supports Publisher [file format](https://docs.aspose.com/pub/cpp/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Publisher:
+     </b>
+     PUB
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     PDF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png"/>
+  <header>
+   Aspose.PUB
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
