@@ -5,13 +5,17 @@ url: /cpp/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-cpp.png" pfName="Aspose.PUB" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-cpp.png" pfName="Aspose.PUB for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/pub/cpp/release-notes/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.PUB for C++ is a Microsoft PUb formats processing library. It allows developers to read and load PUB files, manipulate metadata as well as convert electronic publication file format (.pub) to PDF.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -318,12 +322,6 @@ PubFactory::CreatePdfConverter()-&gt;ConvertToPdf(document, filePdf);</code></pr
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -348,10 +346,10 @@ PubFactory::CreatePdfConverter()-&gt;ConvertToPdf(document, filePdf);</code></pr
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PUB offers individual PUB processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB offers individual PUB processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/pub/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-net.png" sdkName="Aspose.PUB for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/pub/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png" sdkName="Aspose.PUB for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/pub/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/pub/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
