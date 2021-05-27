@@ -2,6 +2,7 @@
 title: PUB Formats Processing APIs - Aspose 
 weight: 10
 url: /family
+description: PUB library to process and convert publisher files to PDF files on any Platform
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

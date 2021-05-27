@@ -2,6 +2,7 @@
 title: C++ PUB Files Manipulation API - Aspose 
 weight: 20
 url: /cpp/ 
+description: C++ PUB library to parse, process and convert Publisher document formats to PDF 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

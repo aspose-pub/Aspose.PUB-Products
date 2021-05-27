@@ -2,6 +2,7 @@
 title: Create, Edit or Convert Publisher PUB files to PDF formats 
 weight: 50
 url: /
+description: On Premise APIs and Free Apps to process and convert Publisher documents.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
