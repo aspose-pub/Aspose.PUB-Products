@@ -1,6 +1,6 @@
 ---
 title: Java PUB Files Manipulation API - Aspose 
-weight: 30
+weight: 40
 url: /java/ 
 description: Java PUB library to parse, process and convert Publisher document formats to PDF 
 ---

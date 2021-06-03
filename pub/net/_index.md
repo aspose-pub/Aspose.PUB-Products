@@ -1,6 +1,6 @@
 ---
 title: C# .NET Publisher PUB files Parsing and Manipulation API - Aspose 
-weight: 40
+weight: 20
 url: /net/ 
 description: C# ASP.NET VB.NET Publisher API to parse and convert PUB formats
 ---
