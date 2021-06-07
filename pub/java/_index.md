@@ -6,11 +6,11 @@ description: Java PUB library to parse, process and convert Publisher document f
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java PUB Files Manipulation APIs" h2="Load and Convert PUB to PDF within Java-based applications without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-java.png" pfName="Aspose.PUB for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/pub/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java PUB Files Manipulation APIs" h2="Load and Convert PUB to PDF within Java-based applications without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-java.png" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/pub/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PUB" subTitlepfName="for Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/pub/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Publisher:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/pricing/pub/java" docsLink="https://docs.aspose.com/pub/java/release-notes/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Publisher:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub" directDownloadLink="https://downloads.aspose.com/pub/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

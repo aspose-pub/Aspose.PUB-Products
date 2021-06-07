@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Publisher Files" h2="Convert PUB Publisher format to PDF without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-net.png" pfName="Aspose.PUB for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Publisher Files" h2="Convert PUB Publisher format to PDF without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-net.png" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PUB" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/pub/net/release-notes/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/pricing/pub/net" docsLink="https://docs.aspose.com/pub/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

@@ -6,11 +6,11 @@ description: C++ PUB library to parse, process and convert Publisher document fo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-cpp.png" pfName="Aspose.PUB for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-cpp.png" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PUB" subTitlepfName="for C++" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/pub/cpp/release-notes/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/pricing/pub/cpp" docsLink="https://docs.aspose.com/pub/cpp/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
