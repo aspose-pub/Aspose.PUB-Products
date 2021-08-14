@@ -11,15 +11,15 @@ description: On Premise APIs and Free Apps to process and convert Publisher docu
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PUB for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-net.png" productLink="https://products.aspose.com/pub/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PUB for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productLink="https://products.aspose.com/pub/net" >}}
 On Premise APIs for Publisher PUB file format conversion in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PUB for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png" productLink="https://products.aspose.com/pub/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PUB for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productLink="https://products.aspose.com/pub/java" >}}
 Java APIs to manipulate PUB files. Load and render .pub format to PDF within Java based applications without any software dependencies.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PUB for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png" productLink="https://products.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.PUB for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productLink="https://products.aspose.com/pub/cpp" >}}
 Read and Manipulate Microsoft Publisher files as well as easily PUB to PDF conversion within C++ applications.
 {{< /blocks/products/pf/product >}}
 

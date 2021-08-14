@@ -10,7 +10,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/pricing/pub/cpp" docsLink="https://docs.aspose.com/pub/cpp/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/pricing/pub/cpp" docsLink="https://docs.aspose.com/pub/cpp/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -59,7 +59,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png"/>
+  <img alt=".NET PUB Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -105,7 +105,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png"/>
+  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -158,7 +158,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png"/>
+  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -349,8 +349,8 @@ PubFactory::CreatePdfConverter()-&gt;ConvertToPdf(document, filePdf);</code></pr
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB offers individual PUB processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/pub/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/pub/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/pub/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/pub/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

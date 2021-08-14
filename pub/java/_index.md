@@ -10,7 +10,7 @@ description: Java PUB library to parse, process and convert Publisher document f
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/pricing/pub/java" docsLink="https://docs.aspose.com/pub/java/release-notes/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Publisher:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub" directDownloadLink="https://downloads.aspose.com/pub/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/pricing/pub/java" docsLink="https://docs.aspose.com/pub/java/release-notes/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Publisher:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub" directDownloadLink="https://downloads.aspose.com/pub/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -59,7 +59,7 @@ description: Java PUB library to parse, process and convert Publisher document f
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java  PUB Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"/>
+  <img alt="Java  PUB Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -105,7 +105,7 @@ description: Java PUB library to parse, process and convert Publisher document f
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"/>
+  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -158,7 +158,7 @@ description: Java PUB library to parse, process and convert Publisher document f
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java  PUB API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"/>
+  <img alt="Java  PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -343,8 +343,8 @@ com.aspose.pub.PubFactory.createPdfConverter().convertToPdf(doc, "result_out.pdf
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB offers individual PUB processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/pub/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/pub/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/pub/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/pub/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
