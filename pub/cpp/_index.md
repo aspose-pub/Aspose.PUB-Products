@@ -77,7 +77,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/pub/net/system-requirements/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/pub/net/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -123,7 +123,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PUB for C++ supports Publisher [file format](https://docs.aspose.com/pub/cpp/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PUB for C++ supports Publisher [file format](https://docs.aspose.com/pub/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">

@@ -123,7 +123,7 @@ description: Java PUB library to parse, process and convert Publisher document f
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PUB for Java supports Publisher [file format](https://docs.aspose.com/pub/java/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PUB for Java supports Publisher [file format](https://docs.aspose.com/pub/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

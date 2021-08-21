@@ -120,7 +120,7 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB formats
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PUB for .NET supports Publisher [file format](https://docs.aspose.com/pub/net/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PUB for .NET supports Publisher [file format](https://docs.aspose.com/pub/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
