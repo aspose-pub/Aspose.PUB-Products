@@ -6,7 +6,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-cpp.png" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
 

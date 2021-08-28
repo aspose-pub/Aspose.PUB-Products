@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Publisher Files" h2="Convert PUB Publisher format to PDF without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-net.png" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Publisher Files" h2="Convert PUB Publisher format to PDF without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
 

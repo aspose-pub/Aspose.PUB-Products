@@ -6,7 +6,7 @@ description: Java PUB library to parse, process and convert Publisher document f
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java PUB Files Manipulation APIs" h2="Load and Convert PUB to PDF within Java-based applications without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/pub/header/aspose_pub-for-java.png" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/pub/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java PUB Files Manipulation APIs" h2="Load and Convert PUB to PDF within Java-based applications without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/pub/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 

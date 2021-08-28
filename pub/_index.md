@@ -6,7 +6,7 @@ description: On Premise APIs and Free Apps to process and convert Publisher docu
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Publisher File Format Solution" h2="On Premise APIs and free apps for PUB file format conversion, with no dependency on any other software." logoImageSrc="https://www.aspose.com/templates/brand/images/pub/aspose_pub-brand.png" imageAlt="Aspose.PSD Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Publisher File Format Solution" h2="On Premise APIs and free apps for PUB file format conversion, with no dependency on any other software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB On Premise APIs Include" >}}
