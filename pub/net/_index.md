@@ -330,6 +330,7 @@ PubFactory.CreatePdfConverter().ConvertToPdf(doc, dataDir + "result_out.pdf");</
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/pub" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/pub/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/pub/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.PUB for .NET?" tabId="success-stories" >}}
