@@ -2,7 +2,7 @@
 title: C# .NET Publisher PUB files Parsing and Manipulation API - Aspose 
 weight: 20
 url: /net/ 
-description: C# ASP.NET VB.NET Publisher API to parse and convert PUB formats
+description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
