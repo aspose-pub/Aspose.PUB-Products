@@ -1,5 +1,5 @@
 ---
-title: Edit Metadata of PUB file= with .NET 
+title: Edit Metadata of PUB file with .NET 
 description: Eid PUB files Metadata .NET API on Windows
 url: /net/metadata/pub/
 family: pub
