@@ -13,9 +13,7 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.PUB for .NET is flexible and easy to use library to work with electronic publication files. It supports the loading and conversion of popular electronic publication file format (.pub) to PDF.
-</p>
+<p>Aspose.PUB for .NET is flexible and easy to use library to work with electronic publication files. It supports the loading and conversion of popular electronic publication file format (.pub) to PDF.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
