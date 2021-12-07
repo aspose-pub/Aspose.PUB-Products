@@ -5,7 +5,7 @@ description: Convert Microsoft Publisher document file format pub to PDF Program
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Microsoft® Publisher Files Conversion Via Java" h2="Convert Microsoft® Publisher PUB to PDF documents to build cross-platform Java applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Publisher Files Conversion Via Java" h2="Convert Microsoft<sup>&reg;</sup> Publisher PUB to PDF documents to build cross-platform Java applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -18,7 +18,7 @@ Microsoft Publisher format used for creating professional documents and marketin
 For Publisher PUB to PDF document conversion, Process is, Load PUB document and parse the file using [parse method](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) and lastly save as PDF document.
 
 
-{{% blocks/products/pf/feature-page-code h3="Java Code to convert Publisher PUB to PDF" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code to Convert Publisher PUB to PDF" %}}
 
 {{< gist "aspose-com-gists" "01150f8eb789a1413f4eb8b1c9484eb7" "publisher-pub-to-pdf-conversion.java" >}}
 

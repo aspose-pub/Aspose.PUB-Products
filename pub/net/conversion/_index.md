@@ -5,7 +5,7 @@ description: Convert Microsoft Publisher document file format pub to PDF Program
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Microsoft® Publisher Files Conversion Via C#" h2="Convert Microsoft® Publisher PUB to PDF files to build cross-platform .NET applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Publisher Files Conversion Via C#" h2="Convert Microsoft<sup>&reg;</sup> Publisher PUB to PDF files to build cross-platform .NET applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
