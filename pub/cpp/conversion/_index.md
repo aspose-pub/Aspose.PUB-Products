@@ -18,7 +18,7 @@ Microsoft Publisher is a graphic design application relying more on page design 
 For Publisher PDF conversion, Process is, Integrate C++ PUB to PDF Converter API, which works not only only with single page document but also supports multipages .pub files. So load PUB file via PubFactory::CreateParser and Parse. Finally convert via [ConvertToPdf method](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 
 
-{{% blocks/products/pf/feature-page-code h3="C++ Code to convert Publisher PUB to PDF" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Code to Convert Publisher PUB to PDF" %}}
 
 {{< gist "aspose-com-gists" "99e290ed0fa58bf6f54311d264b397ed" "convert-publisher-pub-to-pdf.cpp" >}}
 
