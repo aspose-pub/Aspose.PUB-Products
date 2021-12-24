@@ -6,9 +6,9 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Publisher Files" h2="Convert PUB Publisher format to PDF without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Publisher Files" h2="Convert PUB Publisher format to PDF without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/net" >}}
 
@@ -24,7 +24,7 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!--<header><i class="fa fa-bars"> </i>Features</header>
+   <!--<header><i class="fa fa-bars"> </i>Features</header>
 
 <ul>
 
@@ -199,13 +199,13 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
      Convert PUB files to PDF
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-upload ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-upload ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Load existing Photoshop files</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manage Opacity of Layers & Flatten Layers</p>
 
@@ -264,7 +264,7 @@ PubFactory.CreatePdfConverter().ConvertToPdf(doc, dataDir + "result_out.pdf");</
 
 <h2 class="h2title">Read or Create PUB Files</h2>
 
-<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
+<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
 
 <div id="code" class="codeblock">
 

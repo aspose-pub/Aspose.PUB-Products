@@ -6,7 +6,7 @@ description: PUB library to process and convert publisher files to PDF files on 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="APIs to Convert Microsoft Publisher Files" h2="Native .NET APIs to convert PUB files to PDF without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="APIs to Convert Microsoft Publisher Files" h2="Native .NET APIs to convert PUB files to PDF without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB On Premise APIs Include" >}}

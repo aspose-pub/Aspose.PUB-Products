@@ -6,13 +6,13 @@ description: On Premise APIs and Free Apps to process and convert Publisher docu
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Publisher File Format Solution" h2="On Premise APIs and free apps for PUB file format conversion, with no dependency on any other software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Publisher File Format Solution" h2="On Premise APIs and free apps for PUB file format conversion, with no dependency on any other software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB On Premise APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PUB for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productLink="https://products.aspose.com/pub/net" >}}
-On Premise APIs for Publisher PUB file format conversion in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
+On Premise APIs for Publisher PUB file format conversion in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PUB for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productLink="https://products.aspose.com/pub/java" >}}
@@ -29,7 +29,7 @@ Read and Manipulate Microsoft Publisher files as well as easily PUB to PDF conve
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

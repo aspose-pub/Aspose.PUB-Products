@@ -6,15 +6,15 @@ description: C++ PUB library to parse, process and convert Publisher document fo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/cpp/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PUB for C++ is a Microsoft PUb formats processing library. It allows developers to read and load PUB files, manipulate metadata as well as convert electronic publication file format (.pub) to PDF.
+ Aspose.PUB for C++ is a Microsoft PUb formats processing library. It allows developers to read and load PUB files, manipulate metadata as well as convert electronic publication file format (.pub) to PDF.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -26,7 +26,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!--<header><i class="fa fa-bars"> </i>Features</header>
+   <!--<header><i class="fa fa-bars"> </i>Features</header>
 
 <ul>
 
@@ -208,12 +208,12 @@ description: C++ PUB library to parse, process and convert Publisher document fo
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convert PUB documents to PDF
+     Convert PUB documents to PDF
     </p>
    </div>
    <!--
 
-<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manage Opacity of Layers & Flatten Layers</p>
 
@@ -272,7 +272,7 @@ PubFactory::CreatePdfConverter()-&gt;ConvertToPdf(document, filePdf);</code></pr
 
 <h2 class="h2title">Read or Create PUB Files</h2>
 
-<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
+<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
 
 <div id="code" class="codeblock">
 
