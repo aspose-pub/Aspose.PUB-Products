@@ -59,7 +59,7 @@ description: Java PUB library to parse, process and convert Publisher document f
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java  PUB Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
+  <img width="70" height="75" alt="Java  PUB Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -105,7 +105,7 @@ description: Java PUB library to parse, process and convert Publisher document f
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
+  <img width="70" height="75" alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -158,7 +158,7 @@ description: Java PUB library to parse, process and convert Publisher document f
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java  PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
+  <img width="70" height="75" alt="Java  PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg"/>
   <header>
    Aspose.PUB
   </header>

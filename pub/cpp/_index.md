@@ -59,7 +59,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
+  <img width="70" height="75" alt=".NET PUB Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -105,7 +105,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
+  <img width="70" height="75" alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
   <header>
    Aspose.PUB
   </header>
@@ -158,7 +158,7 @@ description: C++ PUB library to parse, process and convert Publisher document fo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
+  <img width="70" height="75" alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg"/>
   <header>
    Aspose.PUB
   </header>
