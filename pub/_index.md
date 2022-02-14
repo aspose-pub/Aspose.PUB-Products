@@ -2,17 +2,17 @@
 title: Create, Edit or Convert Publisher PUB files to PDF formats 
 weight: 30
 url: /
-description: On Premise APIs and Free Apps to process and convert Publisher documents.
+description: High Code APIs and Free Apps to process and convert Publisher documents.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Publisher File Format Solution" h2="On Premise APIs and free apps for PUB file format conversion, with no dependency on any other software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Publisher File Format Solution" h2="High Code APIs and free apps for PUB file format conversion, with no dependency on any other software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.PUB On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.PUB High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PUB for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productLink="https://products.aspose.com/pub/net" >}}
-On Premise APIs for Publisher PUB file format conversion in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
+High Code APIs for Publisher PUB file format conversion in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PUB for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productLink="https://products.aspose.com/pub/java" >}}
@@ -23,7 +23,7 @@ Java APIs to manipulate PUB files. Load and render .pub format to PDF within Jav
 Read and Manipulate Microsoft Publisher files as well as easily PUB to PDF conversion within C++ applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/pub/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/pub/family/" innerText="View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
