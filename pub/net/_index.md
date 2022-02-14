@@ -242,15 +242,7 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
      <h3>
       Convert PUB to PDF - C#
      </h3>
-     <pre><code class="cs">string dataDir = RunExamples.GetDataDir_Data();
-
-string fileName = dataDir + "pubFileName.pub";
-
-var parser = PubFactory.CreateParser(fileName);
-
-var doc = parser.Parse();
-
-PubFactory.CreatePdfConverter().ConvertToPdf(doc, dataDir + "result_out.pdf");</code></pre>
+     {{< gist "aspose-com-gists" "a09a0078f81a15a27e425b1cd1e5484b" "convert-publisher-pub-to-pdf.cs" >}}
     </div>
    </div>
    <!--<div class="col-lg-12">

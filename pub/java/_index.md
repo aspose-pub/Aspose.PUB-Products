@@ -248,11 +248,7 @@ description: Java PUB library to parse, process and convert Publisher document f
      <h3>
       Convert PUB to PDF - Java
      </h3>
-     <pre><code class="cs">IPubParser parser = PubFactory.createParser("fileName");
-
-Document doc = parser.parse();
-
-com.aspose.pub.PubFactory.createPdfConverter().convertToPdf(doc, "result_out.pdf");</code></pre>
+     {{< gist "aspose-com-gists" "01150f8eb789a1413f4eb8b1c9484eb7" "publisher-pub-to-pdf-conversion.java" >}}
     </div>
    </div>
    <!--<div class="col-lg-12">
