@@ -27,14 +27,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="C++ Code for PUB to PDF Conversion" gistPath="" %}}
-```cs
-// Load PUB file
-System::SharedPtr<IPubParser> parser = PubFactory::CreateParser("input.pub");
-// Parse file 
-System::SharedPtr<Document> document = parser->Parse();
-// Convert PUB to PDF
-PubFactory::CreatePdfConverter()->ConvertToPdf(document, "output.pdf");
-```
+
+{{< gist "aspose-com-gists" "99e290ed0fa58bf6f54311d264b397ed" "pub-to-pdf-conversion.cpp" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}

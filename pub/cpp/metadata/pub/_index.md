@@ -25,15 +25,10 @@ Install from command line as ```nuget install Aspose.PUB.cpp``` or via Package M
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/pub/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C++ Code for PUB to PDF Conversion" gistPath="" %}}
-```cs
-// Load PUB file
-System::SharedPtr<IPubParser> parser = PubFactory::CreateParser("input.pub");
-// Parse file 
-System::SharedPtr<Document> document = parser->Parse();
-// Eidt Category metadata
-document->get_DocumentSummaryInfo()->SetCategory(u"category");
-```
+{{% blocks/products/pf/agp/code-autogen title="C++ Code to Modify PUB Metadata" gistPath="" %}}
+
+{{< gist "aspose-com-gists" "99e290ed0fa58bf6f54311d264b397ed" "update-pub-metadata.cpp" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< /blocks/products/pf/main-container >}}
