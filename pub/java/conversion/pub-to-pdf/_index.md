@@ -57,14 +57,9 @@ Aspose.PUB for Java is supported on all major operating systems. Just make sure 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for PUB to PDF Conversion" gistPath="" %}}
-```cs
-// Load PUB file
-IPubParser parser = PubFactory.createParser(fileName);
-// Parse file 
-Document doc = parser.parse();
-// Convert PUB to PDF
-com.aspose.pub.PubFactory.createPdfConverter().convertToPdf(doc, "output.pdf");
-```
+
+{{< gist "aspose-com-gists" "01150f8eb789a1413f4eb8b1c9484eb7" "convert-pub-to-pdf.java" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< /blocks/products/pf/main-container >}}

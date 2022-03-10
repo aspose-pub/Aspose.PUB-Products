@@ -55,15 +55,10 @@ Aspose.PUB for Java is supported on all major operating systems. Just make sure 
 - J2SE 8.0 (1.8) or above.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Java Code for PUB to PDF Conversion" gistPath="" %}}
-```cs
-// Load PUB file
-IPubParser parser = PubFactory.createParser(fileName);
-// Parse file 
-Document doc = parser.parse();
-// Set Language metadata
-document.getDocumentSummaryInfo().setLanguage("language");
-```
+{{% blocks/products/pf/agp/code-autogen title="Java Code to Update PUB Metadata" gistPath="" %}}
+
+{{< gist "aspose-com-gists" "01150f8eb789a1413f4eb8b1c9484eb7" "update-pub-metadata.java" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< /blocks/products/pf/main-container >}}
