@@ -27,14 +27,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PUB to PDF Conversion" gistPath="" %}}
-```cs
-// Load PUB file
-var parser = PubFactory.CreateParser("sample.pub");
-// Parse file 
-var doc = parser.Parse();
-// Convert PUB to PDF
-Aspose.Pub.PubFactory.CreatePdfConverter().ConvertToPdf(doc, "output.pdf");
-```
+
+{{< gist "aspose-com-gists" "a09a0078f81a15a27e425b1cd1e5484b" "pub-to-pdf-conversion.cs" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}

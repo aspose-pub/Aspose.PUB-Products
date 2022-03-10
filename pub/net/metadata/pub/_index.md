@@ -26,14 +26,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code to Edit PUB Metadata" gistPath="" %}}
-```cs
-// Load PUB file
-var parser = PubFactory.CreateParser("sample.pub");
-// Parse file 
-var doc = parser.Parse();
-// Edit company metadata
-document.DocumentSummaryInfo.SetCompany("company");
-```
+
+{{< gist "aspose-com-gists" "a09a0078f81a15a27e425b1cd1e5484b" "edit-pub-file-metadata.cs" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< /blocks/products/pf/main-container >}}
