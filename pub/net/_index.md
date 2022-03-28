@@ -1,20 +1,26 @@
 ---
-title: C# .NET Publisher PUB files Parsing and Manipulation API - Aspose 
+title: C# .NET Publisher PUB files Parsing and Manipulation API
 weight: 20
 url: /net/ 
-description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
+description: C# ASP.NET VB.NET Publisher API to parse, process and convert MS Publisher files. Convert PUB to PDF, Word, Excel, and images.
+metakeywords: C# for PUB, Csharp for PUB, C# PUb, pub .NET
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Publisher Files" h2="Convert PUB Publisher format to PDF without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Publisher Files" h2="Convert PUB Publisher format to PDF without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.PUB for .NET is flexible and easy to use library to work with electronic publication files. It supports the loading and conversion of popular electronic publication file format (.pub) to PDF.</p>
-
+<p>
+MS Publisher is a program to create documents that are focused to work with page layout information. The program opens the next file formats MS Publisher 2.0 or later, files with a .txt extension, RTF files, MS Word files, HTML files, Unicode text, and many more. This software allows creating your own designed documents or using the the-formated designs for your document.
+MS Publisher saves files with .pub extension and not that many applications apart from Publisher can process such files. 
+</p>
+<p>
+Aspose.PUB for .NET is a flexible and easy-to-use library to work with electronic publication files. It supports the loading and conversion of popular electronic publication file format (.pub) to PDF. It offers quick and reliable conversion of PUB to PDF, HTML, XLSX, DOC, and the most popular image formats. The functionality is also implemented in free cross-platform applications so you can try it yourself right now.
+</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->

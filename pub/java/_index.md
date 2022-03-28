@@ -1,12 +1,13 @@
 ---
-title: Java PUB Files Manipulation API - Aspose 
+title: Java MS Publisher files manipulation APIs. 
 weight: 40
 url: /java/ 
-description: Java PUB library to parse, process and convert Publisher document formats to PDF 
+description: Java library to parse, process and convert Publisher document formats to PDF. Implement the functionality into your own product.
+metakeywords: Java for PUB, Java PUB solution, Java PUb, pub Java library
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java PUB Files Manipulation APIs" h2="Load and Convert PUB to PDF within Java-based applications without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/pub/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java PUB Files Manipulation APIs" h2="Load and Convert PUB to PDF within Java-based applications without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/pub/java" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 
@@ -14,7 +15,11 @@ description: Java PUB library to parse, process and convert Publisher document f
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PUB for Java is flexible and easy to use library to work with electronic publication files. It supports the loading and conversion of popular electronic publication file format (.pub) to PDF.
+MS Publisher is a program to create documents that are focused to work with page layout information. The program opens the next file formats MS Publisher 2.0 or later, files with a .txt extension, RTF files, MS Word files, HTML files, Unicode text, and many more. This software allows creating your own designed documents or using the the-formated designs for your document.
+MS Publisher saves files with .pub extension and not that many applications apart from Publisher can process such files. 
+</p>
+<p>
+ Aspose.PUB for Java is flexible and easy to use library to work with electronic publication files. It supports the loading and conversion of popular electronic publication file format (.pub) to PDF. It offers quick and reliable conversion of PUB to PDF, HTML, XLSX, DOC, and the most popular image formats. The functionality is also implemented in free cross-platform applications so you can try it yourself right now.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
