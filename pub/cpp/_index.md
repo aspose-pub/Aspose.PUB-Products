@@ -1,12 +1,13 @@
 ---
-title: C++ PUB Files Manipulation API - Aspose 
+title: Publisher Files Manipulation API for C++
 weight: 50
 url: /cpp/ 
-description: C++ PUB library to parse, process and convert Publisher document formats to PDF 
+description: PUB files manipulation API solution. C++ library to parse, process and convert MS Publisher document formats to PDF. 
+metakeywords: Java for c++, cpp PUB solution, Java cpp, pub c++ library
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ API to Parse Publisher Files" h2="Manipulate Publisher Files as well as Convert PUB format to PDF within any C++ based application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/pub/cpp" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
 
@@ -14,7 +15,11 @@ description: C++ PUB library to parse, process and convert Publisher document fo
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PUB for C++ is a Microsoft PUb formats processing library. It allows developers to read and load PUB files, manipulate metadata as well as convert electronic publication file format (.pub) to PDF.
+MS Publisher is a program to create documents that are focused to work with page layout information. The program opens the next file formats MS Publisher 2.0 or later, files with a .txt extension, RTF files, MS Word files, HTML files, Unicode text, and many more. This software allows creating your own designed documents or using the the-formated designs for your document.
+MS Publisher saves files with .pub extension and not that many applications apart from Publisher can process such files. 
+</p>
+<p>
+ Aspose.PUB for C++ is a Microsoft PUb formats processing library. It allows developers to read and load PUB files, manipulate metadata as well as convert electronic publication file format (.pub) to PDF. It offers quick and reliable conversion of PUB to PDF, HTML, XLSX, DOC, and the most popular image formats. The functionality is also implemented in free cross-platform applications so you can try it yourself right now.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}

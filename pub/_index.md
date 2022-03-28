@@ -1,12 +1,13 @@
 ---
-title: Create, Edit or Convert Publisher PUB files to PDF formats 
+title: Create, Edit or Convert Publisher PUB files
 weight: 30
 url: /
-description: High Code APIs and Free Apps to process and convert Publisher documents.
+description: Process, create and convert Publisher files programmatically with the High Code APIs. Integrate the functionality to your product!
+metakeywords: publisher solution, code publisher, pub library, ms publisher library
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Publisher File Format Solution" h2="High Code APIs and free apps for PUB file format conversion, with no dependency on any other software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Publisher File Format Solution" h2="High Code APIs and free apps to manipulate and convert PUB files, with no dependency on any other software."  logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB High Code APIs Include" >}}
@@ -16,14 +17,26 @@ High Code APIs for Publisher PUB file format conversion in Windows Forms, ASP.NE
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PUB for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productLink="https://products.aspose.com/pub/java" >}}
-Java APIs to manipulate PUB files. Load and render .pub format to PDF within Java based applications without any software dependencies.
+Java APIs to manipulate PUB files. Load and convert .pub format to PDF within Java-based applications without any software dependencies.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PUB for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productLink="https://products.aspose.com/pub/cpp" >}}
-Read and Manipulate Microsoft Publisher files as well as easily PUB to PDF conversion within C++ applications.
+C++ library to read, load, edit and convert Microsoft Publisher files. The solution is easy to integrate into your own C++ project.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/pub/family/" innerText="View All High Code APIs" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
+{{< blocks/products/pf/product-card-row title="Aspose.PUB No Code Apps Include" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.PUB " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/pub/viewer" >}} Open to view Publisher files online. {{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.PUB " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/pub/conversion" >}} Convert PUB to PDF, Word, Excel and image formats. {{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.PUB " title="Merger" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/pub/signature" >}} Combine several PUB files into one file of a different format. {{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="products.aspose.app/pub/applications" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
