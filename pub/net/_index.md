@@ -186,7 +186,7 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      Read .pub file formats
@@ -197,6 +197,13 @@ description: C# ASP.NET VB.NET Publisher API to parse and convert PUB files
     </em>
     <p class="col-lg-10">
      Convert PUB files to PDF
+    </p>
+   </div>
+<div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Edit MetaData of PUB files
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-upload ico-blue fa-2x col-lg-2"> </em>
