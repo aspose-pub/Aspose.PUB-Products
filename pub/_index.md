@@ -36,7 +36,7 @@ C++ library to read, load, edit and convert Microsoft Publisher files. The solut
 
 {{< blocks/products/pf/product pfName="Aspose.PUB " title="Merger" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/pub/signature" >}} Combine several PUB files into one file of a different format. {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="products.aspose.app/pub/applications" innerText="View All No Code Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/pub/applications" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
