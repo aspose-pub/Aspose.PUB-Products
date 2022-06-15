@@ -1,6 +1,6 @@
 ---
 title: Convert PUB to PDF with CPP 
-description: Convert PUB files using C++ API on Windows
+description: Convert PUB to PDF using C++ API on Windows, Linux and Mac OS X. Publisher conversion functionality that is easy to integrate into your own solution.
 url: /cpp/conversion/pub-to-pdf/
 family: pub
 platformtag: cpp

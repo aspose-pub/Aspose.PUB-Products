@@ -1,6 +1,6 @@
 ---
 title: Convert PUB to PDF with .NET 
-description: Convert PUB files using .NET API on Windows
+description: Convert PUB to PDF using .NET API on Windows, Linux and Mac OS X. Publisher conversion functionality that is easy to integrate into your own solution.
 url: /net/conversion/pub-to-pdf/
 family: pub
 platformtag: net

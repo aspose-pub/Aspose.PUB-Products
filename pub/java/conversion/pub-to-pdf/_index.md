@@ -1,6 +1,6 @@
 ---
 title: Convert PUB to PDF with Java 
-description: Convert PUB files using Java API using On-premise Java API
+description: Convert PUB to PDF using Java API on Windows, Linux and Mac OS X. Publisher conversion functionality that is easy to integrate into your own solution.
 url: /java/conversion/pub-to-pdf/
 family: pub
 platformtag: java

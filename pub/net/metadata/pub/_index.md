@@ -1,6 +1,6 @@
 ---
-title: Edit Metadata of PUB file with .NET 
-description: Eid PUB files Metadata .NET API on Windows
+title: Read Metadata of PUB file | .NET 
+description: Read Publisher files Metadata using cross-platform PUB .NET API Solution.  On-premise .NET API gives you access to SummaryInfo and DocSummaryInfo properties.
 url: /net/metadata/pub/
 family: pub
 platformtag: net

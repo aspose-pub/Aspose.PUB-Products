@@ -1,5 +1,5 @@
 ---
-title: C# Microsoft Publisher document file format PUB Conversion
+title: C# PUB Conversion functionality
 url: /net/conversion/
 description: Convert Microsoft Publisher document file format pub to PDF Programmatically with few lines of C# code via .NET library.
 ---

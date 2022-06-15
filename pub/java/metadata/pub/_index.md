@@ -1,6 +1,6 @@
 ---
-title: View & Edit PUB Metadata with Java 
-description: Edit PUB Metadata using Java API using On-premise Java API
+title: Read PUB file Metadata | Java 
+description: Read Publisher files Metadata using cross-platform PUB Java API Solution.  On-premise Java API gives you access to SummaryInfo and DocSummaryInfo properties.
 url: /java/metadata/pub/
 family: pub
 platformtag: java

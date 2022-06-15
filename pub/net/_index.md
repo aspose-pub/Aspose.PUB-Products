@@ -1,5 +1,5 @@
 ---
-title: C# .NET Publisher PUB files Parsing and Manipulation API
+title: C# .NET PUB files Manipulation API
 weight: 20
 url: /net/ 
 description: C# ASP.NET VB.NET Publisher API to parse, process and convert MS Publisher files. Convert PUB to PDF, Word, Excel, and images.
