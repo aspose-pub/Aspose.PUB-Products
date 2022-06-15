@@ -2,7 +2,7 @@
 title: MS Publisher files Processing native APIs
 weight: 10
 url: /family
-description: PUB library. The solution to load, edit, render and convert MS publisher files to PDF files on any platform.
+description: PUB manipulation and parsing library. This is the API solution to load, edit, render and convert MS publisher files to PDF files on any platform.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

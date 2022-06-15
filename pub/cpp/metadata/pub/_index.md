@@ -1,6 +1,6 @@
 ---
-title: View and Edit PUB Metadata with CPP 
-description: View and Edit PUB Metadata using C++ API on Windows
+title: Read PUB file Metadata | CPP 
+description: Read Publisher files Metadata using cross-platform PUB C++ API Solution.  On-premise C++ API gives you access to SummaryInfo and DocSummaryInfo properties.
 url: /cpp/metadata/pub/
 family: pub
 platformtag: cpp

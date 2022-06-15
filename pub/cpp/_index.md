@@ -1,5 +1,5 @@
 ---
-title: Publisher Files Manipulation API for C++
+title: Publisher Files Parsing API for C++
 weight: 50
 url: /cpp/ 
 description: PUB files manipulation API solution. C++ library to parse, process and convert MS Publisher document formats to PDF. 

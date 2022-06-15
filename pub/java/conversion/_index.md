@@ -1,5 +1,5 @@
 ---
-title: Java Microsoft Publisher document file format PUB Conversion
+title: Java PUB Conversion functionality
 url: /java/conversion/
 description: Convert Microsoft Publisher document file format pub to PDF Programmatically via Java library.
 ---

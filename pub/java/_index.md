@@ -1,5 +1,5 @@
 ---
-title: Java MS Publisher files manipulation APIs. 
+title: Publisher Files Parsing API for Java
 weight: 40
 url: /java/ 
 description: Java library to parse, process and convert Publisher document formats to PDF. Implement the functionality into your own product.

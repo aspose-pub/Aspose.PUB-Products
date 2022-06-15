@@ -1,5 +1,5 @@
 ---
-title: C++ Microsoft Publisher document file format PUB Conversion
+title: C++ PUB files Manipulation API
 url: /cpp/conversion/
 description: Convert Microsoft Publisher document file format pub to PDF Programmatically via C++ library.
 ---

@@ -1,5 +1,5 @@
 ---
-title: Create, Edit or Convert Publisher PUB files
+title: Create, Edit, or Convert PUB files
 weight: 30
 url: /
 description: Process, create and convert Publisher files programmatically with the High Code APIs. Integrate the functionality to your product!
