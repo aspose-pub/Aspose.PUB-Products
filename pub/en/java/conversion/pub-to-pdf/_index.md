@@ -14,13 +14,13 @@ feature: conversion
 
 {{% blocks/products/pf/feature-page-summary %}}
 <p>
-Microsoft<sup>&reg;</sup> Publisher document file format used for creating various publication types such as newsletters, brochures, flyers and postcards as well as used in Emails and Websites. Pub files contains text as well as bitmatp and vector graphics data. 
+Microsoft<sup>&reg;</sup> Publisher document file format is used for creating various publication types such as newsletters, brochures, flyers, and postcards and is used in Emails and Websites. Pub files contain text as well as bitmap and vector graphics data.
 </p>
 <p>
-As all the other Microsoft<sup>&reg;</sup> products Publisher application is not free itself. And as the file of the format can be opened only by this program to share the results of your work sometimes you will have to convert PUB file to a more well-spread format. The most popular of all is PUB to PDF conversion, as by now this format is supported by all the modern devices and can be even opened in a browser without installing any additional software. Here is the PUB to PDF conversion functionality for Java. This library can also be used for creation your own project.
+As all the other Microsoft<sup>&reg;</sup> products Publisher application is not free itself. And as the file of the format can be opened only by this program to share the results of your work sometimes you will have to convert a PUB file to a more well-spread format. The most popular of all is PUB to PDF conversion. By now, this format is supported by all modern devices and can even be opened in a browser without installing any additional software. Here is the PUB to PDF conversion functionality for Java. This library can also be used for creating your own project.
 </p>
 <p>
-Before running the conversion you need to integrate Java PUB to PDF Converter API, which works not only only with single page document but also supports multipages .pub files. 
+Before running the conversion you need to integrate Java PUB to PDF Converter API, which works not only with single-page documents but also supports multipage .pub files.
 </p>
 {{% /blocks/products/pf/feature-page-summary  %}}
 
@@ -75,12 +75,13 @@ Aspose.PUB for Java is supported on all major operating systems. Just make sure 
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 <p>
-PUB to PDF Conversion is a required step in PUB to any other format Conversion. After it the transformed file could be converted in the needed format.
+PUB to PDF Conversion is a required step in PUB to any other format Conversion. After it, the transformed file could be converted into the needed format.
 </p>
 <p>
-You can also try PUB to PDF cross-platform application. It has a very simple interface and the process will take only a few seconds. The solution allows:
-
-Transform multiple Publisher files, convert PUB to PDF, and save converted documents on your device.
+You can also try PUB to PDF cross-platform application. It has a very simple interface and the process will take only a few seconds. 
+</p>
+<p>
+The solution allows you: Transform multiple Publisher files, convert PUB to PDF, and save converted documents on your device.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

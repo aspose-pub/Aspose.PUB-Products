@@ -1,38 +1,38 @@
 ---
-title: PUB converter API solution | Java
+title: PUB Converter API solution | Java
 url: /java/conversion/
 description: Convert Microsoft Publisher files Programmatically via Java library.  Simple API solution to build your own PUB converter Java project.
 metakeywords: pub java converter, convert pub file java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PUB file via Java" h2="Microsoft<sup>&reg;</sup> Publisher converter functionality to build cross-platform Java applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PUB file" h2="Microsoft<sup>&reg;</sup> Publisher converter functionality to build cross-platform Java applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
 <p>
-Microsoft<sup>&reg;</sup> Publisher document file format used for creating various publication types such as newsletters, brochures, flyers and postcards as well as used in Emails and Websites. Pub files contains text as well as bitmatp and vector graphics data. 
+Microsoft<sup>&reg;</sup> Publisher document file format is used for creating various publication types such as newsletters, brochures, flyers, and postcards and is used in Emails and Websites. Pub files contain text as well as bitmap and vector graphics data.
 </p>
 
 <p>
-Even though the format is quite popular it is not that popular as such formats as PDF or DOCX. MS Publisher application is not free itself. So it is often required to convert files with .pub extension to another, well-spread and comfortable-to-use format. Here is the conversion functionality for Java. This library includes the needed conversion functionality that can be used for creation your own project.
+Even though the format is quite popular it is not as popular as such formats as PDF or DOCX. MS Publisher application is not free itself. So it is often required to convert files with .pub extension to another, well-spread and comfortable-to-use format. Here is the conversion functionality for Java. This library includes the needed conversion functionality that can be used for the creation of your own project.
 </p>
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Publisher .pub files" %}}
 
-Let's look at the functionality trough the PUB to PDF conversion.
+Let’s look at the functionality through the PUB to PDF conversion.
 
-Publisher Conversion process consists of next steps:
+The publisher Conversion process consists of the next steps:
 
-1. Integrate Java PUB to PDF Converter API, which works not only only with single page document but also supports multipages .pub files. 
+1. Integrate Java PUB to PDF Converter API, which works not only with single-page documents but also supports multipage .pub files.
 
-2. Load PUB file using [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Class.
+2. Load PUB file using the [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Class.
 
-3. CreateParser and Parse via [*Parse*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) method of [*IPubParser*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) interface. 
+3. CreateParser and Parse via the [*Parse*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Method of the [*IPubParser*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Interface. 
 
-4. Run the conversion by means of [*ConvertToPdf*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.io.OutputStream-) Method.
+4. Run the conversion by means of the [*ConvertToPdf*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.io.OutputStream-) Method.
 
 
 {{% blocks/products/pf/feature-page-code h3="Java Code to Convert Publisher PUB to PDF" %}}
@@ -41,7 +41,7 @@ Publisher Conversion process consists of next steps:
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
-Conversion PUB to any other format is possible after converting file to PDF format and then this transformed file could be converted in the needed format.
+Conversion of PUB to any other format is possible after converting the file to PDF format and then this transformed file could be converted into the needed format.
 
 You can also try Publisher [Converter](https://products.aspose.app/pub/conversion) cross-platform application. It has a very simple interface and the process will take only a few seconds. The solution allows:
 
