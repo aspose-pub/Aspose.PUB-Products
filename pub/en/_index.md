@@ -2,7 +2,7 @@
 title: Create, Edit, or Convert PUB files
 weight: 30
 url: /
-description: Process, create and convert Publisher files programmatically with the High Code APIs. Integrate the functionality to your product!
+description: Process, create, and convert Publisher files programmatically with the High Code APIs. С#, Java and C++ solution to integrate into your product!
 metakeywords: publisher solution, code publisher, pub library, ms publisher library
 ---
 
