@@ -1,16 +1,29 @@
 ---
-title: Convert PUB to PDF with Java 
+title: Convert PUB to PDF | Java 
 description: Convert PUB to PDF using Java API on Windows, Linux and Mac OS X. Publisher conversion functionality that is easy to integrate into your own solution.
 url: /java/conversion/pub-to-pdf/
+metakeywords: pub to pdf java, convert pub to pdf java, java pub to pdf, publisher to pdf java
 family: pub
 platformtag: java
 feature: conversion
-informat: PUB
-outformat: PDF
+
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert PUB to PDF via Java" h2="Native Java Library to Convert PUB on Windows, Linux and Mac OS X ">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert PUB to PDF" h2="Publisher to PDF Converter. Java API Conversion functionality.">}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+<p>
+Microsoft<sup>&reg;</sup> Publisher document file format is used for creating various publication types such as newsletters, brochures, flyers, and postcards and is used in Emails and Websites. Pub files contain text as well as bitmap and vector graphics data.
+</p>
+<p>
+As all the other Microsoft<sup>&reg;</sup> products Publisher application is not free itself. And as the file of the format can be opened only by this program to share the results of your work sometimes you will have to convert a PUB file to a more well-spread format. The most popular of all is PUB to PDF conversion. By now, this format is supported by all modern devices and can even be opened in a browser without installing any additional software. Here is the PUB to PDF conversion functionality for Java. This library can also be used for creating your own project.
+</p>
+<p>
+Before running the conversion you need to integrate Java PUB to PDF Converter API, which works not only with single-page documents but also supports multipage .pub files.
+</p>
+{{% /blocks/products/pf/feature-page-summary  %}}
+
 {{< blocks/products/pf/main-container >}}
 {{% blocks/products/pf/agp/content h2="How to Convert PUB to PDF Using Java" %}}
 
@@ -61,6 +74,39 @@ Aspose.PUB for Java is supported on all major operating systems. Just make sure 
 {{< gist "aspose-com-gists" "01150f8eb789a1413f4eb8b1c9484eb7" "convert-pub-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-autogen %}}
+<p>
+PUB to PDF Conversion is a required step in PUB to any other format Conversion. After it, the transformed file could be converted into the needed format.
+</p>
+<p>
+You can also try PUB to PDF cross-platform application. It has a very simple interface and the process will take only a few seconds. 
+</p>
+<p>
+The solution allows you: Transform multiple Publisher files, convert PUB to PDF, and save converted documents on your device.
+
 {{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/pub/java/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-pub/Aspose.PUB-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/pub" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/pub" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/pub/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/pub/java/release-notes/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.PUB for C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/java" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
