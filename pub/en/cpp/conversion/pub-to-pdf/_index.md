@@ -17,10 +17,11 @@ h2: Publisher to PDF Converter. С++ API Conversion functionality.
 ---
 
 {{<section overview>}}
-
-<p>Microsoft<sup>&reg;</sup> Publisher document file format is used for creating various publication types such as newsletters, brochures, flyers, and postcards and is used in Emails and Websites. Pub files contain text as well as bitmap and vector graphics data.</p>
-<p>As all the other Microsoft<sup>&reg;</sup> products Publisher application is not free itself. And as the file of the format can be opened only by this program to share the results of your work sometimes you will have to convert a PUB file to a more well-spread format. The most popular of all is PUB to PDF conversion. By now, this format is supported by all modern devices and can even be opened in a browser without installing any additional software. Here is the PUB to PDF conversion functionality for C++. This library can also be used for creating your own project.</p>
-<p>Before running the conversion you need to integrate C++ PUB to PDF Converter API, which works not only with single-page documents but also supports multipage .pub files.</p>
+---
+p1: Microsoft<sup>&reg;</sup> Publisher document file format is used for creating various publication types such as newsletters, brochures, flyers, and postcards and is used in Emails and Websites. Pub files contain text as well as bitmap and vector graphics data.
+p2: As all the other Microsoft<sup>&reg;</sup> products Publisher application is not free itself. And as the file of the format can be opened only by this program to share the results of your work sometimes you will have to convert a PUB file to a more well-spread format. The most popular of all is PUB to PDF conversion. By now, this format is supported by all modern devices and can even be opened in a browser without installing any additional software. Here is the PUB to PDF conversion functionality for C++. This library can also be used for creating your own project.
+p3: Before running the conversion you need to integrate C++ PUB to PDF Converter API, which works not only with single-page documents but also supports multipage .pub files.
+---
 
 {{<section feature1>}}
 ---
@@ -32,7 +33,7 @@ item3: Run the Conversion by means of [*ConvertToPdf()*](https://apireference.as
 
 {{<section feature2>}}
 ---
-title: Get Started with CPP PUB API
+title: Get Started with C++ PUB API
 item1: Install from command line as ```nuget install Aspose.PUB.cpp``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.PUB.cpp```.
 item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/pub/cpp).
 ---
@@ -42,12 +43,9 @@ item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [
 title: C++ Code for PUB to PDF Conversion
 ---
 
-{{<section overview2>}}
-<p>
-PUB to PDF Conversion is a required step in PUB to any other format Conversion. After it, the transformed file could be converted into the needed format.
-</p>
-<p>
-You can also try PUB to PDF cross-platform application. It has a very simple interface and the process will take only a few seconds. 
-</p>
-<p>
-The solution allows you: Transform multiple Publisher files, convert PUB to PDF, and save converted documents on your device.
+{{<section summary>}}
+---
+p1: PUB to PDF Conversion is a required step in PUB to any other format Conversion. After it, the transformed file could be converted into the needed format.
+p2: You can also try PUB to PDF cross-platform application. It has a very simple interface and the process will take only a few seconds. 
+p3: "The solution allows you: Transform multiple Publisher files, convert PUB to PDF, and save converted documents on your device."
+---
