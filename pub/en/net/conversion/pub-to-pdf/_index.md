@@ -46,6 +46,6 @@ title: .NET C# Code for PUB to PDF Conversion
 {{<section summary>}}
 ---
 p1: PUB to PDF Conversion is a required step in PUB to any other format Conversion. After it, the transformed file could be converted into the needed format.
-p2: You can also try PUB to PDF cross-platform application. It has a very simple interface and the process will take only a few seconds. 
+p2: You can also try [PUB to PDF](https://products.aspose.app/pub/conversion/pub-to-pdf) cross-platform application. It has a very simple interface and the process will take only a few seconds. 
 p3: "The solution allows you: Transform multiple Publisher files, convert PUB to PDF, and save converted documents on your device."
 ---
