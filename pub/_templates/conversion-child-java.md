@@ -22,7 +22,7 @@ feature: conversion
 {{< blocks/products/pf/main-container >}}
 {{% blocks/products/pf/agp/content h2="{{i18n.widget.title}}" %}}
 
-<p>{{i18n.widget.item1}}</p>
+{{i18n.widget.item1}}
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -68,9 +68,9 @@ feature: conversion
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 
-<p>{{i18n.summary.p1}}</p>
+{{i18n.summary.p1}}
 <p>{{i18n.summary.p2}}</p>
-<p>{{i18n.summary.p3}}</p>
+{{i18n.summary.p3}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
