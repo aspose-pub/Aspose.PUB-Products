@@ -28,9 +28,9 @@ title: パブリッシャーの.pubファイルを変換する
 item1: PUBからPDFへの変換による機能を見てみましょう。
 item2: "サイト運営者の変換プロセスは、次のステップで構成されています。"
 item3: C++PUBをPDFConverterAPIに統合します。これは、単一ページのドキュメントだけでなく、複数ページの.pubファイルもサポートします。
-item4: '[* PubFactory *]（https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory）クラスを使用してPUBファイルをロードします。'
-item5: '[* IPubParser *]（https：/ /apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser）インターフェース。'
-item6: '[* ConvertToPdf *（）]（https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter）メソッドを使用して変換を実行します。'
+item4: '[*PubFactory*]https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory）クラスを使用してPUBファイルをロードします。'
+item5: '[*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser）インターフェース。'
+item6: '[*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter）メソッドを使用して変換を実行します。'
 ---
 
 {{<section codeexample>}}

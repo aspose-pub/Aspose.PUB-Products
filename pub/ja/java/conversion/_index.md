@@ -28,9 +28,9 @@ title: パブリッシャーの.pubファイルを変換する
 item1: PUBからPDFへの変換による機能を見てみましょう。
 item2: "サイト運営者の変換プロセスは、次のステップで構成されています。"
 item3: JavaPUBをPDFConverterAPIに統合します。これは、単一ページのドキュメントだけでなく、複数ページの.pubファイルもサポートします。
-item4: '[* PubFactory *]（https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory）クラスを使用してPUBファイルをロードします。'
-item5: '[* Parse *（）]（https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--）メソッドを介したCreateParserおよびParse [* IPubParser *]（https： //reference.aspose.com/pub/java/com.aspose.pub/IPubParser）インターフェース。'
-item6: '[* ConvertToPdf *（）]（https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.ioを使用して変換を実行します.OutputStream-）メソッド。'
+item4: '[*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory）クラスを使用してPUBファイルをロードします。'
+item5: '[*Parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--）メソッドを介したCreateParserおよびParse [*IPubParser*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser）インターフェース。'
+item6: '[*ConvertToPdf*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.ioを使用して変換を実行します.OutputStream-）メソッド。'
 ---
 
 {{<section codeexample>}}

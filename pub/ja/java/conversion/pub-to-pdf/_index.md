@@ -26,15 +26,15 @@ p3: 変換を実行する前に、JavaPUBをPDFConverter APIに統合する必�
 {{<section widget>}}
 ---
 title: Javaを使用してPUBをPDFに変換する方法
-item1: "PUBをPDFに変換するために、[Aspose.PUB for Java API]（https://products.aspose.com/pub/java）を使用します。これは、機能が豊富で強力で使いやすい変換APIです。 Javaプラットフォーム。最新バージョンは[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub）から直接ダウンロードして、Mavenにインストールできます。次の構成をpom.xmlに追加することによるベースのプロジェクト。"
+item1: "PUBをPDFに変換するために、[Aspose.PUB for Java API](https://products.aspose.com/pub/java) を使用します。これは、機能が豊富で強力で使いやすい変換APIです。 Javaプラットフォーム。最新バージョンは[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub）から直接ダウンロードして、Mavenにインストールできます。次の構成をpom.xmlに追加することによるベースのプロジェクト。"
 ---
 
 {{<section feature1>}}
 ---
 title: JavaでのPUBからPDFへの変換
-item1: '[* createParser（）*]（https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-）メソッド[*PubFactory*]を使用してPUBファイルをロードします。 （https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory）クラス。'
-item2: '[* parse（）*]（https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--）メソッド[* IPdfConverter *]（https：// apireference）を使用してファイルを解析します。 .aspose.com / pub / java / com.aspose.pub / IPubParser）インターフェース。'
-item3: '[* convertToPdf（）*]（https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.Stringを使用してPUBをPDFに変換します-）[* IPdfConverter *]（https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter）インターフェースのメソッド。'
+item1: '[*CreateParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-）メソッド[*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory)クラス。'
+item2: '[*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--)[*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) インターフェース。'
+item3: '[*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) インターフェースのメソッド。'
 ---
 
 {{<section feature2>}}

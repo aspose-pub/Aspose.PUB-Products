@@ -26,9 +26,9 @@ p3: قبل تشغيل التحويل ، تحتاج إلى دمج C ++ PUB to PDF
 {{<section feature1>}}
 ---
 title: تحويل PUB إلى PDF على C ++
-item1: قم بتحميل ملف PUB عن طريق [* CreateParser () *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) طريقة [* PubFactory *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) فئة.
-item2: تحليل الملف باستخدام [* Parse () *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) طريقة [* IPubParser *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) الواجهة.
-item3: قم بتشغيل التحويل عن طريق [* ConvertToPdf () *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) طريقة [* IPdfConverter *](https://واجهةapireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
+item1: قم بتحميل ملف PUB عن طريق [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) طريقة [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) فئة.
+item2: تحليل الملف باستخدام [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) طريقة [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) الواجهة.
+item3: قم بتشغيل التحويل عن طريق [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) طريقة [*IPdfConverter*](https://واجهةapireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 ---
 
 {{<section feature2>}}

@@ -34,7 +34,7 @@ item1: "Για να μετατρέψουμε το PUB σε PDF, θα χρησι�
 title: Μετατροπή PUB σε PDF σε Java
 item1: Φόρτωση αρχείου PUB χρησιμοποιώντας τη μέθοδο [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) του [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Τάξη.
 item2: Ανάλυση αρχείου χρησιμοποιώντας [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Μέθοδος [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Διεπαφή.
-item3: Μετατροπή PUB σε PDF χρησιμοποιώντας [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String -) Μέθοδος διεπαφής [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
+item3: Μετατροπή PUB σε PDF χρησιμοποιώντας [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Μέθοδος διεπαφής [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
 ---
 
 {{<section feature2>}}

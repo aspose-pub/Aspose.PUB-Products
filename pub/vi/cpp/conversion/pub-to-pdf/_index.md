@@ -26,9 +26,9 @@ p3: Trước khi chạy chuyển đổi, bạn cần tích hợp C ++ PUB to PDF
 {{<section feature1>}}
 ---
 title: Chuyển đổi PUB sang PDF trên C ++
-item1: Tải tệp PUB bằng phương tiện [* CreateParser () *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Phương thức [* PubFactory *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Lớp.
-item2: Phân tích cú pháp tệp bằng [* Parse () *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Phương thức [* IPubParser *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Giao diện.
-item3: Chạy Chuyển đổi bằng [* ConvertToPdf () *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Phương thức [* IPdfConverter *](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Giao diện.
+item1: Tải tệp PUB bằng phương tiện [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Phương thức [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Lớp.
+item2: Phân tích cú pháp tệp bằng [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Phương thức [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Giao diện.
+item3: Chạy Chuyển đổi bằng [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Phương thức [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Giao diện.
 ---
 
 {{<section feature2>}}
