@@ -32,9 +32,9 @@ item1: "为了将 PUB 转换为 PDF，我们将使用 [Aspose.PUB for Java API](
 {{<section feature1>}}
 ---
 title: Java 上的 PUB 到 PDF 转换
-item1: 使用 [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) 的 [*PubFactory*] 方法加载 PUB 文件（https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory）类。
+item1: 使用 [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) 的  方法加载 PUB 文件[*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory）类。
 item2: 使用 [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) 方法解析文件 [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) 接口。
-item3: 使用 [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String 将 PUB 转换为 PDF -) [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) 接口的方法。
+item3: 使用 [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) 将 PUB 转换为 PDF [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) 接口的方法。
 ---
 
 {{<section feature2>}}

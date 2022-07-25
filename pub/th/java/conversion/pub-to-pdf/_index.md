@@ -34,7 +34,7 @@ item1: "ในการแปลง PUB เป็น PDF เราจะใช�
 title: การแปลง PUB เป็น PDF บน Java
 item1: โหลดไฟล์ PUB โดยใช้ [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) วิธีการของ [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) คลาส
 item2: แยกวิเคราะห์ไฟล์โดยใช้ [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) วิธีการของ [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) อินเทอร์เฟซ
-item3: แปลง PUB เป็น PDF โดยใช้ [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String -) วิธีการของอินเทอร์เฟซ [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter)
+item3: แปลง PUB เป็น PDF โดยใช้ [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) วิธีการของอินเทอร์เฟซ [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter)
 ---
 
 {{<section feature2>}}

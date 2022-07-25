@@ -28,9 +28,9 @@ title: Chuyển đổi tệp .pub của Nhà xuất bản
 item1: Hãy xem xét chức năng thông qua chuyển đổi PUB sang PDF.
 item2: "Quy trình Chuyển đổi của nhà xuất bản bao gồm các bước tiếp theo:"
 item3: Tích hợp Java PUB to PDF Converter API, API này không chỉ hoạt động với các tài liệu một trang mà còn hỗ trợ các tệp .pub nhiều trang.
-item4: Tải tệp PUB bằng cách sử dụng Lớp [* PubFactory *](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory).
-item5: CreateParser và Parse thông qua [* Parse * ()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Phương thức [* IPubParser *](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Giao diện.
-item6: Chạy chuyển đổi bằng [* ConvertToPdf * ()](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.io.OutputStream-) Phương thức.
+item4: Tải tệp PUB bằng cách sử dụng Lớp [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory).
+item5: CreateParser và Parse thông qua [*Parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Phương thức [*IPubParser*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Giao diện.
+item6: Chạy chuyển đổi bằng [*ConvertToPdf*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.io.OutputStream-) Phương thức.
 ---
 
 {{<section codeexample>}}

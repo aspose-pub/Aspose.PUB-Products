@@ -34,7 +34,7 @@ item1: "Чтобы преобразовать PUB в PDF, мы будем исп
 title: Преобразование PUB в PDF на Java
 item1: Загрузите файл PUB, используя метод [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Класс.
 item2: Разобрать файл с помощью метода [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) метода [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Интерфейс.
-item3: Преобразование PUB в PDF с помощью [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String -) Метод интерфейса [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
+item3: Преобразование PUB в PDF с помощью [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Метод интерфейса [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
 ---
 
 {{<section feature2>}}
