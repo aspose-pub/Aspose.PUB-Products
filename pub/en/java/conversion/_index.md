@@ -29,7 +29,7 @@ item1: Let’s look at the functionality through the PUB to PDF conversion.
 item2: "The publisher Conversion process consists of the next steps:"
 item3: Integrate Java PUB to PDF Converter API, which works not only with single-page documents but also supports multipage .pub files.
 item4: Load PUB file using the [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Class.
-item5: CreateParser and Parse via the [*Parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Method of the [*IPubParser*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Interface. 
+item5: Create Parser and Parse via the [*Parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Method of the [*IPubParser*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Interface. 
 item6: Run the conversion by means of the [*ConvertToPdf*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.io.OutputStream-) Method.
 ---
 
