@@ -26,16 +26,16 @@ p3: Prima di eseguire la conversione è necessario integrare l'API C++ PUB to PD
 {{<section feature1>}}
 ---
 title: Conversione da PUB a PDF su C++
-item1: Carica il file PUB tramite [*CreateParser()*](https://apiference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metodo di [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Classe.
+item1: Carica il file PUB tramite [*CreateParser()*](https://apiference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metodo di [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Classe.
 item2: Analizza il file utilizzando [*Parse()*](https://apiference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metodo di [*IPubParser*](https://apiference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) interfaccia.
-item3: Eseguire la conversione tramite il metodo [*ConvertToPdf()*](https://apiference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) di [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Interfaccia.
+item3: Eseguire la conversione tramite il metodo [*ConvertToPdf()*](https://apiference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) di [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Interfaccia.
 ---
 
 {{<section feature2>}}
 ---
 title: Inizia con l'API PUB C++
 item1: Installa dalla riga di comando come ```nuget install Aspose.PUB.cpp``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.PUB.cpp```.
-item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://downloads.aspose.com/pub/cpp).
+item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

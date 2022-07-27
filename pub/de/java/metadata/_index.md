@@ -35,9 +35,9 @@ item1: "Um PUB-Metadaten zu bearbeiten, verwenden wir [Aspose.PUB for Java API](
 ---
 title: Anzeigen und Bearbeiten von PUB-Metadaten in Java
 item1: "Der Leseprozess für Publisher-Metadaten besteht aus den nächsten Schritten:"
-item2: Laden Sie Ihre PUB-Datei mit [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Methode von [*PubFactory* ](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klasse.
-item3: Analysieren Sie die Datei über die Methode [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) von [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Schnittstelle.
-item4: Bearbeiten Sie Metadaten, z. B. Sprache, mittels [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Methode von [* DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Klasse.
+item2: Laden Sie Ihre PUB-Datei mit [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Methode von [*PubFactory* ](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klasse.
+item3: Analysieren Sie die Datei über die Methode [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) von [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Schnittstelle.
+item4: Bearbeiten Sie Metadaten, z. B. Sprache, mittels [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Methode von [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Klasse.
 ---
 
 {{<section feature2>}}

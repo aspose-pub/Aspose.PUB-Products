@@ -29,16 +29,16 @@ p4: A metaadatok kódolása előtt integrálnia kell a C++ PUB Metadata API-t. A
 ---
 title: PUB-metaadatok megtekintése és szerkesztése C++-on
 item1: "A kiadói metaadatok olvasási folyamata a következő lépésekből áll:"
-item2: 'Töltsd fel PUB-fájlodat a [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) módszerrel: [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Osztály.'
-item3: 'Fájl elemzése a következővel: [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Az [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interfész.'
-item4: Szerkessze a metaadatokat, például a kategóriát a  segítségével [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) a Metódusa [*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Osztály.
+item2: 'Töltsd fel PUB-fájlodat a [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) módszerrel: [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Osztály.'
+item3: 'Fájl elemzése a következővel: [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Az [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interfész.'
+item4: Szerkessze a metaadatokat, például a kategóriát a  segítségével [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) a Metódusa [*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Osztály.
 ---
 
 {{<section feature2>}}
 ---
 title: Ismerkedjen meg a CPP PUB API-val
 item1: Telepítés parancssorból ```nuget install Aspose.PUB.cpp```ként, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.PUB.cpp``` paranccsal.
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről [downloads](https://downloads.aspose.com/pub/cpp).
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

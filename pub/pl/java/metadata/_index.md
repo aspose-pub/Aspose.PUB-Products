@@ -35,9 +35,9 @@ item1: "Aby edytować metadane PUB, użyjemy [Aspose.PUB for Java API](https://p
 ---
 title: Przeglądaj i edytuj metadane PUB w Javie
 item1: "Proces odczytywania metadanych wydawcy składa się z następujących kroków:"
-item2: Prześlij swój plik PUB za pomocą [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) metody [*PubFactory* ](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klasa.
-item3: Przeanalizuj plik za pomocą metody [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser).
-item4: Edytuj metadane np. Język za pomocą [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metoda [* DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo).
+item2: Prześlij swój plik PUB za pomocą [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) metody [*PubFactory* ](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klasa.
+item3: Przeanalizuj plik za pomocą metody [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser).
+item4: Edytuj metadane np. Język za pomocą [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metoda [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo).
 ---
 
 {{<section feature2>}}

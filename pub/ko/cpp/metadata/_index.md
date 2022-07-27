@@ -29,16 +29,16 @@ p4: Metadata를 코딩하기 전에 C++ PUB Metadata API를 통합해야 합니�
 ---
 title: C++에서 PUB 메타데이터 보기 및 편집
 item1: "게시자 메타데이터 읽기 프로세스는 다음 단계로 구성됩니다."
-item2: '[*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) 메서드를 사용하여 PUB 파일을 업로드합니다. [*PubFactory*](https://apireference) .aspose.com/pub/cpp/class/aspose.pub.pub_factory) 클래스.'
-item3: '[*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915)를 통한 파일 구문 분석 [*IPubParser*](https://apireference.aspose) 메서드 .com/pub/cpp/class/aspose.pub.i_pub_parser) 인터페이스.'
-item4: '[*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) 메서드를 통해 메타데이터(예: 카테고리) 편집 [*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) 클래스.'
+item2: '[*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) 메서드를 사용하여 PUB 파일을 업로드합니다. [*PubFactory*](https://apireference) .aspose.com/pub/cpp/class/aspose.pub.pub_factory) 클래스.'
+item3: '[*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915)를 통한 파일 구문 분석 [*IPubParser*](https://apireference.aspose) 메서드 .com/pub/cpp/class/aspose.pub.i_pub_parser) 인터페이스.'
+item4: '[*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) 메서드를 통해 메타데이터(예: 카테고리) 편집 [*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) 클래스.'
 ---
 
 {{<section feature2>}}
 ---
 title: CPP PUB API 시작하기
 item1: 명령줄에서 ```nuget install Aspose.PUB.cpp```로 설치하거나 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.PUB.cpp```로 설치합니다.
-item2: 또는 [downloads](https://downloads.aspose.com/pub/cpp)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+item2: 또는 [downloads](https://releases.aspose.com/pub/cpp)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 ---
 
 {{<section codeexample>}}

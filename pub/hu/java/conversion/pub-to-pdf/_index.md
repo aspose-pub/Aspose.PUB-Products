@@ -32,9 +32,9 @@ item1: "A PUB PDF-be konvertálásához az Aspose.PUB for Java API fájlt haszn�
 {{<section feature1>}}
 ---
 title: PUB-ból PDF-be konvertálás Java-on
-item1: A PUB-fájl betöltése a [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) módszerével [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Osztály.
-item2: Fájl elemzése a [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) [*IPdfConverter*] módszerrel (https://apireference .aspose.com/pub/java/com.aspose.pub/IPubParser) Interfész.
-item3: PUB konvertálása PDF-be a [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String segítségével -) Az [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) interfész módszere.
+item1: A PUB-fájl betöltése a [*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) módszerével [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Osztály.
+item2: Fájl elemzése a [*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) [*IPdfConverter*] módszerrel (https://apireference .aspose.com/pub/java/com.aspose.pub/IPubParser) Interfész.
+item3: PUB konvertálása PDF-be a [*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String segítségével -) Az [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) interfész módszere.
 ---
 
 {{<section feature2>}}

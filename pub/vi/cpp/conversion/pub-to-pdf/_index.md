@@ -26,16 +26,16 @@ p3: Trước khi chạy chuyển đổi, bạn cần tích hợp C ++ PUB to PDF
 {{<section feature1>}}
 ---
 title: Chuyển đổi PUB sang PDF trên C ++
-item1: Tải tệp PUB bằng phương tiện [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Phương thức [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Lớp.
-item2: Phân tích cú pháp tệp bằng [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Phương thức [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Giao diện.
-item3: Chạy Chuyển đổi bằng [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Phương thức [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Giao diện.
+item1: Tải tệp PUB bằng phương tiện [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Phương thức [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Lớp.
+item2: Phân tích cú pháp tệp bằng [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Phương thức [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Giao diện.
+item3: Chạy Chuyển đổi bằng [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Phương thức [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Giao diện.
 ---
 
 {{<section feature2>}}
 ---
 title: Bắt đầu với C ++ PUB API
 item1: Cài đặt từ dòng lệnh với tên `` nuget install Aspose.PUB.cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.PUB.cpp ''.
-item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/pub/cpp).
+item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

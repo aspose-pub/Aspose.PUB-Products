@@ -28,9 +28,9 @@ title: 转换 Publisher .pub 文件
 item1: 让我们看看通过 PUB 到 PDF 转换的功能。
 item2: "发布者转换过程包括以下步骤："
 item3: 将 C++ PUB 集成到 PDF Converter API，它不仅适用于单页文档，还支持多页 .pub 文件。
-item4: 使用 [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) 类加载 PUB 文件。
-item5: 通过[*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915)方法创建Parser和Parse[*IPubParser*](https:///apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) 接口。
-item6: 通过 [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) 方法运行转换。
+item4: 使用 [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) 类加载 PUB 文件。
+item5: 通过[*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915)方法创建Parser和Parse[*IPubParser*](https:///apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) 接口。
+item6: 通过 [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) 方法运行转换。
 ---
 
 {{<section codeexample>}}

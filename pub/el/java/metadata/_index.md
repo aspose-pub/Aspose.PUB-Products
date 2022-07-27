@@ -35,9 +35,9 @@ item1: "Για να επεξεργαστούμε τα μεταδεδομένα P
 ---
 title: Προβολή και επεξεργασία μεταδεδομένων PUB σε Java
 item1: "Η διαδικασία ανάγνωσης μεταδεδομένων εκδότη αποτελείται από τα ακόλουθα βήματα:"
-item2: Ανεβάστε το αρχείο PUB χρησιμοποιώντας τη μέθοδο [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) της μεθόδου [*PubFactory* ](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Τάξη.
-item3: Ανάλυση αρχείου μέσω της μεθόδου [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) του [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Διεπαφή.
-item4: Επεξεργασία μεταδεδομένων π.χ. γλώσσα μέσω της μεθόδου [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) του [* DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Τάξη.
+item2: Ανεβάστε το αρχείο PUB χρησιμοποιώντας τη μέθοδο [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) της μεθόδου [*PubFactory* ](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Τάξη.
+item3: Ανάλυση αρχείου μέσω της μεθόδου [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) του [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Διεπαφή.
+item4: Επεξεργασία μεταδεδομένων π.χ. γλώσσα μέσω της μεθόδου [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) του [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Τάξη.
 ---
 
 {{<section feature2>}}

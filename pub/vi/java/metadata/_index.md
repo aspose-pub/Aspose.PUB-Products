@@ -35,9 +35,9 @@ item1: "Để chỉnh sửa siêu dữ liệu PUB, chúng tôi sẽ sử dụng 
 ---
 title: Xem và chỉnh sửa siêu dữ liệu PUB trên Java
 item1: "Quy trình đọc Siêu dữ liệu của nhà xuất bản bao gồm các bước tiếp theo:"
-item2: Tải lên tệp PUB của bạn bằng phương pháp [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) của [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Lớp.
-item3: Phân tích cú pháp tệp qua [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) phương thức [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Giao diện.
-item4: 'Chỉnh sửa siêu dữ liệu, ví dụ: Ngôn ngữ bằng [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Phương thức Lớp [*DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo).'
+item2: Tải lên tệp PUB của bạn bằng phương pháp [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) của [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Lớp.
+item3: Phân tích cú pháp tệp qua [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) phương thức [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Giao diện.
+item4: 'Chỉnh sửa siêu dữ liệu, ví dụ: Ngôn ngữ bằng [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Phương thức Lớp [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo).'
 ---
 
 {{<section feature2>}}

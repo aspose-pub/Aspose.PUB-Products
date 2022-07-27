@@ -29,16 +29,16 @@ p4: मेटाडेटा को कोड करने से पहले, 
 ---
 title: C++ पर पब मेटाडेटा देखें और संपादित करें
 item1: "प्रकाशक मेटाडेटा पढ़ने की प्रक्रिया में अगले चरण होते हैं:"
-item2: '[*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) विधि का उपयोग करके अपनी PUB फ़ाइल अपलोड करें [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) कक्षा।'
-item3: '[*पार्स*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) के माध्यम से पार्स फ़ाइल .com/pub/cpp/class/aspose.pub.i_pub_parser) इंटरफ़ेस।'
-item4: '[*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) कक्षा।'
+item2: '[*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) विधि का उपयोग करके अपनी PUB फ़ाइल अपलोड करें [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) कक्षा।'
+item3: '[*पार्स*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) के माध्यम से पार्स फ़ाइल .com/pub/cpp/class/aspose.pub.i_pub_parser) इंटरफ़ेस।'
+item4: '[*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) कक्षा।'
 ---
 
 {{<section feature2>}}
 ---
 title: सीपीपी पब एपीआई के साथ आरंभ करें
 item1: कमांड लाइन से ```nuget install Aspose.PUB.cpp``` के रूप में या ````Install-Package Aspose.PUB.cpp`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
-item2: वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/pub/cpp) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+item2: वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/pub/cpp) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 ---
 
 {{<section codeexample>}}

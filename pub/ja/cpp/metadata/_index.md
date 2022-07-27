@@ -29,16 +29,16 @@ p4: メタデータをコーディングする前に、C++PUBメタデータAPI�
 ---
 title: C++でのPUBメタデータの表示と編集
 item1: "パブリッシャーのメタデータ読み取りプロセスは、次のステップで構成されます。"
-item2: '[*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) メソッド[*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) クラス。'
-item3: '[*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) を介してファイルを解析する [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) インターフェース。'
-item4: '[*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec）メソッド[*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) クラス。'
+item2: '[*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) メソッド[*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) クラス。'
+item3: '[*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) を介してファイルを解析する [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) インターフェース。'
+item4: '[*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec）メソッド[*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) クラス。'
 ---
 
 {{<section feature2>}}
 ---
 title: CPP PUB APIの使用を開始する
 item1: コマンドラインから```nuget install Aspose.PUB.cpp```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.PUB.cpp```を使用してインストールします。
-item2: または、[downloads](https://downloads.aspose.com/pub/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+item2: または、[downloads](https://releases.aspose.com/pub/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 ---
 
 {{<section codeexample>}}

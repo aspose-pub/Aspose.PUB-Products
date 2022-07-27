@@ -42,7 +42,7 @@ C++ könyvtár a Microsoft Publisher fájlok olvasásához, betöltéséhez, sze
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak a szavunkat fogadja. Nézze meg, mit mondanak a felhasználók az Aspose-ról." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak a szavunkat fogadja. Nézze meg, mit mondanak a felhasználók az Aspose-ról." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

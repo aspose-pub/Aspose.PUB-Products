@@ -32,9 +32,9 @@ item1: "PUB를 PDF로 변환하기 위해 기능이 풍부하고 강력하며 �
 {{<section feature1>}}
 ---
 title: Java에서 PUB에서 PDF로 변환
-item1: '의 [*CreateParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) 메서드를 사용하여 PUB 파일 로드 [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) 클래스.'
-item2: '[*IPdfConverter*](https://apireference)의 [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) 메서드를 사용하여 파일 구문 분석 .aspose.com/pub/java/com.aspose.pub/IPubParser) 인터페이스.'
-item3: '[*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) 을 사용하여 PUB를 PDF로 변환합니다. [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) 인터페이스의 메소드.'
+item1: '의 [*CreateParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) 메서드를 사용하여 PUB 파일 로드 [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) 클래스.'
+item2: '[*IPdfConverter*](https://apireference)의 [*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) 메서드를 사용하여 파일 구문 분석 .aspose.com/pub/java/com.aspose.pub/IPubParser) 인터페이스.'
+item3: '[*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) 을 사용하여 PUB를 PDF로 변환합니다. [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) 인터페이스의 메소드.'
 ---
 
 {{<section feature2>}}

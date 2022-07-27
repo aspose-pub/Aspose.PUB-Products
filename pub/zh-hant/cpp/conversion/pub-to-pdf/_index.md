@@ -26,16 +26,16 @@ p3: 在運行轉換之前，您需要集成 C++ PUB to PDF Converter API，它�
 {{<section feature1>}}
 ---
 title: C++ 上的 PUB 到 PDF 轉換
-item1: 通過[*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b)方法加載PUB文件[*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) 類。
-item2: 使用 [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) 的方法解析文件 [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) 接口。
-item3: 通過 [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) 方法運行轉換 [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) 接口。
+item1: 通過[*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b)方法加載PUB文件[*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) 類。
+item2: 使用 [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) 的方法解析文件 [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) 接口。
+item3: 通過 [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) 方法運行轉換 [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) 接口。
 ---
 
 {{<section feature2>}}
 ---
 title: 開始使用 C++ PUB API
 item1: 從命令行安裝為 ```nuget install Aspose.PUB.cpp``` 或通過 Visual Studio 的包管理器控制台使用 ``Install-Package Aspose.PUB.cpp``。
-item2: 或者，從 [下載](https://downloads.aspose.com/pub/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+item2: 或者，從 [下載](https://releases.aspose.com/pub/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 ---
 
 {{<section codeexample>}}

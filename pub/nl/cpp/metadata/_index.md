@@ -29,16 +29,16 @@ p4: Voordat u Metadata codeert, moet u de C++ PUB Metadata API integreren. In he
 ---
 title: Bekijk en bewerk PUB-metadata op C++
 item1: "Het leesproces van de uitgever Metadata bestaat uit de volgende stappen:"
-item2: Upload uw PUB-bestand met [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Methode van [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) klasse.
-item3: Bestand ontleden via [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Methode van [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) interface.
-item4: Bewerk metadata, bijv. Categorie door middel van [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Methode van [*DocSummaryInfo*](https:/apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) klasse.
+item2: Upload uw PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Methode van [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) klasse.
+item3: Bestand ontleden via [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Methode van [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) interface.
+item4: Bewerk metadata, bijv. Categorie door middel van [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Methode van [*DocSummaryInfo*](https:/apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) klasse.
 ---
 
 {{<section feature2>}}
 ---
 title: Aan de slag met CPP PUB API
 item1: Installeer vanaf de opdrachtregel als ```nuget install Aspose.PUB.cpp``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.PUB.cpp```.
-item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://downloads.aspose.com/pub/cpp).
+item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

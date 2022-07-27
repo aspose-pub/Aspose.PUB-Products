@@ -29,16 +29,16 @@ p4: Avant de coder les métadonnées, vous devez intégrer l'API de métadonnée
 ---
 title: Afficher et modifier les métadonnées PUB sur C++
 item1: "Le processus de lecture des métadonnées de l'éditeur comprend les étapes suivantes :"
-item2: Téléchargez votre fichier PUB en utilisant [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Méthode de [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Classe.
-item3: Analyser le fichier via [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Méthode de [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser).
-item4: Modifier les métadonnées, par exemple la catégorie au moyen de [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Méthode de [*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Classe.
+item2: Téléchargez votre fichier PUB en utilisant [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Méthode de [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Classe.
+item3: Analyser le fichier via [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Méthode de [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser).
+item4: Modifier les métadonnées, par exemple la catégorie au moyen de [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Méthode de [*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Classe.
 ---
 
 {{<section feature2>}}
 ---
 title: Premiers pas avec l'API CPP PUB
 item1: Installez à partir de la ligne de commande en tant que ```nuget install Aspose.PUB.cpp``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.PUB.cpp```.
-item2: Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/pub/cpp).
+item2: Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

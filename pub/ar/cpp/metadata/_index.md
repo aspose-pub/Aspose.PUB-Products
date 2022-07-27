@@ -29,16 +29,16 @@ p4: قبل تشفير البيانات الوصفية ، تحتاج إلى دم�
 ---
 title: عرض وتحرير PUB Metadata على C ++
 item1: "تتكون عملية قراءة البيانات الوصفية للناشر من الخطوات التالية:"
-item2: قم بتحميل ملف PUB الخاص بك باستخدام [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) طريقة [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) فئة.
-item3: تحليل الملف عبر [*تحليل *()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) طريقة [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) الواجهة.
-item4: تحرير البيانات الوصفية ، على سبيل المثال الفئة عن طريق [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) طريقة [*DocSummaryInfo*](https:/DocSummaryInfo*]/apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) فئة.
+item2: قم بتحميل ملف PUB الخاص بك باستخدام [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) طريقة [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) فئة.
+item3: تحليل الملف عبر [*تحليل *()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) طريقة [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) الواجهة.
+item4: تحرير البيانات الوصفية ، على سبيل المثال الفئة عن طريق [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) طريقة [*DocSummaryInfo*](https:/DocSummaryInfo*]/apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) فئة.
 ---
 
 {{<section feature2>}}
 ---
 title: ابدأ مع CPP PUB API
 item1: قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.PUB.cpp '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.PUB.cpp ''.
-item2: بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://downloads.aspose.com/pub/cpp).
+item2: بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

@@ -7,11 +7,11 @@ metakeywords: Java para PUB, solução Java PUB, Java PUb, biblioteca Java pub
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs de manipulação de arquivos Java PUB" h2="Carregue e converta PUB para PDF em aplicativos baseados em Java sem nenhuma dependência de software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/pub/java" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIs de manipulação de arquivos Java PUB" h2="Carregue e converta PUB para PDF em aplicativos baseados em Java sem nenhuma dependência de software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/pub/java" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Editor:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub" directDownloadLink="https://downloads.aspose.com/pub/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Editor:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub" directDownloadLink="https://releases.aspose.com/pub/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -323,7 +323,7 @@ O MS Publisher salva arquivos com extensão .pub e não muitos aplicativos além
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/pub/java/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-pub/Aspose.PUB-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/pub/java" >}}
+{{< blocks/products/pf/slr-element name="Referências de API" href="https://reference.aspose.com/pub/java" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -341,7 +341,7 @@ O MS Publisher salva arquivos com extensão .pub e não muitos aplicativos além
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/java" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="O Aspose.PUB oferece APIs de processamento de PUB individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
 

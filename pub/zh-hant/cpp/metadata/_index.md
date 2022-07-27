@@ -29,16 +29,16 @@ p4: 在編碼元數據之前，您需要集成 C++ PUB 元數據 API。以下示
 ---
 title: 在 C++ 上查看和編輯 PUB 元數據
 item1: "發布者元數據讀取過程包括以下步驟："
-item2: 使用 [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) 方法 [*PubFactory*](https://apireference) 上傳您的 PUB 文件.aspose.com/pub/cpp/class/aspose.pub.pub_factory) 類。
-item3: 通過[*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915)方法解析文件[*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) 接口。
-item4: 通過 [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) 方法編輯元數​​據，例如類別 [*DocSummaryInfo*](https:///apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) 類。
+item2: 使用 [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) 方法 [*PubFactory*](https://apireference) 上傳您的 PUB 文件.aspose.com/pub/cpp/class/aspose.pub.pub_factory) 類。
+item3: 通過[*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915)方法解析文件[*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) 接口。
+item4: 通過 [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) 方法編輯元數​​據，例如類別 [*DocSummaryInfo*](https:///apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) 類。
 ---
 
 {{<section feature2>}}
 ---
 title: 開始使用 CPP PUB API
 item1: 從命令行安裝為 ```nuget install Aspose.PUB.cpp``` 或通過 Visual Studio 的包管理器控制台使用 ``Install-Package Aspose.PUB.cpp``。
-item2: 或者，從 [下載](https://downloads.aspose.com/pub/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+item2: 或者，從 [下載](https://releases.aspose.com/pub/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 ---
 
 {{<section codeexample>}}

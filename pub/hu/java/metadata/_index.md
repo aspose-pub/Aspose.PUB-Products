@@ -35,9 +35,9 @@ item1: "A PUB-metaadatok szerkesztéséhez az [Aspose.PUB for Java API](https://
 ---
 title: PUB-metaadatok megtekintése és szerkesztése Java-on
 item1: "A kiadói metaadatok olvasási folyamata a következő lépésekből áll:"
-item2: Töltse fel PUB-fájlját a [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) módszerével [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Osztály.
-item3: A fájl elemzése a [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) metódusával [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Interfész.
-item4: Szerkessze a metaadatokat, például a nyelvet a [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) módszerrel a [*DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Osztály.
+item2: Töltse fel PUB-fájlját a [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) módszerével [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Osztály.
+item3: A fájl elemzése a [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) metódusával [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Interfész.
+item4: Szerkessze a metaadatokat, például a nyelvet a [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) módszerrel a [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Osztály.
 ---
 
 {{<section feature2>}}

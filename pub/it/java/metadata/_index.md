@@ -37,7 +37,7 @@ title: Visualizza e modifica i metadati PUB su Java
 item1: "Il processo di lettura dei metadati dell'editore consiste nei seguenti passaggi:"
 item2: Carica il tuo file PUB utilizzando [*createParser*()](https://apiference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metodo di [*PubFactory* ](https://apiference.aspose.com/pub/java/com.aspose.pub/PubFactory) Classe.
 item3: Analizza il file tramite il metodo [*parse*()](https://apiference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) di [*IPdfConverter*](https://afireference.aspose.com/pub/java/com.aspose.pub/IPubParser) interfaccia.
-item4: Modifica i metadati, ad es. Lingua per mezzo di [*setLanguage*()](https://apiference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metodo di [* DocSummaryInfo*](https://apiference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Classe.
+item4: Modifica i metadati, ad es. Lingua per mezzo di [*setLanguage*()](https://apiference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metodo di [*DocSummaryInfo*](https://apiference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Classe.
 ---
 
 {{<section feature2>}}

@@ -28,9 +28,9 @@ title: A Publisher .pub fájlok konvertálása
 item1: Nézzük meg a funkcionalitást a PUB-ból PDF-be konvertáláson keresztül.
 item2: "A megjelenítői konverziós folyamat a következő lépésekből áll:"
 item3: Integrálja a C++ PUB to PDF Converter API-t, amely nem csak egyoldalas dokumentumokkal működik, hanem támogatja a többoldalas .pub fájlokat is.
-item4: Töltse be a PUB-fájlt a [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) osztály használatával.
-item5: Hozzon létre elemzőt és elemzőt a [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) metódusával a[*IPub:Parser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interfész.
-item6: Futtassa az átalakítást a [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) módszerrel.
+item4: Töltse be a PUB-fájlt a [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) osztály használatával.
+item5: Hozzon létre elemzőt és elemzőt a [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) metódusával a[*IPub:Parser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interfész.
+item6: Futtassa az átalakítást a [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) módszerrel.
 ---
 
 {{<section codeexample>}}

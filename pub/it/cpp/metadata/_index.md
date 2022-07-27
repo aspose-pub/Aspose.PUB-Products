@@ -29,16 +29,16 @@ p4: Prima di codificare i metadati, è necessario integrare l'API dei metadati P
 ---
 title: Visualizza e modifica i metadati PUB su C++
 item1: "Il processo di lettura dei metadati dell'editore consiste nei seguenti passaggi:"
-item2: Carica il tuo file PUB utilizzando [*CreateParser*()](https://apiference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metodo di [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Classe.
+item2: Carica il tuo file PUB utilizzando [*CreateParser*()](https://apiference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metodo di [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Classe.
 item3: Analizza il file tramite [*Parse*()](https://apiference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metodo di [*IPubParser*](https://apiference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) interfaccia.
-item4: Modifica i metadati, ad es. Categoria mediante [*SetCategory*()](https://apiference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Metodo di [*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Classe.
+item4: Modifica i metadati, ad es. Categoria mediante [*SetCategory*()](https://apiference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Metodo di [*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Classe.
 ---
 
 {{<section feature2>}}
 ---
 title: Inizia con l'API PUB CPP
 item1: Installa dalla riga di comando come ```nuget install Aspose.PUB.cpp``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.PUB.cpp```.
-item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://downloads.aspose.com/pub/cpp).
+item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

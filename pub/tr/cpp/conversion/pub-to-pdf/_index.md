@@ -26,16 +26,16 @@ p3: Dönüştürmeyi çalıştırmadan önce, yalnızca tek sayfalık belgelerle
 {{<section feature1>}}
 ---
 title: C++'da PUB'dan PDF'ye Dönüştürme
-item1: PUB dosyasını [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) [*PubFactory*](https://) aracılığıyla yükleyin apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Sınıf.
-item2: '[*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) kullanarak dosyayı ayrıştırın [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) Arayüz.'
-item3: Dönüştürmeyi [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Yöntemiyle çalıştırın [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Arayüz.
+item1: PUB dosyasını [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) [*PubFactory*](https://) aracılığıyla yükleyin apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Sınıf.
+item2: '[*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) kullanarak dosyayı ayrıştırın [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) Arayüz.'
+item3: Dönüştürmeyi [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Yöntemiyle çalıştırın [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Arayüz.
 ---
 
 {{<section feature2>}}
 ---
 title: C++ PUB API'sini Kullanmaya Başlayın
 item1: Komut satırından ``nuget install Aspose.PUB.cpp``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.PUB.cpp`` ile kurun.
-item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://downloads.aspose.com/pub/cpp) adresinden bir ZIP dosyasında alın.
+item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/pub/cpp) adresinden bir ZIP dosyasında alın.
 ---
 
 {{<section codeexample>}}

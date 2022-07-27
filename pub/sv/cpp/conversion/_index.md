@@ -28,9 +28,9 @@ title: Konvertera Publisher .pub-filer
 item1: Låt oss titta på funktionaliteten genom PUB till PDF-konvertering.
 item2: "Utgivarkonverteringsprocessen består av följande steg:"
 item3: Integrera C++ PUB till PDF Converter API, som inte bara fungerar med ensidiga dokument utan också stöder flersidiga .pub-filer.
-item4: Ladda PUB-fil med klassen [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
-item5: Skapa Parser och Parse via metoden [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) för[*IPubPar](https:/erPars) /apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Gränssnitt.
-item6: Kör konverteringen med metoden [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
+item4: Ladda PUB-fil med klassen [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
+item5: Skapa Parser och Parse via metoden [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) för[*IPubPar](https:/erPars) /apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Gränssnitt.
+item6: Kör konverteringen med metoden [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 ---
 
 {{<section codeexample>}}

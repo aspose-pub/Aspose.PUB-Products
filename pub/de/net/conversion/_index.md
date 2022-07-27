@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-net.md
-title: PUB Converter API-Lösung | .NETZ
+title: PUB Converter API-Lösung | .NET
 url: /net/conversion/
 description: Konvertieren Sie Microsoft Publisher-Dateien programmgesteuert über die C#-Bibliothek. Einfache API-Lösung zum Erstellen Ihres PUB-Konverter-.NET-Projekts.
 metakeywords: Pub-Net-Konverter, Pub-Datei-Netto konvertieren, Pub-C#-Konverter, Pub-Datei-C# konvertieren

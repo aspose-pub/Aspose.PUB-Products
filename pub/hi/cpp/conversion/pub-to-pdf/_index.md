@@ -26,16 +26,16 @@ p3: रूपांतरण चलाने से पहले आपको C+
 {{<section feature1>}}
 ---
 title: C++ पर PUB से PDF रूपांतरण
-item1: '[*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) विधि के माध्यम से PUB फ़ाइल लोड करें [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) कक्षा।'
-item2: '[Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) का उपयोग करके पार्स फ़ाइल [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) इंटरफ़ेस।'
-item3: '[ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) के माध्यम से रूपांतरण चलाएँ [*IPdfConverter*] की विधि (https:// apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) इंटरफ़ेस।'
+item1: '[*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) विधि के माध्यम से PUB फ़ाइल लोड करें [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) कक्षा।'
+item2: '[Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) का उपयोग करके पार्स फ़ाइल [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) इंटरफ़ेस।'
+item3: '[ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) के माध्यम से रूपांतरण चलाएँ [*IPdfConverter*] की विधि (https:// apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) इंटरफ़ेस।'
 ---
 
 {{<section feature2>}}
 ---
 title: सी++ पब एपीआई के साथ आरंभ करें
 item1: कमांड लाइन से ```nuget install Aspose.PUB.cpp``` के रूप में या ````Install-Package Aspose.PUB.cpp`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
-item2: वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/pub/cpp) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+item2: वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/pub/cpp) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 ---
 
 {{<section codeexample>}}

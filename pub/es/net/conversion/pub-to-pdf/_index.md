@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-child-net.md
-title: Convertir PUB a PDF | .RED
+title: Convertir PUB a PDF | .NET
 description: Convierta PUB a PDF usando .NET API en Windows, Linux y Mac OS X. Funcionalidad de conversión de Publisher que es fácil de integrar en su propia solución.
 url: /net/conversion/pub-to-pdf/
 metakeywords: pub a pdf net, convertir pub a pdf net, pub a pdf c# convertidor, convertir pub a pdf c#, pub a pdf c#
@@ -26,16 +26,16 @@ p3: Antes de ejecutar la conversión, debe integrar .NET PUB to PDF Converter AP
 {{<section feature1>}}
 ---
 title: Conversión de PUB a PDF en .NET
-item1: Cargue el archivo PUB usando [*CreateParser*()](https://apireference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Método de [*PubFactory*](https://apireference.aspose.com/pub/net/aspose.pub/pubfactory) Clase.
-item2: Analizar archivo por medio de [*Parse*()](https://apireference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Método de [*IPubParser*](https://apireference.aspose.com/pub/net/aspose.pub/ipubparser) Interfaz.
-item3: Convierta PUB a PDF mediante [*ConvertToPdf*()](https://apireference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Método de [*IPdfConverter*](https://apireference.aspose.com/pub/net/aspose.pub/ipdfconverter) Interfaz.
+item1: Cargue el archivo PUB usando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Método de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Clase.
+item2: Analizar archivo por medio de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Método de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Interfaz.
+item3: Convierta PUB a PDF mediante [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Método de [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) Interfaz.
 ---
 
 {{<section feature2>}}
 ---
 title: Introducción a la API de .NET PUB
 item1: Instale desde la línea de comandos como ```nuget install Aspose.PUB``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.PUB```.
-item2: Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://downloads.aspose.com/pub/net).
+item2: Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/pub/net).
 ---
 
 {{<section codeexample>}}

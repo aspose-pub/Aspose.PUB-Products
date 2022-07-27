@@ -26,16 +26,16 @@ p3: Az átalakítás futtatása előtt integrálnia kell a C++ PUB to PDF Conver
 {{<section feature1>}}
 ---
 title: Konverzió PUB-ból PDF-be C++-on
-item1: 'A PUB-fájl betöltése a [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) módszerrel: [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Osztály.'
-item2: 'A fájl elemzése a [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) módszerrel: [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interfész.'
-item3: 'Futtassa a konverziót a [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) módszerrel: [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Interfész.'
+item1: 'A PUB-fájl betöltése a [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) módszerrel: [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Osztály.'
+item2: 'A fájl elemzése a [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) módszerrel: [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interfész.'
+item3: 'Futtassa a konverziót a [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) módszerrel: [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Interfész.'
 ---
 
 {{<section feature2>}}
 ---
 title: Kezdje el a C++ PUB API-t
 item1: Telepítés parancssorból ```nuget install Aspose.PUB.cpp```ként, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.PUB.cpp``` paranccsal.
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről [downloads](https://downloads.aspose.com/pub/cpp).
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

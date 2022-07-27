@@ -32,9 +32,9 @@ item1: "För att konvertera PUB till PDF kommer vi att använda [Aspose.PUB för
 {{<section feature1>}}
 ---
 title: PUB till PDF-konvertering på Java
-item1: Ladda PUB-fil med [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metoden [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klass.
-item2: Analysera fil med [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Metoden för [*IFFConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Gränssnitt.
-item3: Konvertera PUB till PDF med [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IFFConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Metod för [*IFFConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IFFConverter) gränssnitt.
+item1: Ladda PUB-fil med [*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metoden [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klass.
+item2: Analysera fil med [*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Metoden för [*IFFConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Gränssnitt.
+item3: Konvertera PUB till PDF med [*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IFFConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Metod för [*IFFConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IFFConverter) gränssnitt.
 ---
 
 {{<section feature2>}}

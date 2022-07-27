@@ -26,16 +26,16 @@ p3: Innan du kör konverteringen måste du integrera C++ PUB till PDF Converter 
 {{<section feature1>}}
 ---
 title: PUB till PDF-konvertering på C++
-item1: Ladda PUB-fil med hjälp av [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metod för [*PubFactory*] apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Klass.
-item2: Analysera fil med [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metod för [*IPubParserpire*](https://poseapire*]..com/pub/cpp/class/aspose.pub.i_pub_parser) Gränssnitt.
-item3: Kör omvandlingen med hjälp av [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Metoden för [*ICFConverter*](https://ICDFConverter*]apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Gränssnitt.
+item1: Ladda PUB-fil med hjälp av [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metod för [*PubFactory*] apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Klass.
+item2: Analysera fil med [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metod för [*IPubParserpire*](https://poseapire*]..com/pub/cpp/class/aspose.pub.i_pub_parser) Gränssnitt.
+item3: Kör omvandlingen med hjälp av [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Metoden för [*ICFConverter*](https://ICDFConverter*]apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Gränssnitt.
 ---
 
 {{<section feature2>}}
 ---
 title: Kom igång med C++ PUB API
 item1: Installera från kommandoraden som ```nuget install Aspose.PUB.cpp``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.PUB.cpp```.
-item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://downloads.aspose.com/pub/cpp).
+item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

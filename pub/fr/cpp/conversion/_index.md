@@ -28,9 +28,9 @@ title: Convertir les fichiers Publisher .pub
 item1: Regardons la fonctionnalité via la conversion PUB en PDF.
 item2: "Le processus de conversion de l'éditeur comprend les étapes suivantes :"
 item3: Intégrez l'API C++ PUB to PDF Converter, qui fonctionne non seulement avec des documents d'une seule page, mais prend également en charge les fichiers .pub multipages.
-item4: Chargez le fichier PUB à l'aide de la classe [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
-item5: Créez un analyseur et analysez via la méthode [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) de la méthode [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser).
-item6: Exécutez la conversion au moyen de la méthode [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
+item4: Chargez le fichier PUB à l'aide de la classe [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
+item5: Créez un analyseur et analysez via la méthode [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) de la méthode [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser).
+item6: Exécutez la conversion au moyen de la méthode [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 ---
 
 {{<section codeexample>}}

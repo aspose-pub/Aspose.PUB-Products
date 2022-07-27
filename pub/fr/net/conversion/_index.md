@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-net.md
-title: Solution d'API de convertisseur PUB | .RAPPORTER
+title: Solution d'API de convertisseur PUB | .NET
 url: /net/conversion/
 description: Convertissez des fichiers Microsoft Publisher par programmation via C# .NET. Solution API simple pour créer votre projet Java de convertisseur PUB.
 metakeywords: convertisseur net pub, convertir le fichier pub net, convertisseur pub c#, convertir le fichier pub c#

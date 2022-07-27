@@ -35,9 +35,9 @@ item1: "为了编辑 PUB 元数据，我们将使用 [Aspose.PUB for Java API](h
 ---
 title: 在 Java 上查看和编辑 PUB 元数据
 item1: "发布者元数据读取过程包括以下步骤："
-item2: 使用 [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-)的方法上传您的 [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) 类。
-item3: 通过 [*IPdfConverter*](https://apireference) 的 [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) 方法解析文件.aspose.com/pub/java/com.aspose.pub/IPubParser) 接口。
-item4: 通过 [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) 方法编辑元数据，例如语言 [*DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) 类。
+item2: 使用 [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-)的方法上传您的 [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) 类。
+item3: 通过 [*IPdfConverter*](https://apireference) 的 [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) 方法解析文件.aspose.com/pub/java/com.aspose.pub/IPubParser) 接口。
+item4: 通过 [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) 方法编辑元数据，例如语言 [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) 类。
 ---
 
 {{<section feature2>}}

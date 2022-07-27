@@ -32,9 +32,9 @@ item1: "Untuk mengonversi PUB ke PDF, kami akan menggunakan [Aspose.PUB for Java
 {{<section feature1>}}
 ---
 title: Konversi PUB ke PDF di Java
-item1: Muat file PUB menggunakan [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metode [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Kelas.
-item2: Parsing file menggunakan [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Metode [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Antarmuka.
-item3: Konversi PUB ke PDF menggunakan [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Metode Antarmuka [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
+item1: Muat file PUB menggunakan [*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metode [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Kelas.
+item2: Parsing file menggunakan [*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Metode [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Antarmuka.
+item3: Konversi PUB ke PDF menggunakan [*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Metode Antarmuka [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
 ---
 
 {{<section feature2>}}

@@ -35,9 +35,9 @@ item1: "Abychom mohli upravit metadata PUB, použijeme [Aspose.PUB for Java API]
 ---
 title: Zobrazení a úprava metadat PUB v Javě
 item1: "Proces čtení metadat vydavatele se skládá z následujících kroků:"
-item2: Nahrajte svůj soubor PUB pomocí metody [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) metody [*PubFactory* ](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Třída.
-item3: Analyzujte soubor pomocí [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) metody [*IPdfConverter*](https://apireferenceRozhraní.aspose.com/pub/java/com.aspose.pub/IPubParser).
-item4: Upravte metadata, např. jazyk, pomocí [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metoda [* DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Třída.
+item2: Nahrajte svůj soubor PUB pomocí metody [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) metody [*PubFactory* ](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Třída.
+item3: Analyzujte soubor pomocí [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) metody [*IPdfConverter*](https://apireferenceRozhraní.aspose.com/pub/java/com.aspose.pub/IPubParser).
+item4: Upravte metadata, např. jazyk, pomocí [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metoda [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Třída.
 ---
 
 {{<section feature2>}}

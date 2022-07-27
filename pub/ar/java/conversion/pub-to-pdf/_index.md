@@ -32,9 +32,9 @@ item1: "من أجل تحويل PUB إلى PDF ، سنستخدم [Aspose.PUB for 
 {{<section feature1>}}
 ---
 title: PUB لتحويل PDF على جافا
-item1: قم بتحميل ملف PUB باستخدام [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) طريقة [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) فئة.
-item2: تحليل الملف باستخدام [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) طريقة [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) الواجهة.
-item3: قم بتحويل PUB إلى PDF باستخدام [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) طريقة واجهة [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
+item1: قم بتحميل ملف PUB باستخدام [*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) طريقة [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) فئة.
+item2: تحليل الملف باستخدام [*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) طريقة [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) الواجهة.
+item3: قم بتحويل PUB إلى PDF باستخدام [*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) طريقة واجهة [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
 ---
 
 {{<section feature2>}}

@@ -35,9 +35,9 @@ item1: "पब मेटाडेटा को संपादित करन�
 ---
 title: जावा पर पब मेटाडेटा देखें और संपादित करें
 item1: "प्रकाशक मेटाडेटा पढ़ने की प्रक्रिया में अगले चरण होते हैं:"
-item2: '[*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) विधि का उपयोग करके अपनी PUB फ़ाइल अपलोड करें [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) क्लास।'
-item3: '[*IPdfConverter*](https://apireference) की विधि से पार्स फ़ाइल [*पार्स*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) .aspose.com/pub/java/com.aspose.pub/IPubParser) इंटरफ़ेस।'
-item4: '[*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) विधि द्वारा मेटाडेटा संपादित करें जैसे भाषा DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) क्लास।'
+item2: '[*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) विधि का उपयोग करके अपनी PUB फ़ाइल अपलोड करें [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) क्लास।'
+item3: '[*IPdfConverter*](https://apireference) की विधि से पार्स फ़ाइल [*पार्स*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) .aspose.com/pub/java/com.aspose.pub/IPubParser) इंटरफ़ेस।'
+item4: '[*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) विधि द्वारा मेटाडेटा संपादित करें जैसे भाषा DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) क्लास।'
 ---
 
 {{<section feature2>}}

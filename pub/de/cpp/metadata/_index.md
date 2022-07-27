@@ -29,16 +29,16 @@ p4: Vor dem Codieren von Metadaten müssen Sie die C++ PUB-Metadaten-API integri
 ---
 title: Anzeigen und Bearbeiten von PUB-Metadaten in C++
 item1: "Der Leseprozess für Publisher-Metadaten besteht aus den nächsten Schritten:"
-item2: Laden Sie Ihre PUB-Datei mit [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Methode von [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Klasse.
-item3: Analysieren Sie die Datei über [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Methode von [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Schnittstelle.
-item4: Metadaten bearbeiten z.B. Kategorie mittels [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Methode von [*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Klasse.
+item2: Laden Sie Ihre PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Methode von [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Klasse.
+item3: Analysieren Sie die Datei über [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Methode von [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Schnittstelle.
+item4: Metadaten bearbeiten z.B. Kategorie mittels [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Methode von [*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Klasse.
 ---
 
 {{<section feature2>}}
 ---
 title: Erste Schritte mit der CPP PUB-API
 item1: Installieren Sie von der Befehlszeile als ```nuget install Aspose.PUB.cpp``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.PUB.cpp```.
-item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://downloads.aspose.com/pub/cpp) herunterladen.
+item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/pub/cpp) herunterladen.
 ---
 
 {{<section codeexample>}}

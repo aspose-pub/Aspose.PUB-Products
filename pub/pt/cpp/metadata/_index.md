@@ -29,16 +29,16 @@ p4: Antes de codificar metadados, você precisa integrar a API de metadados C++ 
 ---
 title: Visualizar e editar metadados de PUB em C++
 item1: "O processo de leitura de metadados do editor consiste nas próximas etapas:"
-item2: Carregue seu arquivo PUB usando [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Método de [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Class.
-item3: Analisar arquivo via [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Método de [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interface.
-item4: Edite metadados, por exemplo, Categoria por meio de [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Método de [*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Classe.
+item2: Carregue seu arquivo PUB usando [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Método de [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Class.
+item3: Analisar arquivo via [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Método de [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interface.
+item4: Edite metadados, por exemplo, Categoria por meio de [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Método de [*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Classe.
 ---
 
 {{<section feature2>}}
 ---
 title: Introdução à API CPP PUB
 item1: Instale a partir da linha de comando como ```nuget install Aspose.PUB.cpp``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.PUB.cpp```.
-item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://downloads.aspose.com/pub/cpp).
+item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

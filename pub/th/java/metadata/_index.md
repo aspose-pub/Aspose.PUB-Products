@@ -35,9 +35,9 @@ item1: "ในการแก้ไขข้อมูลเมตาของ PU
 ---
 title: ดูและแก้ไขข้อมูลเมตาของ PUB บน Java
 item1: "กระบวนการอ่านข้อมูลเมตาของผู้จัดพิมพ์ประกอบด้วยขั้นตอนถัดไป:"
-item2: อัปโหลดไฟล์ PUB ของคุณโดยใช้ [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) วิธีการของ [*PubFactory* ](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) คลาส
-item3: แยกวิเคราะห์ไฟล์ผ่าน [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) วิธีการของ [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) อินเทอร์เฟซ
-item4: แก้ไขข้อมูลเมตา เช่น ภาษาโดยใช้ [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) วิธีการของ [* DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) คลาส
+item2: อัปโหลดไฟล์ PUB ของคุณโดยใช้ [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) วิธีการของ [*PubFactory* ](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) คลาส
+item3: แยกวิเคราะห์ไฟล์ผ่าน [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) วิธีการของ [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) อินเทอร์เฟซ
+item4: แก้ไขข้อมูลเมตา เช่น ภาษาโดยใช้ [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) วิธีการของ [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) คลาส
 ---
 
 {{<section feature2>}}

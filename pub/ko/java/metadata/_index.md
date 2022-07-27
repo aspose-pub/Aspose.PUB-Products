@@ -35,9 +35,9 @@ item1: "PUB 메타데이터를 편집하기 위해 기능이 풍부하고 강력
 ---
 title: Java에서 PUB 메타데이터 보기 및 편집
 item1: "게시자 메타데이터 읽기 프로세스는 다음 단계로 구성됩니다."
-item2: '[*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) 메서드를 사용하여 PUB 파일을 업로드합니다. ](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) 클래스.'
-item3: '[*IPdfConverter*](https://apireference)의 [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) 메소드를 통한 파싱 파일 .aspose.com/pub/java/com.aspose.pub/IPubParser) 인터페이스.'
-item4: '[*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-)를 통해 메타데이터(예: 언어) 편집 [* DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) 클래스.'
+item2: '[*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) 메서드를 사용하여 PUB 파일을 업로드합니다. ](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) 클래스.'
+item3: '[*IPdfConverter*](https://apireference)의 [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) 메소드를 통한 파싱 파일 .aspose.com/pub/java/com.aspose.pub/IPubParser) 인터페이스.'
+item4: '[*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-)를 통해 메타데이터(예: 언어) 편집 [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) 클래스.'
 ---
 
 {{<section feature2>}}

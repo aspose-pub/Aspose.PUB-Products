@@ -35,9 +35,9 @@ item1: "PUB Meta Verilerini Düzenlemek için, zengin özelliklere sahip, güçl
 ---
 title: Java'da PUB Meta Verilerini Görüntüleme ve Düzenleme
 item1: "Yayıncı Meta Veri okuma süreci aşağıdaki adımlardan oluşur:"
-item2: '[*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) yöntemini kullanarak PUB dosyanızı yükleyin [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Sınıf.'
-item3: Dosyayı [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) yöntemiyle ayrıştırın [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Arayüzü.
-item4: Meta verileri düzenleyin, örneğin [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) aracılığıyla Dil  Yöntemi [*DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Sınıf.
+item2: '[*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) yöntemini kullanarak PUB dosyanızı yükleyin [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Sınıf.'
+item3: Dosyayı [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) yöntemiyle ayrıştırın [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Arayüzü.
+item4: Meta verileri düzenleyin, örneğin [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) aracılığıyla Dil  Yöntemi [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Sınıf.
 ---
 
 {{<section feature2>}}

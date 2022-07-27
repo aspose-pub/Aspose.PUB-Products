@@ -29,16 +29,16 @@ p4: Innan du kodar metadata måste du integrera C++ PUB Metadata API. Följande 
 ---
 title: Visa och redigera PUB-metadata på C++
 item1: "Läsprocessen för utgivarens metadata består av följande steg:"
-item2: Ladda upp din PUB-fil med [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metoden [*PubFactory*](https://apireference*](.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Klass.
-item3: Analysera fil via [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metod för [*IPubParserpire*].https://poseapire*]. .com/pub/cpp/class/aspose.pub.i_pub_parser) Gränssnitt.
-item4: Redigera metadata, t.ex. Kategori med hjälp av [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Metod för [*Info*](Sammanfattning:https:info*) /apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Klass.
+item2: Ladda upp din PUB-fil med [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metoden [*PubFactory*](https://apireference*](.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Klass.
+item3: Analysera fil via [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metod för [*IPubParserpire*].https://poseapire*]. .com/pub/cpp/class/aspose.pub.i_pub_parser) Gränssnitt.
+item4: Redigera metadata, t.ex. Kategori med hjälp av [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) Metod för [*Info*](Sammanfattning:https:info*) /apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Klass.
 ---
 
 {{<section feature2>}}
 ---
 title: Kom igång med CPP PUB API
 item1: Installera från kommandoraden som ```nuget install Aspose.PUB.cpp``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.PUB.cpp```.
-item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://downloads.aspose.com/pub/cpp).
+item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

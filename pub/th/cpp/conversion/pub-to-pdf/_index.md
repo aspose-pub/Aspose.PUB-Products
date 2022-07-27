@@ -26,16 +26,16 @@ p3: ก่อนทำการแปลง คุณต้องรวม C++ P
 {{<section feature1>}}
 ---
 title: การแปลง PUB เป็น PDF บน C++
-item1: โหลดไฟล์ PUB โดยใช้ [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) วิธีการของ [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) คลาส
-item2: แยกวิเคราะห์ไฟล์โดยใช้ [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) วิธีการของ [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) อินเทอร์เฟซ
-item3: เรียกใช้การแปลงโดยใช้ [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) วิธีการของ [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) อินเทอร์เฟซ
+item1: โหลดไฟล์ PUB โดยใช้ [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) วิธีการของ [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) คลาส
+item2: แยกวิเคราะห์ไฟล์โดยใช้ [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) วิธีการของ [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) อินเทอร์เฟซ
+item3: เรียกใช้การแปลงโดยใช้ [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) วิธีการของ [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) อินเทอร์เฟซ
 ---
 
 {{<section feature2>}}
 ---
 title: เริ่มต้นใช้งาน C++ PUB API
 item1: ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.PUB.cpp``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.PUB.cpp```
-item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/pub/cpp)
+item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/pub/cpp)
 ---
 
 {{<section codeexample>}}

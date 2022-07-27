@@ -29,16 +29,16 @@ p4: ก่อนเขียนโค้ด Metadata คุณต้องผส
 ---
 title: ดูและแก้ไขข้อมูลเมตาของ PUB บน C++
 item1: "กระบวนการอ่านข้อมูลเมตาของผู้จัดพิมพ์ประกอบด้วยขั้นตอนถัดไป:"
-item2: อัปโหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) วิธีการของ [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) คลาส
-item3: แยกวิเคราะห์ไฟล์ผ่าน [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) วิธีการของ [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) อินเทอร์เฟซ
-item4: แก้ไขข้อมูลเมตา เช่น หมวดหมู่ โดยใช้ [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) วิธีการของ [*DocSummary:Info*] /apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) คลาส
+item2: อัปโหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) วิธีการของ [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) คลาส
+item3: แยกวิเคราะห์ไฟล์ผ่าน [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) วิธีการของ [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) อินเทอร์เฟซ
+item4: แก้ไขข้อมูลเมตา เช่น หมวดหมู่ โดยใช้ [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) วิธีการของ [*DocSummary:Info*] /apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) คลาส
 ---
 
 {{<section feature2>}}
 ---
 title: เริ่มต้นกับ CPP PUB API
 item1: ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.PUB.cpp``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.PUB.cpp```
-item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/pub/cpp)
+item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/pub/cpp)
 ---
 
 {{<section codeexample>}}

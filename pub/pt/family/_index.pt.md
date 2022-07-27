@@ -6,7 +6,7 @@ description: Manipulação de PUB e biblioteca de análise. Esta é a solução 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs de manipulação de arquivos do Microsoft Publisher" h2="APIs nativas .NET, Java e C++ para carregar, editar e converter arquivos PUB sem dependências de software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIs de manipulação de arquivos do Microsoft Publisher" h2="APIs nativas .NET, Java e C++ para carregar, editar e converter arquivos PUB sem dependências de software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="As APIs de alto código Aspose.PUB incluem" >}}
@@ -30,7 +30,7 @@ Analise arquivos .pub e converta para PDF, Word, Excel e formatos de imagem em a
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="Referências de API" href="https://reference.aspose.com/pub" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -47,6 +47,6 @@ Analise arquivos .pub e converta para PDF, Word, Excel e formatos de imagem em a
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -29,16 +29,16 @@ p4: Meta Verileri kodlamadan önce, C++ PUB Meta Veri API'sini entegre etmeniz g
 ---
 title: PUB Meta Verilerini C++'da Görüntüleme ve Düzenleme
 item1: "Yayıncı Meta Veri okuma süreci aşağıdaki adımlardan oluşur:"
-item2: '[*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) [*PubFactory*](https://apireference) yöntemini kullanarak PUB dosyanızı yükleyin .aspose.com/pub/cpp/class/aspose.pub.pub_factory) Sınıf.'
-item3: Dosyayı [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) aracılığıyla ayrıştırın [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) Arayüz.
-item4: Meta verileri düzenleyin, örneğin [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) aracılığıyla Kategori düzenleyin [*DocSummaryInfo*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Sınıf.
+item2: '[*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) [*PubFactory*](https://apireference) yöntemini kullanarak PUB dosyanızı yükleyin .aspose.com/pub/cpp/class/aspose.pub.pub_factory) Sınıf.'
+item3: Dosyayı [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) aracılığıyla ayrıştırın [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) Arayüz.
+item4: Meta verileri düzenleyin, örneğin [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec) aracılığıyla Kategori düzenleyin [*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Sınıf.
 ---
 
 {{<section feature2>}}
 ---
 title: CPP PUB API'sini Kullanmaya Başlayın
 item1: Komut satırından ``nuget install Aspose.PUB.cpp``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.PUB.cpp`` ile kurun.
-item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://downloads.aspose.com/pub/cpp) adresinden bir ZIP dosyasında alın.
+item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/pub/cpp) adresinden bir ZIP dosyasında alın.
 ---
 
 {{<section codeexample>}}

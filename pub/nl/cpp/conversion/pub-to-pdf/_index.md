@@ -26,16 +26,16 @@ p3: Voordat u de conversie uitvoert, moet u de C++ PUB naar PDF Converter API in
 {{<section feature1>}}
 ---
 title: PUB naar PDF-conversie op C++
-item1: Laad PUB-bestand door middel van [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Methode van [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) klasse.
-item2: Bestand ontleden met [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Methode van [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) interface.
-item3: Voer de conversie uit door middel van [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Methode van [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) interface.
+item1: Laad PUB-bestand door middel van [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Methode van [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) klasse.
+item2: Bestand ontleden met [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Methode van [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) interface.
+item3: Voer de conversie uit door middel van [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Methode van [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) interface.
 ---
 
 {{<section feature2>}}
 ---
 title: Aan de slag met C++ PUB API
 item1: Installeer vanaf de opdrachtregel als ```nuget install Aspose.PUB.cpp``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.PUB.cpp```.
-item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://downloads.aspose.com/pub/cpp).
+item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

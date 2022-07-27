@@ -29,16 +29,16 @@ p4: Πριν κωδικοποιήσετε τα Μεταδεδομένα, πρέ�
 ---
 title: Προβολή και επεξεργασία μεταδεδομένων PUB σε C++
 item1: "Η διαδικασία ανάγνωσης μεταδεδομένων εκδότη αποτελείται από τα ακόλουθα βήματα:"
-item2: Ανεβάστε το αρχείο PUB χρησιμοποιώντας [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Μέθοδος [*]apireference(s) .aspose.com/pub/cpp/class/aspose.pub.pub_factory) Τάξη.
-item3: Ανάλυση αρχείου μέσω [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Μέθοδος [*IPubParse. .com/pub/cpp/class/aspose.pub.i_pub_parser) Διεπαφή.
-item4: Επεξεργασία μεταδεδομένων π.χ. Κατηγορία μέσω του [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec9d561f8fec9d561f8fec./apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Τάξη.
+item2: Ανεβάστε το αρχείο PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Μέθοδος [*]apireference(s) .aspose.com/pub/cpp/class/aspose.pub.pub_factory) Τάξη.
+item3: Ανάλυση αρχείου μέσω [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Μέθοδος [*IPubParse. .com/pub/cpp/class/aspose.pub.i_pub_parser) Διεπαφή.
+item4: Επεξεργασία μεταδεδομένων π.χ. Κατηγορία μέσω του [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec9d561f8fec9d561f8fec./apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Τάξη.
 ---
 
 {{<section feature2>}}
 ---
 title: Ξεκινήστε με το CPP PUB API
 item1: Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.PUB.cpp``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.PUB.cpp``.
-item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://downloads.aspose.com/pub/cpp).
+item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

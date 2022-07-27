@@ -35,9 +35,9 @@ item1: "PUBメタデータを編集するには、機能が豊富で強力で使
 ---
 title: JavaでのPUBメタデータの表示と編集
 item1: "パブリッシャーのメタデータ読み取りプロセスは、次のステップで構成されます。"
-item2: '[*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) メソッド[*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory)クラス。'
-item3: '経由でファイルを解析する[*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--)のメソッド[*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser)インターフェース。'
-item4: '[*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-）メソッド[*DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo）クラス。'
+item2: '[*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) メソッド[*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory)クラス。'
+item3: '経由でファイルを解析する[*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--)のメソッド[*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser)インターフェース。'
+item4: '[*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-）メソッド[*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo）クラス。'
 ---
 
 {{<section feature2>}}

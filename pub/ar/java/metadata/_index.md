@@ -35,9 +35,9 @@ item1: "لتحرير PUB Metadata ، سنستخدم [Aspose.PUB for Java API](ht
 ---
 title: عرض وتحرير PUB Metadata على Java
 item1: "تتكون عملية قراءة البيانات الوصفية للناشر من الخطوات التالية:"
-item2: قم بتحميل ملف PUB الخاص بك باستخدام [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) طريقة [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) فئة.
-item3: تحليل الملف عبر طريقة [*تحليل*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) لـ [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) الواجهة.
-item4: تحرير البيانات الوصفية ، مثل اللغة عن طريق [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) طريقة [*DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) فئة.
+item2: قم بتحميل ملف PUB الخاص بك باستخدام [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) طريقة [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) فئة.
+item3: تحليل الملف عبر طريقة [*تحليل*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) لـ [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) الواجهة.
+item4: تحرير البيانات الوصفية ، مثل اللغة عن طريق [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) طريقة [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) فئة.
 ---
 
 {{<section feature2>}}

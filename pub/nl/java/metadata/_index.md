@@ -35,9 +35,9 @@ item1: "Om PUB-metadata te bewerken, gebruiken we [Aspose.PUB for Java API](http
 ---
 title: Bekijk en bewerk PUB-metadata op Java
 item1: "Het leesproces van de uitgever Metadata bestaat uit de volgende stappen:"
-item2: Upload uw PUB-bestand met behulp van [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Methode van [*PubFactory* ](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) klasse.
-item3: Bestand ontleden via [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) methode van [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser)-interface.
-item4: Bewerk metadata, bijv. Taal door middel van [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Methode van [* DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) klasse.
+item2: Upload uw PUB-bestand met behulp van [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Methode van [*PubFactory* ](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) klasse.
+item3: Bestand ontleden via [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) methode van [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser)-interface.
+item4: Bewerk metadata, bijv. Taal door middel van [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Methode van [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) klasse.
 ---
 
 {{<section feature2>}}

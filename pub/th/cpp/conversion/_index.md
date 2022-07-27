@@ -28,9 +28,9 @@ title: แปลงไฟล์ .pub ของผู้จัดพิมพ์
 item1: มาดูการทำงานผ่านการแปลง PUB เป็น PDF
 item2: "ขั้นตอนการแปลงของผู้เผยแพร่โฆษณาประกอบด้วยขั้นตอนถัดไป:"
 item3: ผสานรวม C++ PUB เข้ากับ PDF Converter API ซึ่งใช้งานได้ไม่เฉพาะกับเอกสารหน้าเดียว แต่ยังรองรับไฟล์ .pub แบบหลายหน้า
-item4: โหลดไฟล์ PUB โดยใช้คลาส [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory)
-item5: สร้าง Parser และ Parse ผ่าน [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) วิธีการของ[*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) อินเทอร์เฟซ
-item6: เรียกใช้การแปลงโดยใช้วิธีการ [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter)
+item4: โหลดไฟล์ PUB โดยใช้คลาส [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory)
+item5: สร้าง Parser และ Parse ผ่าน [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) วิธีการของ[*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) อินเทอร์เฟซ
+item6: เรียกใช้การแปลงโดยใช้วิธีการ [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter)
 ---
 
 {{<section codeexample>}}

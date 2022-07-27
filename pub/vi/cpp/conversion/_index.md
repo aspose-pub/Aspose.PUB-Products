@@ -28,9 +28,9 @@ title: Chuyển đổi tệp .pub của Nhà xuất bản
 item1: Hãy xem xét chức năng thông qua chuyển đổi PUB sang PDF.
 item2: "Quy trình Chuyển đổi của nhà xuất bản bao gồm các bước tiếp theo:"
 item3: Tích hợp C ++ PUB to PDF Converter API, API này không chỉ hoạt động với các tài liệu một trang mà còn hỗ trợ các tệp .pub nhiều trang.
-item4: Tải tệp PUB bằng cách sử dụng Lớp [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
-item5: Tạo Trình phân tích cú pháp và Phân tích cú pháp qua [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Phương thức của [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Giao diện.
-item6: Chạy chuyển đổi bằng Phương thức [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
+item4: Tải tệp PUB bằng cách sử dụng Lớp [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
+item5: Tạo Trình phân tích cú pháp và Phân tích cú pháp qua [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Phương thức của [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Giao diện.
+item6: Chạy chuyển đổi bằng Phương thức [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 ---
 
 {{<section codeexample>}}

@@ -35,9 +35,9 @@ item1: "För att redigera PUB-metadata använder vi [Aspose.PUB för Java API](h
 ---
 title: Visa och redigera PUB-metadata på Java
 item1: "Läsprocessen för utgivarens metadata består av följande steg:"
-item2: Ladda upp din PUB-fil med [*createParser*()](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metoden [*PubFactory* ](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klass.
-item3: Analysera fil med metoden [*parse*()](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) enligt [*IFFConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Gränssnitt.
-item4: Redigera metadata, t.ex. språk med hjälp av [*setLanguage*()](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metoden [* DocSummaryInfo*](https://apireference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Klass.
+item2: Ladda upp din PUB-fil med [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metoden [*PubFactory* ](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klass.
+item3: Analysera fil med metoden [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) enligt [*IFFConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Gränssnitt.
+item4: Redigera metadata, t.ex. språk med hjälp av [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metoden [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Klass.
 ---
 
 {{<section feature2>}}

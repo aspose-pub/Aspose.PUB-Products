@@ -28,9 +28,9 @@ title: Převést soubory .pub aplikace Publisher
 item1: Podívejme se na funkčnost prostřednictvím převodu PUB do PDF.
 item2: "Proces konverze majitele stránek se skládá z následujících kroků:"
 item3: Integrujte rozhraní C++ PUB to PDF Converter API, které pracuje nejen s jednostránkovými dokumenty, ale podporuje i vícestránkové soubory .pub.
-item4: Načtěte soubor PUB pomocí třídy [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
-item5: Vytvořte Parser a Parse pomocí [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) metody [*https:IPubParser*](/apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Rozhraní.
-item6: Spusťte převod pomocí metody [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
+item4: Načtěte soubor PUB pomocí třídy [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
+item5: Vytvořte Parser a Parse pomocí [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) metody [*https:IPubParser*](/apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Rozhraní.
+item6: Spusťte převod pomocí metody [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 ---
 
 {{<section codeexample>}}

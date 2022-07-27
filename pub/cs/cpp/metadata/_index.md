@@ -29,16 +29,16 @@ p4: Před kódováním metadat musíte integrovat C++ PUB Metadata API. Následu
 ---
 title: Zobrazit a upravit metadata PUB v C++
 item1: "Proces čtení metadat vydavatele se skládá z následujících kroků:"
-item2: Nahrajte svůj soubor PUB pomocí metody [*CreateParser*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) metody [*PubFactory*](https://reference*].aspose.com/pub/cpp/class/aspose.pub.pub_factory) Třída.
-item3: Analyzujte soubor pomocí [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metoda [*IPubParser*].asposeapireference .com/pub/cpp/class/aspose.pub.i_pub_parser) Rozhraní.
-item4: Upravte metadata, např. kategorii, pomocí [*SetCategory*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec]Metoda[*Info/Summary]z[*Doc/Doc/apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Třída.
+item2: Nahrajte svůj soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) metody [*PubFactory*](https://reference*].aspose.com/pub/cpp/class/aspose.pub.pub_factory) Třída.
+item3: Analyzujte soubor pomocí [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metoda [*IPubParser*].asposeapireference .com/pub/cpp/class/aspose.pub.i_pub_parser) Rozhraní.
+item4: Upravte metadata, např. kategorii, pomocí [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info#a2e023fe8e8ecd0bf03bb6c9d561f8fec]Metoda[*Info/Summary]z[*Doc/Doc/apireference.aspose.com/pub/cpp/class/aspose.pub.doc_summary_info) Třída.
 ---
 
 {{<section feature2>}}
 ---
 title: Začněte s CPP PUB API
 item1: Instalujte z příkazového řádku jako ```nuget install Aspose.PUB.cpp``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.PUB.cpp```.
-item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/pub/cpp).
+item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}
