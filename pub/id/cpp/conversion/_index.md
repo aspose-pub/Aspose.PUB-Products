@@ -28,9 +28,9 @@ title: Konversikan file .pub Penerbit
 item1: Mari kita lihat fungsinya melalui konversi PUB ke PDF.
 item2: "Proses Konversi penayang terdiri dari langkah-langkah berikut:"
 item3: Integrasikan C++ PUB ke PDF Converter API, yang berfungsi tidak hanya dengan dokumen satu halaman tetapi juga mendukung file .pub multihalaman.
-item4: Muat file PUB menggunakan Kelas [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
-item5: Buat Parser dan Parse melalui [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metode [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Antarmuka.
-item6: Jalankan konversi melalui Metode [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
+item4: Muat file PUB menggunakan Kelas [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
+item5: Buat Parser dan Parse melalui [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metode [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Antarmuka.
+item6: Jalankan konversi melalui Metode [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 ---
 
 {{<section codeexample>}}

@@ -32,9 +32,9 @@ item1: "Để chuyển đổi PUB sang PDF, chúng tôi sẽ sử dụng [Aspose
 {{<section feature1>}}
 ---
 title: Chuyển đổi PUB sang PDF trên Java
-item1: Tải tệp PUB bằng phương pháp [*CreateParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) của [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Lớp.
-item2: Phân tích cú pháp tệp bằng [*Parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Phương thức [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Giao diện.
-item3: Chuyển đổi PUB sang PDF bằng [*ConvertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String -) Phương thức của Giao diện [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
+item1: Tải tệp PUB bằng phương pháp [*CreateParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) của [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Lớp.
+item2: Phân tích cú pháp tệp bằng [*Parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Phương thức [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Giao diện.
+item3: Chuyển đổi PUB sang PDF bằng [*ConvertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String -) Phương thức của Giao diện [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
 ---
 
 {{<section feature2>}}

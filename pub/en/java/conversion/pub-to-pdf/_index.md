@@ -32,9 +32,9 @@ item1: "In order to convert PUB to PDF, we’ll use [Aspose.PUB for Java API](ht
 {{<section feature1>}}
 ---
 title: PUB to PDF Conversion on Java
-item1: Load PUB file using [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Method of [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Class. 
-item2: Parse file using [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Method of [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser) Interface.
-item3: Convert PUB to PDF using [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Method of [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) Interface.
+item1: Load PUB file using [*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Method of [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Class. 
+item2: Parse file using [*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Method of [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Interface.
+item3: Convert PUB to PDF using [*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Method of [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) Interface.
 ---
 
 {{<section feature2>}}

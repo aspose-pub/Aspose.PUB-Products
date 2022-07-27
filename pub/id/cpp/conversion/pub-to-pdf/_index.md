@@ -26,16 +26,16 @@ p3: Sebelum menjalankan konversi, Anda perlu mengintegrasikan C++ PUB ke PDF Con
 {{<section feature1>}}
 ---
 title: Konversi PUB ke PDF di C++
-item1: Muat file PUB melalui [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metode [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Kelas.
-item2: Parsing file menggunakan [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metode [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Antarmuka.
-item3: Jalankan Konversi melalui [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Metode [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Antarmuka.
+item1: Muat file PUB melalui [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metode [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Kelas.
+item2: Parsing file menggunakan [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metode [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Antarmuka.
+item3: Jalankan Konversi melalui [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Metode [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Antarmuka.
 ---
 
 {{<section feature2>}}
 ---
 title: Memulai dengan C++ PUB API
 item1: Instal dari baris perintah sebagai ``` nuget install Aspose.PUB.cpp``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.PUB.cpp```.
-item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://downloads.aspose.com/pub/cpp).
+item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

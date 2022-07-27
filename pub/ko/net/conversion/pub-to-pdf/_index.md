@@ -26,16 +26,16 @@ p3: 변환을 실행하기 전에 .NET PUB를 PDF 변환기 API로 통합해야 
 {{<section feature1>}}
 ---
 title: .NET에서 PUB에서 PDF로 변환
-item1: '[*CreateParser*()](https://apireference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 메서드를 사용하여 PUB 파일 로드 [*PubFactory*](https://apireference.aspose.com/pub/net/aspose.pub/pubfactory) 클래스.'
-item2: '[*Parse*()](https://apireference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) 방법으로 파일 구문 분석 [*IPubParser*](https://apireference.aspose.com/pub/net/aspose.pub/ipubparser) 인터페이스.'
-item3: '[*ConvertToPdf*()](https://apireference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) 메서드를 통해 PUB를 PDF로 변환 [*IPdfConverter*](https://apireference.aspose.com/pub/net/aspose.pub/ipdfconverter) 인터페이스.'
+item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 메서드를 사용하여 PUB 파일 로드 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) 클래스.'
+item2: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) 방법으로 파일 구문 분석 [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) 인터페이스.'
+item3: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) 메서드를 통해 PUB를 PDF로 변환 [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) 인터페이스.'
 ---
 
 {{<section feature2>}}
 ---
 title: .NET PUB API 시작하기
 item1: 명령줄에서 ```nuget install Aspose.PUB```로 설치하거나 ```Install-Package Aspose.PUB```를 사용하여 Visual Studio의 패키지 관리자 콘솔을 통해 설치합니다.
-item2: 또는 [다운로드](https://downloads.aspose.com/pub/net)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+item2: 또는 [다운로드](https://releases.aspose.com/pub/net)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 ---
 
 {{<section codeexample>}}

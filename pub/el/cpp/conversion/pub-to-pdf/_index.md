@@ -26,16 +26,16 @@ p3: Πριν εκτελέσετε τη μετατροπή, πρέπει να ε�
 {{<section feature1>}}
 ---
 title: Μετατροπή PUB σε PDF σε C++
-item1: Φόρτωση αρχείου PUB με τη βοήθεια του [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) http://sactory* apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Τάξη.
-item2: Αναλύστε το αρχείο χρησιμοποιώντας [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Μέθοδος [*IPubParser*](http://apose.posire..com/pub/cpp/class/aspose.pub.i_pub_parser) Διεπαφή.
-item3: Εκτελέστε τη Μετατροπή μέσω του [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5)https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5)https://apireference.aspose.com/pub. apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Διεπαφή.
+item1: Φόρτωση αρχείου PUB με τη βοήθεια του [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) http://sactory* apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Τάξη.
+item2: Αναλύστε το αρχείο χρησιμοποιώντας [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Μέθοδος [*IPubParser*](http://apose.posire..com/pub/cpp/class/aspose.pub.i_pub_parser) Διεπαφή.
+item3: Εκτελέστε τη Μετατροπή μέσω του [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5)https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5)https://reference.aspose.com/pub. apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Διεπαφή.
 ---
 
 {{<section feature2>}}
 ---
 title: Ξεκινήστε με το C++ PUB API
 item1: Εγκατάσταση από τη γραμμή εντολών ως ```nuget install Aspose.PUB.cpp``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.PUB.cpp``.
-item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://downloads.aspose.com/pub/cpp).
+item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

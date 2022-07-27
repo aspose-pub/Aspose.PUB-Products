@@ -26,16 +26,16 @@ p3: Antes de ejecutar la conversión, debe integrar C++ PUB to PDF Converter API
 {{<section feature1>}}
 ---
 title: Conversión de PUB a PDF en C++
-item1: Cargue el archivo PUB mediante [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Método de [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Clase.
-item2: Analice el archivo usando [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Método de [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interfaz.
-item3: Ejecute la conversión mediante [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Método de [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Interfaz.
+item1: Cargue el archivo PUB mediante [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Método de [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Clase.
+item2: Analice el archivo usando [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Método de [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Interfaz.
+item3: Ejecute la conversión mediante [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Método de [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Interfaz.
 ---
 
 {{<section feature2>}}
 ---
 title: Introducción a la API PUB de C++
 item1: Instale desde la línea de comandos como ```nuget install Aspose.PUB.cpp``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.PUB.cpp```.
-item2: Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://downloads.aspose.com/pub/cpp).
+item2: Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

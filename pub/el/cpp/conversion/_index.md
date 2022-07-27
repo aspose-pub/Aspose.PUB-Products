@@ -28,9 +28,9 @@ title: Μετατροπή αρχείων Publisher .pub
 item1: Ας δούμε τη λειτουργικότητα μέσω της μετατροπής PUB σε PDF.
 item2: "Η διαδικασία μετατροπής εκδότη αποτελείται από τα ακόλουθα βήματα:"
 item3: Ενσωματώστε το C++ PUB σε PDF Converter API, το οποίο λειτουργεί όχι μόνο με έγγραφα μιας σελίδας, αλλά υποστηρίζει και πολυσέλιδα αρχεία .pub.
-item4: Φορτώστε το αρχείο PUB χρησιμοποιώντας την κλάση [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
-item5: Δημιουργήστε Parser και Ανάλυση μέσω της μεθόδου [*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) της μεθόδου του[*]IPar /apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Διεπαφή.
-item6: Εκτελέστε τη μετατροπή μέσω της μεθόδου [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
+item4: Φορτώστε το αρχείο PUB χρησιμοποιώντας την κλάση [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory).
+item5: Δημιουργήστε Parser και Ανάλυση μέσω της μεθόδου [*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) της μεθόδου του[*]IPar /apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Διεπαφή.
+item6: Εκτελέστε τη μετατροπή μέσω της μεθόδου [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 ---
 
 {{<section codeexample>}}

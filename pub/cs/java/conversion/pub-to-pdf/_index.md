@@ -32,9 +32,9 @@ item1: "Abychom převedli PUB do PDF, použijeme [Aspose.PUB for Java API](https
 {{<section feature1>}}
 ---
 title: Konverze PUB do PDF na Javě
-item1: Načtěte soubor PUB pomocí metody [*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) metody [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Třída.
-item2: Analyzujte soubor pomocí [*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Metoda [*IPdfConverter*](https://apireferenceRozhraní.aspose.com/pub/java/com.aspose.pub/IPubParser).
-item3: Převeďte PUB do PDF pomocí [*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Metoda rozhraní [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
+item1: Načtěte soubor PUB pomocí metody [*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) metody [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Třída.
+item2: Analyzujte soubor pomocí [*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Metoda [*IPdfConverter*](https://apireferenceRozhraní.aspose.com/pub/java/com.aspose.pub/IPubParser).
+item3: Převeďte PUB do PDF pomocí [*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Metoda rozhraní [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter).
 ---
 
 {{<section feature2>}}

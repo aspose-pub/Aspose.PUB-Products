@@ -3,11 +3,11 @@ title: Создание, редактирование или преобразо�
 weight: 30
 url: /ru/
 description: Обрабатывайте, создавайте и конвертируйте файлы Publisher программно с помощью API High Code. Интегрируйте функциональность в свой продукт!
-metakeywords: решение для издателя, издатель кода, библиотека pub, библиотека издателя ms
+metakeywords: решение для Publisher, издатель кода, библиотека pub, библиотека Publisher ms
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Решение для формата файлов издателя" h2="API High Code и бесплатные приложения для управления файлами PUB и их преобразования без зависимости от какого-либо другого программного обеспечения."  logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Решение для формата файлов Publisher" h2="API High Code и бесплатные приложения для управления файлами PUB и их преобразования без зависимости от какого-либо другого программного обеспечения."  logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="API-интерфейсы Aspose.PUB High Code включают" >}}
@@ -42,7 +42,7 @@ API-интерфейсы Java для управления файлами PUB. З
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об Aspose." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

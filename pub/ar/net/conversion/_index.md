@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-net.md
-title: حل PUB Converter API | .صافي
+title: حل PUB Converter API |.NET
 url: /net/conversion/
 description: 'تحويل ملفات Microsoft Publisher برمجياً عبر مكتبة C #. حل API بسيط لبناء مشروع NET الخاص بمحول PUB.'
 metakeywords: 'محول Pub net ، تحويل ملف pub net ، محول pub c # ، تحويل ملف pub c #'

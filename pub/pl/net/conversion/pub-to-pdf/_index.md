@@ -26,16 +26,16 @@ p3: Przed uruchomieniem konwersji należy zintegrować .NET PUB z PDF Converter 
 {{<section feature1>}}
 ---
 title: Konwersja PUB do PDF w .NET
-item1: Załaduj plik PUB za pomocą [*CreateParser*()](https://apireference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://apireference.aspose.com/pub/net/aspose.pub/pubfactory) Klasa.
-item2: Przeanalizuj plik za pomocą metody [*Parse*()](https://apireference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) metody [*IPubParser*](https://apireference.aspose.com/pub/net/aspose.pub/ipubparser) Interfejs.
-item3: Konwertuj PUB na PDF za pomocą metody [*ConvertToPdf*()](https://apireference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) metody [*IPdfConverter*](https://apireference.aspose.com/pub/net/aspose.pub/ipdfconverter).
+item1: Załaduj plik PUB za pomocą [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Klasa.
+item2: Przeanalizuj plik za pomocą metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Interfejs.
+item3: Konwertuj PUB na PDF za pomocą metody [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) metody [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter).
 ---
 
 {{<section feature2>}}
 ---
 title: Pierwsze kroki z .NET PUB API
 item1: Zainstaluj z wiersza poleceń jako ```nuget install Aspose.PUB``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.PUB```.
-item2: Możesz też pobrać instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://downloads.aspose.com/pub/net).
+item2: Możesz też pobrać instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://releases.aspose.com/pub/net).
 ---
 
 {{<section codeexample>}}

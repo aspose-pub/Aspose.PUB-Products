@@ -26,16 +26,16 @@ p3: Bevor Sie die Konvertierung ausführen, müssen Sie die C++ PUB to PDF Conve
 {{<section feature1>}}
 ---
 title: PUB-zu-PDF-Konvertierung auf C++
-item1: PUB-Datei laden mittels [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Methode von [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Klasse.
-item2: Analysieren Sie die Datei mit [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Methode von [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Schnittstelle.
-item3: Führen Sie die Konvertierung mittels [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Methode von [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Schnittstelle.
+item1: PUB-Datei laden mittels [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Methode von [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Klasse.
+item2: Analysieren Sie die Datei mit [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Methode von [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Schnittstelle.
+item3: Führen Sie die Konvertierung mittels [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Methode von [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Schnittstelle.
 ---
 
 {{<section feature2>}}
 ---
 title: Erste Schritte mit der C++ PUB-API
 item1: Installieren Sie von der Befehlszeile als ```nuget install Aspose.PUB.cpp``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.PUB.cpp```.
-item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://downloads.aspose.com/pub/cpp) herunterladen.
+item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/pub/cpp) herunterladen.
 ---
 
 {{<section codeexample>}}

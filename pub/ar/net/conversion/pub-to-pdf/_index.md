@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-child-net.md
-title: تحويل PUB إلى PDF | .صافي
+title: تحويل PUB إلى PDF |.NET
 description: قم بتحويل PUB إلى PDF باستخدام .NET API على أنظمة التشغيل Windows و Linux و Mac OS X. وظيفة تحويل الناشر التي يسهل دمجها في الحل الخاص بك.
 url: /net/conversion/pub-to-pdf/
 metakeywords: 'pub to pdf net، تحويل pub to pdf net، pub to pdf c # converter، تحويل pub إلى pdf c #، pub to pdf c #'
@@ -26,16 +26,16 @@ p3: قبل تشغيل التحويل ، تحتاج إلى دمج .NET PUB to PDF
 {{<section feature1>}}
 ---
 title: تحويل PUB إلى PDF على .NET
-item1: قم بتحميل ملف PUB باستخدام طريقة [*CreateParser*()](https://apireference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) لـ [*PubFactory*](https://apireference.aspose.com/pub/net/aspose.pub/pubfactory) فئة.
-item2: تحليل الملف عن طريق [*Parse*()](https://apireference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) طريقة [*IPubParser*](https://apireference.aspose.com/pub/net/aspose.pub/ipubparser) الواجهة.
-item3: تحويل PUB إلى PDF عبر [*ConvertToPdf*()](https://apireference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) طريقة [*IPdfConverter*](https://apireference.aspose.com/pub/net/aspose.pub/ipdfconverter) واجهة.
+item1: قم بتحميل ملف PUB باستخدام طريقة [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) لـ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) فئة.
+item2: تحليل الملف عن طريق [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) طريقة [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) الواجهة.
+item3: تحويل PUB إلى PDF عبر [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) طريقة [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) واجهة.
 ---
 
 {{<section feature2>}}
 ---
 title: ابدأ مع .NET PUB API
 item1: قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.PUB '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.PUB ''.
-item2: بدلاً من ذلك ، احصل على مثبت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://downloads.aspose.com/pub/net).
+item2: بدلاً من ذلك ، احصل على مثبت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/pub/net).
 ---
 
 {{<section codeexample>}}

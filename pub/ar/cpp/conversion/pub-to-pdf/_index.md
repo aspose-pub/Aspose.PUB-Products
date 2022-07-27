@@ -26,16 +26,16 @@ p3: قبل تشغيل التحويل ، تحتاج إلى دمج C ++ PUB to PDF
 {{<section feature1>}}
 ---
 title: تحويل PUB إلى PDF على C ++
-item1: قم بتحميل ملف PUB عن طريق [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) طريقة [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) فئة.
-item2: تحليل الملف باستخدام [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) طريقة [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) الواجهة.
-item3: قم بتشغيل التحويل عن طريق [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) طريقة [*IPdfConverter*](https://واجهةapireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
+item1: قم بتحميل ملف PUB عن طريق [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) طريقة [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) فئة.
+item2: تحليل الملف باستخدام [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) طريقة [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) الواجهة.
+item3: قم بتشغيل التحويل عن طريق [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) طريقة [*IPdfConverter*](https://واجهةapireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter).
 ---
 
 {{<section feature2>}}
 ---
 title: ابدأ مع C ++ PUB API
 item1: قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.PUB.cpp '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.PUB.cpp ''.
-item2: بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://downloads.aspose.com/pub/cpp).
+item2: بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

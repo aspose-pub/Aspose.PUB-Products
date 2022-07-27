@@ -28,9 +28,9 @@ title: Publisher .pub dosyalarını dönüştürün
 item1: PUB'dan PDF'ye dönüştürme yoluyla işlevselliğe bakalım.
 item2: "Yayıncı Dönüşüm süreci aşağıdaki adımlardan oluşur:"
 item3: Yalnızca tek sayfalık belgelerle değil, aynı zamanda çok sayfalı .pub dosyalarını da destekleyen C++ PUB to PDF Converter API'yi entegre edin.
-item4: '[*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Sınıfını kullanarak PUB dosyasını yükleyin.'
-item5: '[*Parse*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Yöntemiyle Ayrıştırıcı Oluştur ve Ayrıştır [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Arayüz.'
-item6: Dönüştürmeyi [*ConvertToPdf*()](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Yöntemiyle çalıştırın.
+item4: '[*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Sınıfını kullanarak PUB dosyasını yükleyin.'
+item5: '[*Parse*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Yöntemiyle Ayrıştırıcı Oluştur ve Ayrıştır [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Arayüz.'
+item6: Dönüştürmeyi [*ConvertToPdf*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Yöntemiyle çalıştırın.
 ---
 
 {{<section codeexample>}}

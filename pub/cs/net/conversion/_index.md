@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-net.md
-title: PUB Converter API řešení | .SÍŤ
+title: PUB Converter API řešení | .NET
 url: /net/conversion/
 description: Převeďte soubory Microsoft Publisher Programově prostřednictvím knihovny C#. Jednoduché API řešení pro vytvoření vlastního projektu PUB converter .NET.
 metakeywords: pub net converter, convert pub file net, pub c# converter, convert pub file c#

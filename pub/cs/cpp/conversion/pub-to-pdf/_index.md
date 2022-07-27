@@ -26,16 +26,16 @@ p3: Před spuštěním převodu je potřeba integrovat C++ PUB to PDF Converter 
 {{<section feature1>}}
 ---
 title: Konverze PUB do PDF v C++
-item1: Načtěte soubor PUB pomocí [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metoda [*(PubFactory*] apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Třída.
-item2: Analyzujte soubor pomocí [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metoda [*IPubParser*].asposeapireference .com/pub/cpp/class/aspose.pub.i_pub_parser) Rozhraní.
-item3: Spusťte převod pomocí [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Metoda [*IPdfhttps://Converter*] apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Rozhraní.
+item1: Načtěte soubor PUB pomocí [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Metoda [*(PubFactory*] apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Třída.
+item2: Analyzujte soubor pomocí [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Metoda [*IPubParser*].asposeapireference .com/pub/cpp/class/aspose.pub.i_pub_parser) Rozhraní.
+item3: Spusťte převod pomocí [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Metoda [*IPdfhttps://Converter*] apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Rozhraní.
 ---
 
 {{<section feature2>}}
 ---
 title: Začněte s C++ PUB API
 item1: Instalujte z příkazového řádku jako ```nuget install Aspose.PUB.cpp``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.PUB.cpp```.
-item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/pub/cpp).
+item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

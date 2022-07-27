@@ -26,16 +26,16 @@ p3: Перед запуском конверсии вам необходимо �
 {{<section feature1>}}
 ---
 title: Конвертировать PUB в PDF на C++
-item1: Загрузите файл PUB с помощью [*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Метода [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Класса.
-item2: Разобрать файл с помощью метода [*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Метода [*IPubParser*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Интерфейса.
-item3: Запустите конверсию с помощью [*ConvertToPdf()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Метода [*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Интерфейса.
+item1: Загрузите файл PUB с помощью [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) Метода [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Класса.
+item2: Разобрать файл с помощью метода [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Метода [*IPubParser*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser) Интерфейса.
+item3: Запустите конверсию с помощью [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) Метода [*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Интерфейса.
 ---
 
 {{<section feature2>}}
 ---
 title: Начните работу с CPP PUB API
 item1: Установите из командной строки ```nuget install Aspose.PUB.cpp``` или через консоль диспетчера пакетов Visual Studio с помощью ```Install-Package Aspose.PUB.cpp```.
-item2: Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://downloads.aspose.com/pub/cpp).
+item2: Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://releases.aspose.com/pub/cpp).
 ---
 
 {{<section codeexample>}}

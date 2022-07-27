@@ -26,16 +26,16 @@ p3: 변환을 실행하기 전에 단일 페이지 문서에서 작동할 뿐만
 {{<section feature1>}}
 ---
 title: C++에서 PUB에서 PDF로 변환
-item1: '[*CreateParser()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) 메서드로 PUB 파일 로드 [*PubFactory*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) 클래스.'
-item2: '[*Parse()*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) 메서드를 사용하여 파싱 파일 [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) 인터페이스.'
-item3: '[*IPdfConverter*](https://apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) 메서드를 통해 변환을 실행합니다. apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) 인터페이스.'
+item1: '[*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) 메서드로 PUB 파일 로드 [*PubFactory*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) 클래스.'
+item2: '[*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) 메서드를 사용하여 파싱 파일 [*IPubParser*](https://apireference.aspose) .com/pub/cpp/class/aspose.pub.i_pub_parser) 인터페이스.'
+item3: '[*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5) 메서드를 통해 변환을 실행합니다. apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) 인터페이스.'
 ---
 
 {{<section feature2>}}
 ---
 title: C++ PUB API 시작하기
 item1: 명령줄에서 ```nuget install Aspose.PUB.cpp```로 설치하거나 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.PUB.cpp```로 설치합니다.
-item2: 또는 [downloads](https://downloads.aspose.com/pub/cpp)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+item2: 또는 [downloads](https://releases.aspose.com/pub/cpp)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 ---
 
 {{<section codeexample>}}

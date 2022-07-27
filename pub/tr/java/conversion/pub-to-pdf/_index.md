@@ -32,9 +32,9 @@ item1: "PUB'u PDF'ye dönüştürmek için, aşağıdakiler için zengin özelli
 {{<section feature1>}}
 ---
 title: Java'da PUB'den PDF'ye Dönüştürme
-item1: '[*createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Yöntemini kullanarak PUB dosyasını yükleyin [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) Sınıf.'
-item2: '[*parse()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) [*IPdfConverter*](https://apireference) yöntemini kullanarak dosyayı ayrıştırın .aspose.com/pub/java/com.aspose.pub/IPubParser) Arayüzü.'
-item3: "[*convertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) kullanarak PUB'u PDF'ye dönüştürün  [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) Arayüzü Yöntemi."
+item1: '[*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Yöntemini kullanarak PUB dosyasını yükleyin [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Sınıf.'
+item2: '[*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) [*IPdfConverter*](https://apireference) yöntemini kullanarak dosyayı ayrıştırın .aspose.com/pub/java/com.aspose.pub/IPubParser) Arayüzü.'
+item3: "[*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) kullanarak PUB'u PDF'ye dönüştürün  [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) Arayüzü Yöntemi."
 ---
 
 {{<section feature2>}}

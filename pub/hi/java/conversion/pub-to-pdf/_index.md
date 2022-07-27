@@ -32,9 +32,9 @@ item1: "PUB को PDF में बदलने के लिए, हम [Aspos
 {{<section feature1>}}
 ---
 title: जावा पर पब से पीडीएफ रूपांतरण
-item1: '[* createParser()*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) विधि का उपयोग करके PUB फ़ाइल लोड करें [*PubFactory*](https://apireference.aspose.com/pub/java/com.aspose.pub/PubFactory) कक्षा।'
-item2: '[* पार्स()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) का उपयोग करके पार्स फ़ाइल .aspose.com/pub/java/com.aspose.pub/IPubParser) इंटरफ़ेस।'
-item3: '[*ConvertToPdf()*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) का उपयोग करके PUB को PDF में बदलें  विधि [*IPdfConverter*](https://apireference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) इंटरफेस।'
+item1: '[*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) विधि का उपयोग करके PUB फ़ाइल लोड करें [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) कक्षा।'
+item2: '[*पार्स()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) का उपयोग करके पार्स फ़ाइल .aspose.com/pub/java/com.aspose.pub/IPubParser) इंटरफ़ेस।'
+item3: '[*ConvertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) का उपयोग करके PUB को PDF में बदलें  विधि [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) इंटरफेस।'
 ---
 
 {{<section feature2>}}
