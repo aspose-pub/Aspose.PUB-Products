@@ -35,7 +35,7 @@ item3: Dönüştürmeyi [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/
 ---
 title: C++ PUB API'sini Kullanmaya Başlayın
 item1: Komut satırından ``nuget install Aspose.PUB.cpp``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.PUB.cpp`` ile kurun.
-item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/pub/cpp) adresinden bir ZIP dosyasında alın.
+item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/pub/cpp/) adresinden bir ZIP dosyasında alın.
 ---
 
 {{<section codeexample>}}

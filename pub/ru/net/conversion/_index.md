@@ -28,9 +28,9 @@ title: Преобразование файлов .pub Publisher
 item1: Давайте посмотрим на функциональность через преобразование PUB в PDF.
 item2: "Процесс конверсии Publisher состоит из следующих шагов:"
 item3: Интегрируйте .NET PUB в PDF Converter API, который работает не только с одностраничными документами, но также поддерживает многостраничные файлы .pub.
-item4: Загрузите файл PUB, используя класс [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
-item5: CreateParser и Parse с помощью метода [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) метода [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Интерфейс.
-item6: Запустите преобразование с помощью метода [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/).
+item4: Загрузите файл PUB, используя класс [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
+item5: CreateParser и Parse с помощью метода [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) метода [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Интерфейс.
+item6: Запустите преобразование с помощью метода [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/).
 ---
 
 {{<section codeexample>}}

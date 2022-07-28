@@ -28,9 +28,9 @@ title: Publisher .pub 파일 변환
 item1: PUB에서 PDF로 변환을 통한 기능을 살펴보겠습니다.
 item2: "게시자 전환 프로세스는 다음 단계로 구성됩니다."
 item3: .NET PUB를 단일 페이지 문서와 함께 작동할 뿐만 아니라 다중 페이지 .pub 파일도 지원하는 PDF 변환기 API에 통합합니다.
-item4: '[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 클래스를 사용하여 PUB 파일을 로드합니다.'
-item5: CreateParser 및 [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) 메서드를 통해 [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 인터페이스.
-item6: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) 메서드를 사용하여 변환을 실행합니다.'
+item4: '[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//) 클래스를 사용하여 PUB 파일을 로드합니다.'
+item5: CreateParser 및 [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) 메서드를 통해 [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) 인터페이스.
+item6: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/) 메서드를 사용하여 변환을 실행합니다.'
 ---
 
 {{<section codeexample>}}

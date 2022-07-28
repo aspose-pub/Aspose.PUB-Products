@@ -28,9 +28,9 @@ title: Konvertieren Sie Publisher-.pub-Dateien
 item1: Schauen wir uns die Funktionalität durch die PUB-in-PDF-Konvertierung an.
 item2: "Der Publisher-Umwandlungsprozess besteht aus den nächsten Schritten:"
 item3: Integrieren Sie die .NET PUB to PDF Converter API, die nicht nur mit einseitigen Dokumenten funktioniert, sondern auch mehrseitige .pub-Dateien unterstützt.
-item4: Laden Sie die PUB-Datei mit der Klasse [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
-item5: CreateParser und Parse über die Methode [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Schnittstelle.
-item6: Führen Sie die Konvertierung mithilfe der Methode [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) aus.
+item4: Laden Sie die PUB-Datei mit der Klasse [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
+item5: CreateParser und Parse über die Methode [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Schnittstelle.
+item6: Führen Sie die Konvertierung mithilfe der Methode [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/) aus.
 ---
 
 {{<section codeexample>}}

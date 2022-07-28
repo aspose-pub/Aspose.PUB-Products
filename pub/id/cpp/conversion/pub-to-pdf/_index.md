@@ -35,7 +35,7 @@ item3: Jalankan Konversi melalui [*ConvertToPdf()*](https://reference.aspose.com
 ---
 title: Memulai dengan C++ PUB API
 item1: Instal dari baris perintah sebagai ``` nuget install Aspose.PUB.cpp``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.PUB.cpp```.
-item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/pub/cpp).
+item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

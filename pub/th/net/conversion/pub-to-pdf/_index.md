@@ -26,16 +26,16 @@ p3: ก่อนทำการแปลง คุณต้องรวม .NET 
 {{<section feature1>}}
 ---
 title: การแปลง PUB เป็น PDF บน .NET
-item1: โหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Method ของ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) คลาส
-item2: แยกไฟล์โดยใช้ [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Method of [*IPubParser*](https://apireference) .aspose.com/pub/net/aspose.pub/ipubparser) อินเทอร์เฟซ
-item3: แปลง PUB เป็น PDF ผ่าน [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) วิธีการของ [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) อินเทอร์เฟซ
+item1: โหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Method ของ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) คลาส
+item2: แยกไฟล์โดยใช้ [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Method of [*IPubParser*](https://apireference) .aspose.com/pub/net/aspose.pub/ipubparser) อินเทอร์เฟซ
+item3: แปลง PUB เป็น PDF ผ่าน [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) วิธีการของ [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) อินเทอร์เฟซ
 ---
 
 {{<section feature2>}}
 ---
 title: เริ่มต้นใช้งาน .NET PUB API
 item1: ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.PUB``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.PUB```
-item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/pub/net)
+item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/pub/net/)
 ---
 
 {{<section codeexample>}}

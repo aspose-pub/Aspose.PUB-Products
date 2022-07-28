@@ -29,8 +29,8 @@ p4: Πριν κωδικοποιήσετε τα Μεταδεδομένα, πρέ�
 ---
 title: Επεξεργασία μεταδεδομένων αρχείων PUB στο .NET
 item1: "Η διαδικασία ανάγνωσης μεταδεδομένων εκδότη αποτελείται από τα ακόλουθα βήματα:"
-item2: Ανεβάστε το αρχείο PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Μέθοδο του [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Τάξη.
-item3: Αναλύστε το έγγραφο μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Μέθοδος [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Διεπαφή.
+item2: Ανεβάστε το αρχείο PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Μέθοδο του [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Τάξη.
+item3: Αναλύστε το έγγραφο μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Μέθοδος [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
 item4: Επεξεργασία μεταδεδομένων π.χ. Εταιρεία μέσω του [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Μέθοδος [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Τάξη.
 ---
 
@@ -38,7 +38,7 @@ item4: Επεξεργασία μεταδεδομένων π.χ. Εταιρεία
 ---
 title: Ξεκινήστε με το .NET PUB API
 item1: Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.PUB``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.PUB``.
-item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/pub/net).
+item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

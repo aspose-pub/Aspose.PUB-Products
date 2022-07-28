@@ -35,7 +35,7 @@ item3: Chạy Chuyển đổi bằng [*ConvertToPdf()*](https://reference.aspose
 ---
 title: Bắt đầu với C ++ PUB API
 item1: Cài đặt từ dòng lệnh với tên `` nuget install Aspose.PUB.cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.PUB.cpp ''.
-item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/pub/cpp).
+item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

@@ -29,8 +29,8 @@ p4: 在編碼元數據之前，您需要集成 C# .NET PUB 元數據 API。以�
 ---
 title: 在 .NET 上編輯 PUB 文件的元數據
 item1: "發布者元數據讀取過程包括以下步驟："
-item2: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 上傳您的 PUB 文件 [*PubFactory*](https:///reference.aspose.com/pub/net/aspose.pub/pubfactory) 類。
-item3: 通過[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse)方法解析文檔[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) 接口。
+item2: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) 上傳您的 PUB 文件 [*PubFactory*](https:///reference.aspose.com/pub/net/aspose.pub/pubfactory) 類。
+item3: 通過[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse)方法解析文檔[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
 item4: 通過 [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) 方法編輯元數​​據，例如公司 [*DocSummaryInfo*](https:///reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) 類。
 ---
 
@@ -38,7 +38,7 @@ item4: 通過 [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/d
 ---
 title: .NET PUB API 入門
 item1: 從命令行安裝為 ```nuget install Aspose.PUB``` 或通過 Visual Studio 的 Package Manager Console 使用 ```Install-Package Aspose.PUB``` 安裝。
-item2: 或者，從 [下載](https://releases.aspose.com/pub/net) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+item2: 或者，從 [下載](https://releases.aspose.com/pub/net/) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 ---
 
 {{<section codeexample>}}

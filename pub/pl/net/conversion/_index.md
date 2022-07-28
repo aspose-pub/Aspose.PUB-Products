@@ -28,9 +28,9 @@ title: Konwertuj pliki Publisher .pub
 item1: Przyjrzyjmy się funkcjonalności poprzez konwersję PUB do PDF.
 item2: "Proces konwersji wydawcy składa się z następujących kroków:"
 item3: Zintegruj .NET PUB z PDF Converter API, który działa nie tylko z dokumentami jednostronicowymi, ale także obsługuje wielostronicowe pliki .pub.
-item4: Załaduj plik PUB przy użyciu klasy [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
-item5: CreateParser i Parse za pomocą metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfejs.
-item6: Uruchom konwersję za pomocą metody [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/).
+item4: Załaduj plik PUB przy użyciu klasy [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
+item5: CreateParser i Parse za pomocą metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Interfejs.
+item6: Uruchom konwersję za pomocą metody [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/).
 ---
 
 {{<section codeexample>}}

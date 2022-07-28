@@ -28,9 +28,9 @@ title: Μετατροπή αρχείων Publisher .pub
 item1: Ας δούμε τη λειτουργικότητα μέσω της μετατροπής PUB σε PDF.
 item2: "Η διαδικασία μετατροπής εκδότη αποτελείται από τα ακόλουθα βήματα:"
 item3: Ενσωματώστε το API μετατροπέα .NET PUB σε PDF, το οποίο λειτουργεί όχι μόνο με έγγραφα μιας σελίδας, αλλά υποστηρίζει και πολυσέλιδα αρχεία .pub.
-item4: Φορτώστε το αρχείο PUB χρησιμοποιώντας την κλάση [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
-item5: CreateParser and Parse μέσω της μεθόδου [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) του [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
-item6: Εκτελέστε τη μετατροπή μέσω της μεθόδου [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/).
+item4: Φορτώστε το αρχείο PUB χρησιμοποιώντας την κλάση [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
+item5: CreateParser and Parse μέσω της μεθόδου [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) του [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Διεπαφή.
+item6: Εκτελέστε τη μετατροπή μέσω της μεθόδου [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/).
 ---
 
 {{<section codeexample>}}

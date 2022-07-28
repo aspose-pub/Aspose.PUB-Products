@@ -29,8 +29,8 @@ p4: 'قبل تشفير البيانات الوصفية ، تحتاج إلى دم
 ---
 title: تحرير البيانات الوصفية لملفات PUB على .NET
 item1: "تتكون عملية قراءة البيانات الوصفية للناشر من الخطوات التالية:"
-item2: قم بتحميل ملف PUB الخاص بك باستخدام طريقة [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) الخاصة بـ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) فئة.
-item3: قم بتحليل المستند عبر [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) طريقة [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) الواجهة.
+item2: قم بتحميل ملف PUB الخاص بك باستخدام طريقة [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) الخاصة بـ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) فئة.
+item3: قم بتحليل المستند عبر [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) طريقة [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) الواجهة.
 item4: تحرير البيانات الوصفية ، مثل الشركة عن طريق [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) طريقة [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) فئة.
 ---
 
@@ -38,7 +38,7 @@ item4: تحرير البيانات الوصفية ، مثل الشركة عن ط
 ---
 title: ابدأ مع .NET PUB API
 item1: قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.PUB '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.PUB ''.
-item2: بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/pub/net).
+item2: بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

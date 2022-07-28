@@ -35,7 +35,7 @@ item3: '[*IPdfConverter*](https://reference.aspose.com/pub/cpp/class/aspose.pub.
 ---
 title: C++ PUB API 시작하기
 item1: 명령줄에서 ```nuget install Aspose.PUB.cpp```로 설치하거나 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.PUB.cpp```로 설치합니다.
-item2: 또는 [downloads](https://releases.aspose.com/pub/cpp)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+item2: 또는 [downloads](https://releases.aspose.com/pub/cpp/)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 ---
 
 {{<section codeexample>}}

@@ -35,7 +35,7 @@ item3: Voer de conversie uit door middel van [*ConvertToPdf()*](https://referenc
 ---
 title: Aan de slag met C++ PUB API
 item1: Installeer vanaf de opdrachtregel als ```nuget install Aspose.PUB.cpp``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.PUB.cpp```.
-item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/pub/cpp).
+item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

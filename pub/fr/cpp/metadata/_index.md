@@ -38,7 +38,7 @@ item4: Modifier les métadonnées, par exemple la catégorie au moyen de [*SetCa
 ---
 title: Premiers pas avec l'API CPP PUB
 item1: Installez à partir de la ligne de commande en tant que ```nuget install Aspose.PUB.cpp``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.PUB.cpp```.
-item2: Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://releases.aspose.com/pub/cpp).
+item2: Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

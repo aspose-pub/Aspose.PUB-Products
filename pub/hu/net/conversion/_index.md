@@ -28,9 +28,9 @@ title: A Publisher .pub fájlok konvertálása
 item1: Nézzük meg a funkcionalitást a PUB-ból PDF-be konvertáláson keresztül.
 item2: "A megjelenítői konverziós folyamat a következő lépésekből áll:"
 item3: Integrálja a .NET PUB to PDF Converter API-t, amely nem csak egyoldalas dokumentumokkal működik, hanem támogatja a többoldalas .pub fájlokat is.
-item4: Töltse be a PUB-fájlt a [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) osztály használatával.
-item5: CreateParser és elemzés a [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfész.
-item6: Futtassa az átalakítást a [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) módszerrel.
+item4: Töltse be a PUB-fájlt a [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//) osztály használatával.
+item5: CreateParser és elemzés a [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Interfész.
+item6: Futtassa az átalakítást a [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/) módszerrel.
 ---
 
 {{<section codeexample>}}

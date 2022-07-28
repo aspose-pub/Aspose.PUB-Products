@@ -35,7 +35,7 @@ item3: قم بتشغيل التحويل عن طريق [*ConvertToPdf()*](https:/
 ---
 title: ابدأ مع C ++ PUB API
 item1: قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.PUB.cpp '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.PUB.cpp ''.
-item2: بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/pub/cpp).
+item2: بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

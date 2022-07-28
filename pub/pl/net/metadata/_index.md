@@ -29,8 +29,8 @@ p4: Przed kodowaniem metadanych należy zintegrować interfejs API metadanych C#
 ---
 title: Edytuj metadane plików PUB w .NET
 item1: "Proces odczytywania metadanych wydawcy składa się z następujących kroków:"
-item2: Prześlij plik PUB za pomocą [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Klasa.
-item3: Przeanalizuj dokument za pomocą metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Interfejs.
+item2: Prześlij plik PUB za pomocą [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasa.
+item3: Przeanalizuj dokument za pomocą metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfejs.
 item4: Edytuj metadane, np. Firma za pomocą metody [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) metody [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Klasa.
 ---
 
@@ -38,7 +38,7 @@ item4: Edytuj metadane, np. Firma za pomocą metody [*SetCompany*()](https://ref
 ---
 title: Pierwsze kroki z .NET PUB API
 item1: Zainstaluj z wiersza poleceń jako ```nuget install Aspose.PUB``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.PUB```.
-item2: Możesz też pobrać instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://releases.aspose.com/pub/net).
+item2: Możesz też pobrać instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

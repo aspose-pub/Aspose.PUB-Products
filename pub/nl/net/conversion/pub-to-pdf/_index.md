@@ -26,16 +26,16 @@ p3: Voordat u de conversie uitvoert, moet u de .NET PUB naar PDF Converter API i
 {{<section feature1>}}
 ---
 title: PUB naar PDF-conversie op .NET
-item1: Laad PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode van [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) klasse.
-item2: Bestand ontleden door middel van [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) interface.
-item3: Converteer PUB naar PDF via [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Methode van [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) interface.
+item1: Laad PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Methode van [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) klasse.
+item2: Bestand ontleden door middel van [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interface.
+item3: Converteer PUB naar PDF via [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) Methode van [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) interface.
 ---
 
 {{<section feature2>}}
 ---
 title: Aan de slag met .NET PUB API
 item1: Installeer vanaf de opdrachtregel als ```nuget install Aspose.PUB``` of via de Package Manager Console van Visual Studio met ```Install-Package Aspose.PUB```.
-item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/pub/net).
+item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

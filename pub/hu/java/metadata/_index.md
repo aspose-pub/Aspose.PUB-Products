@@ -28,7 +28,7 @@ p4: A metaadatok kódolása előtt integrálnia kell a Java PUB Metadata API-t. 
 {{<section widget>}}
 ---
 title: A PUB-metaadatok szerkesztése Java használatával
-item1: "A PUB-metaadatok szerkesztéséhez az [Aspose.PUB for Java API](https://products.aspose.com/pub/java) fájlt használjuk, amely funkciókban gazdag, hatékony és könnyen használható konverzió. API a Java platformhoz. Legfrissebb verzióját közvetlenül a webhelyről töltheti le [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub), és telepítheti a Mavenbe. -alapú projektet a következő konfigurációk hozzáadásával a pom.xml fájlhoz."
+item1: "A PUB-metaadatok szerkesztéséhez az [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) fájlt használjuk, amely funkciókban gazdag, hatékony és könnyen használható konverzió. API a Java platformhoz. Legfrissebb verzióját közvetlenül a webhelyről töltheti le [Maven](https://repository.aspose.com/pub/), és telepítheti a Mavenbe. -alapú projektet a következő konfigurációk hozzáadásával a pom.xml fájlhoz."
 ---
 
 {{<section feature1>}}

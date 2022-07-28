@@ -38,7 +38,7 @@ item4: Edit metadata e.g Category by means of [*SetCategory*()](https://referenc
 ---
 title: Get Started with CPP PUB API
 item1: Install from command line as ```nuget install Aspose.PUB.cpp``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.PUB.cpp```.
-item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/pub/cpp).
+item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

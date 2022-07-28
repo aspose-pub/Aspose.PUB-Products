@@ -28,7 +28,7 @@ p4: ก่อนการเข้ารหัส Metadata คุณต้อง
 {{<section widget>}}
 ---
 title: วิธีแก้ไขข้อมูลเมตา PUB โดยใช้ Java
-item1: "ในการแก้ไขข้อมูลเมตาของ PUB เราจะใช้ [Aspose.PUB for Java API](https://products.aspose.com/pub/java) ซึ่งเป็นการแปลงที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม Java คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub) และติดตั้งภายใน Maven ของคุณ - ตามโครงการโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml"
+item1: "ในการแก้ไขข้อมูลเมตาของ PUB เราจะใช้ [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) ซึ่งเป็นการแปลงที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม Java คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก [Maven](https://repository.aspose.com/pub/) และติดตั้งภายใน Maven ของคุณ - ตามโครงการโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml"
 ---
 
 {{<section feature1>}}

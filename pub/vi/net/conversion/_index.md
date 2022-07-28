@@ -28,9 +28,9 @@ title: Chuyển đổi tệp .pub của Nhà xuất bản
 item1: Hãy xem xét chức năng thông qua chuyển đổi PUB sang PDF.
 item2: "Quy trình Chuyển đổi của nhà xuất bản bao gồm các bước tiếp theo:"
 item3: Tích hợp .NET PUB to PDF Converter API, API này không chỉ hoạt động với các tài liệu một trang mà còn hỗ trợ các tệp .pub nhiều trang.
-item4: Tải tệp PUB bằng cách sử dụng Lớp [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
-item5: CreateParser và Parse thông qua phương thức [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) của [*IPubParser*](https://thamchiếu.aspose.com/pub/net/aspose.pub/ipubparser/) Giao diện.
-item6: Chạy chuyển đổi bằng Phương thức [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/).
+item4: Tải tệp PUB bằng cách sử dụng Lớp [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
+item5: CreateParser và Parse thông qua phương thức [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) của [*IPubParser*](https://thamchiếu.aspose.com/pub/net/aspose.pub/ipubparser/) Giao diện.
+item6: Chạy chuyển đổi bằng Phương thức [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/).
 ---
 
 {{<section codeexample>}}

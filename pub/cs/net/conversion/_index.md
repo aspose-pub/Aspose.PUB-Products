@@ -28,9 +28,9 @@ title: Převést soubory .pub aplikace Publisher
 item1: Podívejme se na funkčnost prostřednictvím převodu PUB do PDF.
 item2: "Proces konverze majitele stránek se skládá z následujících kroků:"
 item3: Integrujte rozhraní .NET PUB to PDF Converter API, které pracuje nejen s jednostránkovými dokumenty, ale podporuje i vícestránkové soubory .pub.
-item4: Načtěte soubor PUB pomocí třídy [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
-item5: CreateParser a Parse pomocí metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Rozhraní.
-item6: Spusťte převod pomocí metody [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/).
+item4: Načtěte soubor PUB pomocí třídy [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
+item5: CreateParser a Parse pomocí metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Rozhraní.
+item6: Spusťte převod pomocí metody [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/).
 ---
 
 {{<section codeexample>}}

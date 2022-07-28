@@ -26,16 +26,16 @@ p3: Sebelum menjalankan konversi, Anda perlu mengintegrasikan .NET PUB ke PDF Co
 {{<section feature1>}}
 ---
 title: Konversi PUB ke PDF di .NET
-item1: Muat file PUB menggunakan [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metode [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Kelas.
-item2: Parsing file melalui [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metode [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Antarmuka.
-item3: Konversi PUB ke PDF melalui [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Metode [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) Antarmuka.
+item1: Muat file PUB menggunakan [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Metode [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Kelas.
+item2: Parsing file melalui [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Metode [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Antarmuka.
+item3: Konversi PUB ke PDF melalui [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) Metode [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Antarmuka.
 ---
 
 {{<section feature2>}}
 ---
 title: Memulai dengan .NET PUB API
 item1: Instal dari baris perintah sebagai ```nuget install Aspose.PUB``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.PUB```.
-item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/pub/net).
+item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

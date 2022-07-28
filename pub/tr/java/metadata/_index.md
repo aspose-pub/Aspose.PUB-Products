@@ -28,7 +28,7 @@ p4: Meta Verileri kodlamadan önce Java PUB Meta Veri API'sini entegre etmeniz g
 {{<section widget>}}
 ---
 title: Java Kullanarak PUB Meta Verileri Nasıl Düzenlenir
-item1: "PUB Meta Verilerini Düzenlemek için, zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüşüm olan [Aspose.PUB for Java API](https://products.aspose.com/pub/java) kullanacağız. Java platformu için API. En son sürümünü doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub) adresinden indirebilir ve Maven'inize yükleyebilirsiniz. pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek proje tabanlı bir proje oluşturun."
+item1: "PUB Meta Verilerini Düzenlemek için, zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüşüm olan [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) kullanacağız. Java platformu için API. En son sürümünü doğrudan [Maven](https://repository.aspose.com/pub/) adresinden indirebilir ve Maven'inize yükleyebilirsiniz. pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek proje tabanlı bir proje oluşturun."
 ---
 
 {{<section feature1>}}

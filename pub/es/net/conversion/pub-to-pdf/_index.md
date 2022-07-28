@@ -26,16 +26,16 @@ p3: Antes de ejecutar la conversión, debe integrar .NET PUB to PDF Converter AP
 {{<section feature1>}}
 ---
 title: Conversión de PUB a PDF en .NET
-item1: Cargue el archivo PUB usando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Método de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Clase.
-item2: Analizar archivo por medio de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Método de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Interfaz.
-item3: Convierta PUB a PDF mediante [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Método de [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) Interfaz.
+item1: Cargue el archivo PUB usando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Método de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Clase.
+item2: Analizar archivo por medio de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Método de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfaz.
+item3: Convierta PUB a PDF mediante [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) Método de [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Interfaz.
 ---
 
 {{<section feature2>}}
 ---
 title: Introducción a la API de .NET PUB
 item1: Instale desde la línea de comandos como ```nuget install Aspose.PUB``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.PUB```.
-item2: Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/pub/net).
+item2: Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

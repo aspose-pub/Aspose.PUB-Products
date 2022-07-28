@@ -29,8 +29,8 @@ p4: Prima di codificare i metadati, è necessario integrare l'API dei metadati C
 ---
 title: Modifica i metadati dei file PUB su .NET
 item1: "Il processo di lettura dei metadati dell'editore consiste nei seguenti passaggi:"
-item2: Carica il tuo file PUB utilizzando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metodo di [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Classe.
-item3: Analizza il documento tramite [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metodo di [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) interfaccia.
+item2: Carica il tuo file PUB utilizzando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Metodo di [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
+item3: Analizza il documento tramite [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Metodo di [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interfaccia.
 item4: Modifica i metadati, ad es. Società tramite [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Metodo di [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Classe.
 ---
 
@@ -38,7 +38,7 @@ item4: Modifica i metadati, ad es. Società tramite [*SetCompany*()](https://ref
 ---
 title: Inizia con l'API .NET PUB
 item1: Installa dalla riga di comando come ```nuget install Aspose.PUB``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.PUB```.
-item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/pub/net).
+item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

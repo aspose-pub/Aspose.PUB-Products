@@ -26,16 +26,16 @@ p3: Dönüştürmeyi çalıştırmadan önce, yalnızca tek sayfalı belgelerle 
 {{<section feature1>}}
 ---
 title: .NET'te PUB'dan PDF'ye Dönüştürme
-item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) [*PubFactory*](https://) yöntemini kullanarak PUB dosyasını yükleyin apireference.aspose.com/pub/net/aspose.pub/pubfactory) Sınıf.'
-item2: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) aracılığıyla dosyayı ayrıştırın [*IPubParser*](https://apireference) Yöntemi .aspose.com/pub/net/aspose.pub/ipubparser) Arayüzü.'
-item3: "[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) yoluyla PUB'u PDF'ye dönüştürün [*IPdfConverter*](https://apireference) Yöntemi .aspose.com/pub/net/aspose.pub/ipdfconverter) Arayüz."
+item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) [*PubFactory*](https://) yöntemini kullanarak PUB dosyasını yükleyin apireference.aspose.com/pub/net/aspose.pub/pubfactory) Sınıf.'
+item2: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) aracılığıyla dosyayı ayrıştırın [*IPubParser*](https://apireference) Yöntemi .aspose.com/pub/net/aspose.pub/ipubparser) Arayüzü.'
+item3: "[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) yoluyla PUB'u PDF'ye dönüştürün [*IPdfConverter*](https://apireference) Yöntemi .aspose.com/pub/net/aspose.pub/ipdfconverter) Arayüz."
 ---
 
 {{<section feature2>}}
 ---
 title: .NET PUB API'sini Kullanmaya Başlayın
 item1: Komut satırından ```nuget install Aspose.PUB``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.PUB`` ile kurun.
-item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/pub/net) adresinden bir ZIP dosyasında alın.
+item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/pub/net/) adresinden bir ZIP dosyasında alın.
 ---
 
 {{<section codeexample>}}

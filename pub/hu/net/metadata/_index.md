@@ -29,8 +29,8 @@ p4: A metaadatok kódolása előtt integrálnia kell a C# .NET PUB Metadata API-
 ---
 title: PUB-fájlok metaadatainak szerkesztése a .NET-en
 item1: "A kiadói metaadatok olvasási folyamata a következő lépésekből áll:"
-item2: Töltse fel PUB-fájlját a [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) módszerével [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Osztály.
-item3: Elemezze a dokumentumot a  metódusával [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Interfész.
+item2: Töltse fel PUB-fájlját a [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) módszerével [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Osztály.
+item3: Elemezze a dokumentumot a  metódusával [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfész.
 item4: Szerkessze a metaadatokat, például a vállalatot a [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) segítségével [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Osztály.
 ---
 
@@ -38,7 +38,7 @@ item4: Szerkessze a metaadatokat, például a vállalatot a [*SetCompany*()](htt
 ---
 title: Ismerkedjen meg a .NET PUB API-val
 item1: Telepítés parancssorból ```nuget install Aspose.PUB``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.PUB``` segítségével.
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a webhelyről [letöltések](https://releases.aspose.com/pub/net).
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a webhelyről [letöltések](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

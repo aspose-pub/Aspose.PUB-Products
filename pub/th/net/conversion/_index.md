@@ -28,9 +28,9 @@ title: แปลงไฟล์ .pub ของผู้จัดพิมพ์
 item1: มาดูการทำงานผ่านการแปลง PUB เป็น PDF
 item2: "ขั้นตอนการแปลงของผู้เผยแพร่โฆษณาประกอบด้วยขั้นตอนถัดไป:"
 item3: ผสานรวม .NET PUB เข้ากับ PDF Converter API ซึ่งใช้งานได้ไม่เฉพาะกับเอกสารหน้าเดียว แต่ยังรองรับไฟล์ .pub แบบหลายหน้าอีกด้วย
-item4: โหลดไฟล์ PUB โดยใช้คลาส [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/)
-item5: CreateParser และ Parse ผ่าน [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) วิธีการของ [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) อินเทอร์เฟซ
-item6: เรียกใช้การแปลงโดยใช้วิธีการ [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/)
+item4: โหลดไฟล์ PUB โดยใช้คลาส [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//)
+item5: CreateParser และ Parse ผ่าน [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) วิธีการของ [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) อินเทอร์เฟซ
+item6: เรียกใช้การแปลงโดยใช้วิธีการ [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/)
 ---
 
 {{<section codeexample>}}

@@ -28,9 +28,9 @@ title: パブリッシャーの.pubファイルを変換する
 item1: PUBからPDFへの変換による機能を見てみましょう。
 item2: "サイト運営者の変換プロセスは、次のステップで構成されています。"
 item3: .NETPUBをPDFConverterAPIに統合します。これは、単一ページのドキュメントだけでなく、複数ページの.pubファイルもサポートします。
-item4: '[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) クラスを使用してPUBファイルをロードします。'
-item5: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) インターフェース。'
-item6: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/)メソッドを使用して変換を実行します。'
+item4: '[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//) クラスを使用してPUBファイルをロードします。'
+item5: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) インターフェース。'
+item6: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/)メソッドを使用して変換を実行します。'
 ---
 
 {{<section codeexample>}}

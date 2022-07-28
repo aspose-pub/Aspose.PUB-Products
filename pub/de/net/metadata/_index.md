@@ -29,8 +29,8 @@ p4: Vor dem Codieren von Metadaten müssen Sie die C# .NET PUB-Metadaten-API int
 ---
 title: Bearbeiten Sie Metadaten von PUB-Dateien in .NET
 item1: "Der Leseprozess für Publisher-Metadaten besteht aus den nächsten Schritten:"
-item2: Laden Sie Ihre PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode von [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Klasse.
-item3: Analysieren Sie das Dokument über [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Schnittstelle.
+item2: Laden Sie Ihre PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Methode von [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasse.
+item3: Analysieren Sie das Dokument über [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Methode von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Schnittstelle.
 item4: Bearbeiten Sie Metadaten, z. B. Unternehmen, mithilfe von [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Methode von [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Klasse.
 ---
 
@@ -38,7 +38,7 @@ item4: Bearbeiten Sie Metadaten, z. B. Unternehmen, mithilfe von [*SetCompany*()
 ---
 title: Erste Schritte mit der .NET PUB-API
 item1: Installieren Sie von der Befehlszeile als ```nuget install Aspose.PUB``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.PUB```.
-item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [Downloads](https://releases.aspose.com/pub/net) herunterladen.
+item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [Downloads](https://releases.aspose.com/pub/net/) herunterladen.
 ---
 
 {{<section codeexample>}}

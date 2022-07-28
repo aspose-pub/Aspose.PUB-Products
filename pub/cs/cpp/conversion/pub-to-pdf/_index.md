@@ -35,7 +35,7 @@ item3: Spusťte převod pomocí [*ConvertToPdf()*](https://reference.aspose.com/
 ---
 title: Začněte s C++ PUB API
 item1: Instalujte z příkazového řádku jako ```nuget install Aspose.PUB.cpp``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.PUB.cpp```.
-item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/pub/cpp).
+item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

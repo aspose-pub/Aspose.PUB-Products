@@ -26,7 +26,7 @@ p3: Prima di eseguire la conversione è necessario integrare l'API .NET PUB to P
 {{<section feature1>}}
 ---
 title: Conversione da PUB a PDF su .NET
-item1: Carica il file PUB utilizzando [*CreateParser*()](https://apiference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metodo di [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Classe.
+item1: Carica il file PUB utilizzando [*CreateParser*()](https://apiference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metodo di [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
 item2: Analizza il file per mezzo di [*Parse*()](https://apiference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metodo di [*IPubParser*](https://apareference.aspose.com/pub/net/aspose.pub/ipubparser) interfaccia.
 item3: Converti PUB in PDF tramite [*ConvertToPdf*()](https://apiference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Metodo di [*IPdfConverter*](https://afireference.aspose.com/pub/net/aspose.pub/ipdfconverter) Interfaccia.
 ---
@@ -35,7 +35,7 @@ item3: Converti PUB in PDF tramite [*ConvertToPdf*()](https://apiference.aspose.
 ---
 title: Inizia con l'API .NET PUB
 item1: Installa dalla riga di comando come ```nuget install Aspose.PUB``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.PUB```.
-item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/pub/net).
+item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}
