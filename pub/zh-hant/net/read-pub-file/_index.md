@@ -4,7 +4,7 @@ template: /_templates/reader-net.md
 title: 打开 PUB 文档 | .NET
 description: 以編程方式打開 Publisher 文件。用於讀取 PUB 屬性的本地 .NET C# API 解決方案。使用它來集成到您的項目中。
 url: /net/read-pub-file/
-metakeywords: ''
+metakeywords: 閱讀 PUB 文件, PUB文件打開器
 family: pub
 platformtag: net
 ---
@@ -26,7 +26,7 @@ p4: 在這裡，您將獲得 .NET API 解決方案，可讓您查看 MS Publishe
 {{<section feature1>}}
 ---
 title: 閱讀 .NET 上的 Publisher 文件
-item1: "要查看 .pub 文件屬性，您需要執行以下步驟："
+item1: "要查看 .pub 文件屬性，您需要執行以下步驟:"
 item2: 集成 .NET PUB API，它不僅適用於單頁文檔，還支持多頁 .pub 文件。
 item3: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) 上傳您的 PUB 文件 [*PubFactory*](https:///reference.aspose.com/pub/net/aspose.pub/pubfactory) 類。
 item4: 通過[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse)方法解析文檔[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
@@ -36,7 +36,7 @@ item5: 打印文檔 [*properties*](https://reference.aspose.com/pub/net/aspose.p
 {{<section feature2>}}
 ---
 title: .NET PUB API 入門
-item1: "有兩種方法可以安裝產品："
+item1: "有兩種方法可以安裝產品:"
 item2: 從命令行安裝為 ```nuget install Aspose.PUB``` 或通過 Visual Studio 的 Package Manager Console 使用 ```Install-Package Aspose.PUB``` 安裝。
 item3: 或者，從 [下載](https://releases.aspose.com/pub/net/) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 ---

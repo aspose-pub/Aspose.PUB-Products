@@ -3,6 +3,7 @@ translation: true
 template: /_templates/reader-net.md
 title: 阅读 PUB 文件 | .NET
 description: 以编程方式打开 Publisher 文件。 用于读取 PUB 属性的 C# .NET API 解决方案。 使用它来集成到您的项目中。
+url: /net/read-pub-file/
 metakeywords: 打开 pub 文件 .net, 查看发布者文件 c#, 读取发布者文件, c# 发布者查看器, pub 格式阅读器, pub 文件打开器
 family: pub
 platformtag: net
@@ -25,17 +26,17 @@ p4: 在这里，您将获得 .NET API 解决方案，可让您查看 MS Publishe
 {{<section feature1>}}
 ---
 title: 阅读 .NET 上的 Publisher 文件
-item1: "要查看 .pub 文件属性，您需要执行以下步骤："
+item1: "要查看 .pub 文件属性，您需要执行以下步骤:"
 item2: 集成 .NET PUB API，它不仅适用于单页文档，还支持多页 .pub 文件。
-item3: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) 上传您的 PUB 文件 [*PubFactory*](https:///reference.aspose.com/pub/net/aspose.pub/pubfactory) 类。
-item4: 通过[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse)方法解析文档[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
+item3: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) 上传您的 PUB 文件 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 类。
+item4: 通过 [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) 方法解析文档[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
 item5: 打印文档 [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties)。
 ---
 
 {{<section feature2>}}
 ---
 title: .NET PUB API 入门
-item1: "有两种方法可以安装产品："
+item1: "有两种方法可以安装产品:"
 item2: 从命令行安装为 ```nuget install Aspose.PUB``` 或通过 Visual Studio 的 Package Manager Console 使用 ```Install-Package Aspose.PUB``` 安装。
 item3: 或者，从 [下载](https://releases.aspose.com/pub/net/) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
 ---
