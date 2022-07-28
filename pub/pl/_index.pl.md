@@ -42,7 +42,7 @@ Biblioteka C++ do odczytywania, ładowania, edytowania i konwertowania plików M
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia o Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia o Aspose." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

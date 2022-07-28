@@ -6,7 +6,7 @@ description: PUB操作および解析ライブラリ。これは、MSパブリ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="MicrosoftPublisherファイル操作API" h2="ソフトウェアに依存せずにPUBファイルをロード、編集、変換するためのネイティブ.NET、Java、およびC++ API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="MicrosoftPublisherファイル操作API" h2="ソフトウェアに依存せずにPUBファイルをロード、編集、変換するためのネイティブ.NET、Java、およびC++ API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUBハイコードAPIには次のものが含まれます" >}}
@@ -30,7 +30,7 @@ Windowsプラットフォームで開発されたC++アプリケーション内�
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://reference.aspose.com/pub" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -47,6 +47,6 @@ Windowsプラットフォームで開発されたC++アプリケーション内�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

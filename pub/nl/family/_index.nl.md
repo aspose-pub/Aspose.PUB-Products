@@ -6,7 +6,7 @@ description: PUB manipulatie en parsing bibliotheek. Dit is de API-oplossing voo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API's voor manipulatie van Microsoft Publisher-bestanden" h2="Native .NET-, Java- en C++-API's om PUB-bestanden te laden, bewerken en converteren zonder enige softwareafhankelijkheden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API's voor manipulatie van Microsoft Publisher-bestanden" h2="Native .NET-, Java- en C++-API's om PUB-bestanden te laden, bewerken en converteren zonder enige softwareafhankelijkheden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB High Code API's omvatten:" >}}
@@ -30,7 +30,7 @@ Parse .pub-bestanden en converteer ze naar PDF-, Word-, Excel- en afbeeldingsfor
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="API-referenties" href="https://apireference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="API-referenties" href="https://reference.aspose.com/pub" >}}
 {{< blocks/products/pf/slr-element name="Instructievideo's" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -47,6 +47,6 @@ Parse .pub-bestanden en converteer ze naar PDF-, Word-, Excel- en afbeeldingsfor
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -42,7 +42,7 @@ Knihovna C++ pro čtení, načítání, úpravy a převod souborů Microsoft Pub
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

@@ -7,11 +7,11 @@ metakeywords: PUBの場合はC＃、PUBの場合はCsharp、C＃PUb、pub .NET
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="パブリッシャーファイルを操作するための.NETAPI" h2="ソフトウェアに依存せずにPUBPublisher形式をPDFに変換する." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="パブリッシャーファイルを操作するための.NETAPI" h2="ソフトウェアに依存せずにPUBPublisher形式をPDFに変換する." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -325,7 +325,7 @@ Aspose.PUB for .NETは、電子パブリケーションファイルを操作す�
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/pub/net/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-pub/Aspose.PUB-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/net/pub" >}}
+{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://reference.aspose.com/pub/net/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -343,7 +343,7 @@ Aspose.PUB for .NETは、電子パブリケーションファイルを操作す�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUBは、以下に示すように、他の一般的な開発環境向けに個別のPUB処理APIを提供します。" >}}
 

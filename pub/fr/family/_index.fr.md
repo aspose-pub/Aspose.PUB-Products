@@ -6,7 +6,7 @@ description: Bibliothèque de manipulation et d'analyse PUB. Il s'agit de la sol
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de manipulation de fichiers Microsoft Publisher" h2="API natives .NET, Java et C++ pour charger, éditer et convertir des fichiers PUB sans aucune dépendance logicielle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de manipulation de fichiers Microsoft Publisher" h2="API natives .NET, Java et C++ pour charger, éditer et convertir des fichiers PUB sans aucune dépendance logicielle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Les API Aspose.PUB High Code incluent" >}}
@@ -30,7 +30,7 @@ Analysez les fichiers .pub et convertissez-les en formats PDF, Word, Excel et im
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="Références API" href="https://apireference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="Références API" href="https://reference.aspose.com/pub" >}}
 {{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -47,6 +47,6 @@ Analysez les fichiers .pub et convertissez-les en formats PDF, Word, Excel et im
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

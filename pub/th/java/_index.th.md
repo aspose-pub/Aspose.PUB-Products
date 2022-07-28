@@ -7,11 +7,11 @@ metakeywords: Java สำหรับ PUB, โซลูชัน Java PUB, Java 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API การจัดการไฟล์ Java PUB" h2="โหลดและแปลง PUB เป็น PDF ภายในแอปพลิเคชันที่ใช้ Java โดยไม่ต้องพึ่งพาซอฟต์แวร์ใดๆ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/pub/java" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API การจัดการไฟล์ Java PUB" h2="โหลดและแปลง PUB เป็น PDF ภายในแอปพลิเคชันที่ใช้ Java โดยไม่ต้องพึ่งพาซอฟต์แวร์ใดๆ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/pub/java/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="สำนักพิมพ์:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub" directDownloadLink="https://downloads.aspose.com/pub/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="สำนักพิมพ์:" mavenRepoLink="https://repository.aspose.com/pub/" directDownloadLink="https://releases.aspose.com/pub/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -323,7 +323,7 @@ MS Publisher บันทึกไฟล์ที่มีนามสกุล 
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/pub/java/" >}}
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-pub/Aspose.PUB-for-Java" >}}
-{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://apireference.aspose.com/pub/java" >}}
+{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://reference.aspose.com/pub/java/" >}}
 {{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -341,7 +341,7 @@ MS Publisher บันทึกไฟล์ที่มีนามสกุล 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/java" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB นำเสนอ API การประมวลผล PUB แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมอื่นๆ ตามรายการด้านล่าง:" >}}
 

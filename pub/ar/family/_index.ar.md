@@ -6,7 +6,7 @@ description: مكتبة تحليل وتحليل PUB. هذا هو حل API لتح
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات معالجة ملفات Microsoft Publisher" h2="واجهات برمجة تطبيقات Native .NET و Java و C++ لتحميل ملفات PUB وتحريرها وتحويلها دون أي تبعيات للبرامج." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات معالجة ملفات Microsoft Publisher" h2="واجهات برمجة تطبيقات Native .NET و Java و C++ لتحميل ملفات PUB وتحريرها وتحويلها دون أي تبعيات للبرامج." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="تتضمن واجهات برمجة تطبيقات Aspose.PUB High Code" >}}
@@ -30,7 +30,7 @@ description: مكتبة تحليل وتحليل PUB. هذا هو حل API لتح
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://apireference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/pub" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -47,6 +47,6 @@ description: مكتبة تحليل وتحليل PUB. هذا هو حل API لتح
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

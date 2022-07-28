@@ -7,11 +7,11 @@ metakeywords: 用于 PUB 的 C#、用于 PUB 的 Csharp、C# PUB、pub .NET
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET API 来操作发布者文件" h2="将 PUB Publisher 格式转换为 PDF，无需任何软件依赖." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET API 来操作发布者文件" h2="将 PUB Publisher 格式转换为 PDF，无需任何软件依赖." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/pub/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -325,7 +325,7 @@ Aspose.PUB for .NET 是一个灵活且易于使用的库，用于处理电子出
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/pub/net/" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-pub/Aspose.PUB-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 参考" href="https://apireference.aspose.com/net/pub" >}}
+{{< blocks/products/pf/slr-element name="API 参考" href="https://reference.aspose.com/pub/net/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -343,7 +343,7 @@ Aspose.PUB for .NET 是一个灵活且易于使用的库，用于处理电子出
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB 为其他流行的开发环境提供单独的 PUB 处理 API，如下所示：" >}}
 

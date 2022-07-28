@@ -6,7 +6,7 @@ description: PUB 操作和解析庫。這是在任何平台上加載、編輯、
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Publisher 文件操作 API" h2="本地 .NET、Java 和 C++ API，用於加載、編輯和轉換 PUB 文件，無需任何軟件依賴." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://downloads.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Publisher 文件操作 API" h2="本地 .NET、Java 和 C++ API，用於加載、編輯和轉換 PUB 文件，無需任何軟件依賴." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB 高代碼 API 包括" >}}
@@ -30,7 +30,7 @@ PUB 文件處理桌面、Web 或任何基於 Java SE 或 EE 的應用程序的 J
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/pub" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -47,6 +47,6 @@ PUB 文件處理桌面、Web 或任何基於 Java SE 或 EE 的應用程序的 J
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

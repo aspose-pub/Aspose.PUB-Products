@@ -13,7 +13,9 @@ feature: conversion
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-{{i18n.overview}}
+<p>{{i18n.overview.p1}}</p>
+<p>{{i18n.overview.p2}}</p>
+<p>{{i18n.overview.p3}}</p>
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
@@ -37,32 +39,34 @@ feature: conversion
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 
-{{i18n.overview2}}
+<p>{{i18n.summary.p1}}</p>
+<p>{{i18n.summary.p2}}</p>
+<p>{{i18n.summary.p3}}</p>
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/en/partials/_content.md" section="learningresources.tabTitle">}}" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/en/partials/_content.md" section="learningresources.name1">}}" href="https://docs.aspose.com/pub/cpp/" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/en/partials/_content.md" section="learningresources.name2">}}" href="https://github.com/aspose-pub/Aspose.PUB-for-C" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/en/partials/_content.md" section="learningresources.name3">}}" href="https://apireference.aspose.com/cpp/pub" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.tabTitle">}}" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.name1">}}" href="https://docs.aspose.com/pub/cpp/" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.name2">}}" href="https://github.com/aspose-pub/Aspose.PUB-for-C" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.name3">}}" href="https://reference.aspose.com/pub/cpp" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/en/partials/_content.md" section="support.tabTitle">}}" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/en/partials/_content.md" section="support.name1">}}" href="https://forum.aspose.com/c/pub" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/en/partials/_content.md" section="support.name2">}}" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/en/partials/_content.md" section="support.name3">}}" href="https://blog.aspose.com/category/pub/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="support.tabTitle">}}" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="support.name1">}}" href="https://forum.aspose.com/c/pub" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="support.name2">}}" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="support.name3">}}" href="https://blog.aspose.com/category/pub/" >}}
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/pub/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/en/partials/_content.md" section="why.tabTitle">}}" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/en/partials/_content.md" section="why.name1">}}" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/en/partials/_content.md" section="why.name2">}}" href="https://blog.aspose.com/category/pub/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="why.tabTitle">}}" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="why.name1">}}" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="why.name2">}}" href="https://blog.aspose.com/category/pub/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/pub/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
 
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

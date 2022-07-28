@@ -42,7 +42,7 @@ Java APIs เพื่อจัดการไฟล์ PUB โหลดแล�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูความคิดเห็นของผู้ใช้เกี่ยวกับ Aspose" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูความคิดเห็นของผู้ใช้เกี่ยวกับ Aspose" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

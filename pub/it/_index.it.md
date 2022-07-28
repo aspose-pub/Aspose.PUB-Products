@@ -42,7 +42,7 @@ Libreria C++ per leggere, caricare, modificare e convertire i file di Microsoft 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Guarda cosa hanno da dire gli utenti su Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Guarda cosa hanno da dire gli utenti su Aspose." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
