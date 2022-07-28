@@ -38,7 +38,7 @@ item4: 通过 [*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspos
 ---
 title: 开始使用 CPP PUB API
 item1: 从命令行安装为 ```nuget install Aspose.PUB.cpp``` 或通过 Visual Studio 的包管理器控制台使用 ``Install-Package Aspose.PUB.cpp``。
-item2: 或者，从 [下载](https://releases.aspose.com/pub/cpp) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
+item2: 或者，从 [下载](https://releases.aspose.com/pub/cpp/) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
 ---
 
 {{<section codeexample>}}

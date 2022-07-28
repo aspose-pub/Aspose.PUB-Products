@@ -35,7 +35,7 @@ item3: Kör omvandlingen med hjälp av [*ConvertToPdf()*](https://reference.aspo
 ---
 title: Kom igång med C++ PUB API
 item1: Installera från kommandoraden som ```nuget install Aspose.PUB.cpp``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.PUB.cpp```.
-item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/pub/cpp).
+item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

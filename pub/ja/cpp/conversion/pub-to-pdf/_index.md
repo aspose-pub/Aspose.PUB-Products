@@ -35,7 +35,7 @@ item3: '[*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub
 ---
 title: C ++PUBAPIの使用を開始する
 item1: コマンドラインから```nuget install Aspose.PUB.cpp```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.PUB.cpp```を使用してインストールします。
-item2: または、[ダウンロード](https://releases.aspose.com/pub/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+item2: または、[ダウンロード](https://releases.aspose.com/pub/cpp/)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 ---
 
 {{<section codeexample>}}

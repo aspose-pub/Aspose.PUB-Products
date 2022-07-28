@@ -7,11 +7,11 @@ metakeywords: Java for c++, cpp PUB solution, Java cpp, pub c++ library
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Pub file manipulation C++ API" h2="PUB file format API Solution for C++. Load, convert, and open publisher files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/pub/cpp" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/upper-banner h1="Pub file manipulation C++ API" h2="PUB file format API Solution for C++. Load, convert, and open publisher files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/pub/cpp/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/cpp/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/cpp/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/cpp/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -336,7 +336,7 @@ PubFactory::CreatePdfConverter()-&gt;ConvertToPdf(document, filePdf);</code></pr
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/pub/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-pub/Aspose.PUB-for-C" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/pub/cpp" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/pub/cpp/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
@@ -353,7 +353,7 @@ PubFactory::CreatePdfConverter()-&gt;ConvertToPdf(document, filePdf);</code></pr
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB offers individual PUB processing APIs for other popular development environments as listed below:" >}}
 

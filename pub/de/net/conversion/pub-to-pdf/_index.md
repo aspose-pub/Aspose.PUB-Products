@@ -26,16 +26,16 @@ p3: Bevor Sie die Konvertierung ausführen, müssen Sie die .NET PUB to PDF Conv
 {{<section feature1>}}
 ---
 title: PUB-zu-PDF-Konvertierung auf .NET
-item1: Laden Sie die PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode von [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Klasse.
-item2: Parse-Datei mittels [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Schnittstelle.
-item3: Konvertieren Sie PUB in PDF über [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Methode von [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) Schnittstelle.
+item1: Laden Sie die PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode von [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasse.
+item2: Parse-Datei mittels [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Schnittstelle.
+item3: Konvertieren Sie PUB in PDF über [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Methode von [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Schnittstelle.
 ---
 
 {{<section feature2>}}
 ---
 title: Erste Schritte mit der .NET PUB-API
 item1: Installieren Sie von der Befehlszeile als ```nuget install Aspose.PUB``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.PUB```.
-item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/pub/net) herunterladen.
+item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/pub/net/) herunterladen.
 ---
 
 {{<section codeexample>}}

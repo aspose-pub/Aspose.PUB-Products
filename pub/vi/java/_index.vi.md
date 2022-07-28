@@ -7,11 +7,11 @@ metakeywords: Java cho PUB, giải pháp Java PUB, Java PUb, thư viện pub Jav
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API thao tác tệp Java PUB" h2="Tải và chuyển đổi PUB sang PDF trong các ứng dụng dựa trên Java mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/pub/java" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API thao tác tệp Java PUB" h2="Tải và chuyển đổi PUB sang PDF trong các ứng dụng dựa trên Java mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/pub/java/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Nhà xuất bản:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub" directDownloadLink="https://releases.aspose.com/pub/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Nhà xuất bản:" mavenRepoLink="https://repository.aspose.com/pub/" directDownloadLink="https://releases.aspose.com/pub/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -323,7 +323,7 @@ MS Publisher lưu các tệp với phần mở rộng .pub và không nhiều �
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/pub/java/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-pub/Aspose.PUB-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/pub/java" >}}
+{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/pub/java/" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -341,7 +341,7 @@ MS Publisher lưu các tệp với phần mở rộng .pub và không nhiều �
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB cung cấp các API xử lý PUB riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 

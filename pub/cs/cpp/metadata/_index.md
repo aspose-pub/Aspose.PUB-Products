@@ -38,7 +38,7 @@ item4: Upravte metadata, např. kategorii, pomocí [*SetCategory*()](https://ref
 ---
 title: Začněte s CPP PUB API
 item1: Instalujte z příkazového řádku jako ```nuget install Aspose.PUB.cpp``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.PUB.cpp```.
-item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/pub/cpp).
+item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

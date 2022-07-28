@@ -38,7 +38,7 @@ item4: '[*SetCategory*()](https://reference.aspose.com/pub/cpp/class/aspose.pub.
 ---
 title: CPP PUB APIの使用を開始する
 item1: コマンドラインから```nuget install Aspose.PUB.cpp```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.PUB.cpp```を使用してインストールします。
-item2: または、[downloads](https://releases.aspose.com/pub/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+item2: または、[downloads](https://releases.aspose.com/pub/cpp/)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 ---
 
 {{<section codeexample>}}

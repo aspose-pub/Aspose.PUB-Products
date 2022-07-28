@@ -26,7 +26,7 @@ p3: Dönüştürmeyi çalıştırmadan önce Java PUB'u yalnızca tek sayfalı b
 {{<section widget>}}
 ---
 title: Java Kullanarak PUB'u PDF'ye Dönüştürme
-item1: "PUB'u PDF'ye dönüştürmek için, aşağıdakiler için zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüştürme API'si olan [Aspose.PUB for Java API](https://products.aspose.com/pub/java) kullanacağız. Java platformu. En son sürümünü doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub) adresinden indirebilir ve Maven'inize yükleyebilirsiniz. pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek proje tabanlı bir proje oluşturun."
+item1: "PUB'u PDF'ye dönüştürmek için, aşağıdakiler için zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüştürme API'si olan [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) kullanacağız. Java platformu. En son sürümünü doğrudan [Maven](https://repository.aspose.com/pub/) adresinden indirebilir ve Maven'inize yükleyebilirsiniz. pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek proje tabanlı bir proje oluşturun."
 ---
 
 {{<section feature1>}}

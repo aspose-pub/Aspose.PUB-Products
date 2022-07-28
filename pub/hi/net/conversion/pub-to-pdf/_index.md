@@ -26,7 +26,7 @@ p3: रूपांतरण चलाने से पहले आपको .N
 {{<section feature1>}}
 ---
 title: .NET . पर PUB से PDF रूपांतरण
-item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) विधि का उपयोग करके PUB फ़ाइल लोड करें [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) कक्षा।'
+item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) विधि का उपयोग करके PUB फ़ाइल लोड करें [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) कक्षा।'
 item2: '[Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) के माध्यम से पार्स फ़ाइल [*IPubParser*](https://apireference) की विधि .aspose.com/pub/net/aspose.pub/ipubparser) इंटरफेस।'
 item3: '[ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) की विधि [*IPdfConverter*](https://apireference) के माध्यम से PUB को PDF में बदलें .aspose.com/pub/net/aspose.pub/ipdfconverter) इंटरफेस।'
 ---
@@ -35,7 +35,7 @@ item3: '[ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfco
 ---
 title: .NET पब एपीआई के साथ आरंभ करें
 item1: कमांड लाइन से ```nuget install Aspose.PUB``` के रूप में या `````Install-Package Aspose.PUB`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
-item2: वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/pub/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+item2: वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/pub/net/) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 ---
 
 {{<section codeexample>}}

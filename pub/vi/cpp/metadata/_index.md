@@ -38,7 +38,7 @@ item4: 'Chỉnh sửa siêu dữ liệu, ví dụ: Danh mục bằng [*SetCatego
 ---
 title: Bắt đầu với API CPP PUB
 item1: Cài đặt từ dòng lệnh với tên `` nuget install Aspose.PUB.cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.PUB.cpp ''.
-item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/pub/cpp).
+item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

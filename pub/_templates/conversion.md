@@ -31,7 +31,7 @@ feature: conversion
 
 {{% blocks/products/pf/feature-page-code h3="{{i18n.codeexample.title}}" %}}
 
-{{< gist "aspose-com-gists" "99e290ed0fa58bf6f54311d264b397ed" "convert-publisher-pub-to-pdf.cpp" >}}
+{{< gist "aspose-com-gists" "a09a0078f81a15a27e425b1cd1e5484b" "convert-publisher-pub-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -44,6 +44,6 @@ feature: conversion
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
 
 {{< blocks/products/pf/feature-page-options pairs="pub-to-pdf" >}}

@@ -28,7 +28,7 @@ p4: Avant de coder les métadonnées, vous devez intégrer l'API Java PUB Metada
 {{<section widget>}}
 ---
 title: Comment modifier les métadonnées PUB à l'aide de Java
-item1: "Afin de modifier les métadonnées PUB, nous utiliserons [Aspose.PUB for Java API](https://products.aspose.com/pub/java) qui est une conversion riche en fonctionnalités, puissante et facile à utiliser API pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub) et l'installer dans votre Maven -based project en ajoutant les configurations suivantes au fichier pom.xml."
+item1: "Afin de modifier les métadonnées PUB, nous utiliserons [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) qui est une conversion riche en fonctionnalités, puissante et facile à utiliser API pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/pub/) et l'installer dans votre Maven -based project en ajoutant les configurations suivantes au fichier pom.xml."
 ---
 
 {{<section feature1>}}

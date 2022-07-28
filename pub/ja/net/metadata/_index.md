@@ -29,8 +29,8 @@ p4: メタデータをコーディングする前に、C＃.NETPUBメタデー�
 ---
 title: .NET上のPUBファイルのメタデータを編集する
 item1: "パブリッシャーのメタデータ読み取りプロセスは、次のステップで構成されます。"
-item2: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) メソッド[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory)クラス。'
-item3: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) インターフェース。'
+item2: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) メソッド[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/)クラス。'
+item3: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) インターフェース。'
 item4: '[*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) クラス。'
 ---
 
@@ -38,7 +38,7 @@ item4: '[*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsumm
 ---
 title: .NETPUBAPIの使用を開始する
 item1: コマンドラインから```nuget install Aspose.PUB```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.PUB```を使用してインストールします。
-item2: または、[ダウンロード](https://releases.aspose.com/pub/net) からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+item2: または、[ダウンロード](https://releases.aspose.com/pub/net/) からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 ---
 
 {{<section codeexample>}}

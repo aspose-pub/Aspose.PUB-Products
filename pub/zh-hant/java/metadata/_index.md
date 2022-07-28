@@ -28,7 +28,7 @@ p4: 在編碼元數據之前，您需要集成 Java PUB 元數據 API。以下�
 {{<section widget>}}
 ---
 title: 如何使用 Java 編輯 PUB 元數據
-item1: "為了編輯 PUB 元數據，我們將使用 [Aspose.PUB for Java API](https://products.aspose.com/pub/java) 這是一個功能豐富、強大且易於使用的轉換Java 平台的 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub) 下載其最新版本並將其安裝在您的 Maven 中通過將以下配置添加到 pom.xml 中的基於項目的項目。"
+item1: "為了編輯 PUB 元數據，我們將使用 [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) 這是一個功能豐富、強大且易於使用的轉換Java 平台的 API。您可以直接從 [Maven](https://repository.aspose.com/pub/) 下載其最新版本並將其安裝在您的 Maven 中通過將以下配置添加到 pom.xml 中的基於項目的項目。"
 ---
 
 {{<section feature1>}}

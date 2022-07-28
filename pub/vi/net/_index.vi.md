@@ -7,11 +7,11 @@ metakeywords: C# cho PUB, Csharp cho PUB, C# PUb, pub .NET
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Các API .NET để thao túng tệp nhà xuất bản" h2="Chuyển đổi định dạng PUB Publisher thành PDF mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Các API .NET để thao túng tệp nhà xuất bản" h2="Chuyển đổi định dạng PUB Publisher thành PDF mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -325,7 +325,7 @@ Aspose.PUB cho .NET là một thư viện linh hoạt và dễ sử dụng để
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/pub/net/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-pub/Aspose.PUB-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/net/pub" >}}
+{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/pub/net/" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -343,7 +343,7 @@ Aspose.PUB cho .NET là một thư viện linh hoạt và dễ sử dụng để
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB cung cấp các API xử lý PUB riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 

@@ -29,8 +29,8 @@ p4: 메타데이터를 코딩하기 전에 C# .NET PUB Metadata API를 통합해
 ---
 title: .NET에서 PUB 파일의 메타데이터 편집
 item1: "게시자 메타데이터 읽기 프로세스는 다음 단계로 구성됩니다."
-item2: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 메서드를 사용하여 PUB 파일을 업로드합니다. [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) 클래스.'
-item3: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) 메서드를 통해 문서를 구문 분석합니다. [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) 인터페이스.'
+item2: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 메서드를 사용하여 PUB 파일을 업로드합니다. [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 클래스.'
+item3: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) 메서드를 통해 문서를 구문 분석합니다. [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 인터페이스.'
 item4: '[*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany)를 통해 메타데이터(예: 회사) 편집 [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) 클래스.'
 ---
 
@@ -38,7 +38,7 @@ item4: '[*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsumm
 ---
 title: .NET PUB API 시작하기
 item1: 명령줄에서 ```nuget install Aspose.PUB```로 설치하거나 ```Install-Package Aspose.PUB```를 사용하여 Visual Studio의 패키지 관리자 콘솔을 통해 설치합니다.
-item2: 또는 [다운로드](https://releases.aspose.com/pub/net)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+item2: 또는 [다운로드](https://releases.aspose.com/pub/net/)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 ---
 
 {{<section codeexample>}}

@@ -38,7 +38,7 @@ item4: Επεξεργασία μεταδεδομένων π.χ. Κατηγορί
 ---
 title: Ξεκινήστε με το CPP PUB API
 item1: Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.PUB.cpp``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.PUB.cpp``.
-item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/pub/cpp).
+item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

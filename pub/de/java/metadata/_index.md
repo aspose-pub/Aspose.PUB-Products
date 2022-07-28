@@ -28,7 +28,7 @@ p4: Vor dem Codieren von Metadaten müssen Sie die Java PUB Metadata API integri
 {{<section widget>}}
 ---
 title: So bearbeiten Sie PUB-Metadaten mit Java
-item1: "Um PUB-Metadaten zu bearbeiten, verwenden wir [Aspose.PUB for Java API](https://products.aspose.com/pub/java), eine funktionsreiche, leistungsstarke und benutzerfreundliche Konvertierung API für die Java-Plattform. Sie können die neueste Version direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub) herunterladen und in Ihrem Maven installieren -basiertes Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen."
+item1: "Um PUB-Metadaten zu bearbeiten, verwenden wir [Aspose.PUB for Java API](https://products.aspose.com/pub/java/), eine funktionsreiche, leistungsstarke und benutzerfreundliche Konvertierung API für die Java-Plattform. Sie können die neueste Version direkt von [Maven](https://repository.aspose.com/pub/) herunterladen und in Ihrem Maven installieren -basiertes Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen."
 ---
 
 {{<section feature1>}}

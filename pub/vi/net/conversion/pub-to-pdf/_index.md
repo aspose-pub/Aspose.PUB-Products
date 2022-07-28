@@ -26,16 +26,16 @@ p3: Trước khi chạy chuyển đổi, bạn cần tích hợp .NET PUB to PDF
 {{<section feature1>}}
 ---
 title: Chuyển đổi PUB sang PDF trên .NET
-item1: Tải tệp PUB bằng [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Phương thức [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Lớp.
-item2: Phân tích cú pháp tệp bằng phương pháp [*Phân tích cú pháp*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Phương thức [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Giao diện.
-item3: Chuyển đổi PUB sang PDF qua [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Phương thức [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) Giao diện.
+item1: Tải tệp PUB bằng [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Phương thức [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Lớp.
+item2: Phân tích cú pháp tệp bằng phương pháp [*Phân tích cú pháp*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Phương thức [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Giao diện.
+item3: Chuyển đổi PUB sang PDF qua [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Phương thức [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Giao diện.
 ---
 
 {{<section feature2>}}
 ---
 title: Bắt đầu với .NET PUB API
 item1: Cài đặt từ dòng lệnh với tên `` nuget install Aspose.PUB '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.PUB ''.
-item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/pub/net).
+item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

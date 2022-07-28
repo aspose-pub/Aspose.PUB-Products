@@ -29,8 +29,8 @@ p4: Antes de codificar metadatos, debe integrar la API de metadatos C# .NET PUB.
 ---
 title: Editar metadatos de archivos PUB en .NET
 item1: "El proceso de lectura de metadatos del editor consta de los siguientes pasos:"
-item2: Cargue su archivo PUB usando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Método de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Clase.
-item3: Analice el documento a través de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Método de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Interfaz.
+item2: Cargue su archivo PUB usando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Método de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Clase.
+item3: Analice el documento a través de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Método de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfaz.
 item4: Edite metadatos, por ejemplo, Empresa mediante [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Método de [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Clase.
 ---
 
@@ -38,7 +38,7 @@ item4: Edite metadatos, por ejemplo, Empresa mediante [*SetCompany*()](https://r
 ---
 title: Introducción a la API de .NET PUB
 item1: Instale desde la línea de comandos como ```nuget install Aspose.PUB``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.PUB```.
-item2: Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/pub/net).
+item2: Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

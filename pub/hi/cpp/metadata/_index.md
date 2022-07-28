@@ -38,7 +38,7 @@ item4: '[*DocSummaryInfo*](https://reference.aspose.com/pub/cpp/class/aspose.pub
 ---
 title: सीपीपी पब एपीआई के साथ आरंभ करें
 item1: कमांड लाइन से ```nuget install Aspose.PUB.cpp``` के रूप में या ````Install-Package Aspose.PUB.cpp`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
-item2: वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/pub/cpp) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+item2: वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/pub/cpp/) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 ---
 
 {{<section codeexample>}}

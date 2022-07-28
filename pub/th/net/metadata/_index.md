@@ -29,8 +29,8 @@ p4: ก่อนเขียนโค้ด Metadata คุณต้องผส
 ---
 title: แก้ไขข้อมูลเมตาของไฟล์ PUB บน .NET
 item1: "กระบวนการอ่านข้อมูลเมตาของผู้จัดพิมพ์ประกอบด้วยขั้นตอนถัดไป:"
-item2: อัปโหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Method ของ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) คลาส
-item3: แยกวิเคราะห์เอกสารผ่าน [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Method ของ [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) อินเทอร์เฟซ
+item2: อัปโหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Method ของ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) คลาส
+item3: แยกวิเคราะห์เอกสารผ่าน [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Method ของ [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) อินเทอร์เฟซ
 item4: แก้ไขข้อมูลเมตา เช่น บริษัท โดยใช้ [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Method of [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) คลาส
 ---
 
@@ -38,7 +38,7 @@ item4: แก้ไขข้อมูลเมตา เช่น บริษ�
 ---
 title: เริ่มต้นใช้งาน .NET PUB API
 item1: ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.PUB``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.PUB```
-item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/pub/net)
+item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/pub/net/)
 ---
 
 {{<section codeexample>}}

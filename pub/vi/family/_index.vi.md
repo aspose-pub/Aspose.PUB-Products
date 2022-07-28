@@ -6,7 +6,7 @@ description: Thư viện thao tác và phân tích cú pháp PUB. Đây là gi�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API thao tác tệp nhà xuất bản của Microsoft" h2="Các API .NET, Java và C++ gốc để tải, chỉnh sửa và chuyển đổi các tệp PUB mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API thao tác tệp nhà xuất bản của Microsoft" h2="Các API .NET, Java và C++ gốc để tải, chỉnh sửa và chuyển đổi các tệp PUB mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Bao gồm API mã cao Aspose.PUB" >}}
@@ -47,6 +47,6 @@ Phân tích cú pháp các tệp .pub cũng như chuyển đổi sang các đị
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

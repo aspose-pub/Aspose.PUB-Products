@@ -7,11 +7,11 @@ metakeywords: Java για PUB, λύση Java PUB, Java PUb, pub Βιβλιοθή
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java PUB Files Manipulation API" h2="Φορτώστε και μετατρέψτε το PUB σε PDF σε εφαρμογές που βασίζονται σε Java χωρίς εξαρτήσεις λογισμικού." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/pub/java" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java PUB Files Manipulation API" h2="Φορτώστε και μετατρέψτε το PUB σε PDF σε εφαρμογές που βασίζονται σε Java χωρίς εξαρτήσεις λογισμικού." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/pub/java/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Εκδότης:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub" directDownloadLink="https://releases.aspose.com/pub/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="Εκδότης:" mavenRepoLink="https://repository.aspose.com/pub/" directDownloadLink="https://releases.aspose.com/pub/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -323,7 +323,7 @@ metakeywords: Java για PUB, λύση Java PUB, Java PUb, pub Βιβλιοθή
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/pub/java/" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-pub/Aspose.PUB-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Αναφορές API" href="https://reference.aspose.com/pub/java" >}}
+{{< blocks/products/pf/slr-element name="Αναφορές API" href="https://reference.aspose.com/pub/java/" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -341,7 +341,7 @@ metakeywords: Java για PUB, λύση Java PUB, Java PUb, pub Βιβλιοθή
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Το Aspose.PUB προσφέρει μεμονωμένα API επεξεργασίας PUB για άλλα δημοφιλή περιβάλλοντα ανάπτυξης όπως αναφέρονται παρακάτω:" >}}
 

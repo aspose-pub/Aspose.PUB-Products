@@ -26,16 +26,16 @@ p3: Před spuštěním převodu je potřeba integrovat rozhraní .NET PUB to PDF
 {{<section feature1>}}
 ---
 title: Konverze PUB do PDF na .NET
-item1: Načtěte soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Třída.
-item2: Analyzujte soubor pomocí [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metoda [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Rozhraní.
-item3: Převeďte PUB do PDF pomocí [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Metoda [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) Rozhraní.
+item1: Načtěte soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Třída.
+item2: Analyzujte soubor pomocí [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metoda [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Rozhraní.
+item3: Převeďte PUB do PDF pomocí [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Metoda [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Rozhraní.
 ---
 
 {{<section feature2>}}
 ---
 title: Začněte s .NET PUB API
 item1: Instalujte z příkazového řádku jako ```nuget install Aspose.PUB``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.PUB```.
-item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/pub/net).
+item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

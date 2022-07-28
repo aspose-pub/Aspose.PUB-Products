@@ -28,7 +28,7 @@ p4: मेटाडेटा को कोड करने से पहले, 
 {{<section widget>}}
 ---
 title: जावा का उपयोग करके पब मेटाडेटा को कैसे संपादित करें
-item1: "पब मेटाडेटा को संपादित करने के लिए, हम [Aspose.PUB for Java API](https://products.aspose.com/pub/java) का उपयोग करेंगे जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण है जावा प्लेटफॉर्म के लिए एपीआई। आप इसका नवीनतम संस्करण सीधे [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub) से डाउनलोड कर सकते हैं और इसे अपने Maven में इंस्टॉल कर सकते हैं निम्नलिखित विन्यास को pom.xml में जोड़कर -आधारित परियोजना।"
+item1: "पब मेटाडेटा को संपादित करने के लिए, हम [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) का उपयोग करेंगे जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण है जावा प्लेटफॉर्म के लिए एपीआई। आप इसका नवीनतम संस्करण सीधे [Maven](https://repository.aspose.com/pub/) से डाउनलोड कर सकते हैं और इसे अपने Maven में इंस्टॉल कर सकते हैं निम्नलिखित विन्यास को pom.xml में जोड़कर -आधारित परियोजना।"
 ---
 
 {{<section feature1>}}

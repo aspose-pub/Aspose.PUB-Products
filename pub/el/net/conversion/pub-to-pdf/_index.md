@@ -26,16 +26,16 @@ p3: Πριν εκτελέσετε τη μετατροπή, πρέπει να ε�
 {{<section feature1>}}
 ---
 title: Μετατροπή PUB σε PDF στο .NET
-item1: Φόρτωση αρχείου PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Μέθοδος [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Τάξη.
-item2: Ανάλυση αρχείου μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Μέθοδος του [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Διεπαφή.
-item3: Μετατροπή PUB σε PDF μέσω [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Μέθοδος [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) Διεπαφή.
+item1: Φόρτωση αρχείου PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Μέθοδος [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Τάξη.
+item2: Ανάλυση αρχείου μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Μέθοδος του [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
+item3: Μετατροπή PUB σε PDF μέσω [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Μέθοδος [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Διεπαφή.
 ---
 
 {{<section feature2>}}
 ---
 title: Ξεκινήστε με το .NET PUB API
 item1: Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.PUB``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.PUB``.
-item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/pub/net).
+item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}

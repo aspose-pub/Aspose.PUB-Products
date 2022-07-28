@@ -35,7 +35,7 @@ item3: 通過 [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspo
 ---
 title: 開始使用 C++ PUB API
 item1: 從命令行安裝為 ```nuget install Aspose.PUB.cpp``` 或通過 Visual Studio 的包管理器控制台使用 ``Install-Package Aspose.PUB.cpp``。
-item2: 或者，從 [下載](https://releases.aspose.com/pub/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+item2: 或者，從 [下載](https://releases.aspose.com/pub/cpp/) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 ---
 
 {{<section codeexample>}}

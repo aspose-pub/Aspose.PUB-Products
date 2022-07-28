@@ -38,7 +38,7 @@ item4: Szerkessze a metaadatokat, például a kategóriát a  segítségével [*
 ---
 title: Ismerkedjen meg a CPP PUB API-val
 item1: Telepítés parancssorból ```nuget install Aspose.PUB.cpp```ként, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.PUB.cpp``` paranccsal.
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről [downloads](https://releases.aspose.com/pub/cpp).
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről [downloads](https://releases.aspose.com/pub/cpp/).
 ---
 
 {{<section codeexample>}}

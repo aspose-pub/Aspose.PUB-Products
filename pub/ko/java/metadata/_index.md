@@ -28,7 +28,7 @@ p4: Metadata를 코딩하기 전에 Java PUB Metadata API를 통합해야 합니
 {{<section widget>}}
 ---
 title: Java를 사용하여 PUB 메타데이터를 편집하는 방법
-item1: "PUB 메타데이터를 편집하기 위해 기능이 풍부하고 강력하며 사용하기 쉬운 변환인 [Aspose.PUB for Java API](https://products.aspose.com/pub/java)를 사용합니다. 자바 플랫폼용 API. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub)에서 직접 최신 버전을 다운로드하여 Maven에 설치할 수 있습니다. pom.xml에 다음 구성을 추가하여 기반 프로젝트."
+item1: "PUB 메타데이터를 편집하기 위해 기능이 풍부하고 강력하며 사용하기 쉬운 변환인 [Aspose.PUB for Java API](https://products.aspose.com/pub/java/)를 사용합니다. 자바 플랫폼용 API. [Maven](https://repository.aspose.com/pub/)에서 직접 최신 버전을 다운로드하여 Maven에 설치할 수 있습니다. pom.xml에 다음 구성을 추가하여 기반 프로젝트."
 ---
 
 {{<section feature1>}}

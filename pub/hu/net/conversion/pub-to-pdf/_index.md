@@ -26,16 +26,16 @@ p3: Az átalakítás futtatása előtt integrálnia kell a .NET PUB to PDF Conve
 {{<section feature1>}}
 ---
 title: Konverzió PUB-ból PDF-be .NET-en
-item1: Töltsön be PUB-fájlt a [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metódusával [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory) Osztály.
-item2: Fájl elemzése a [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse)  metódusával [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser) Interfész.
-item3: PUB konvertálása PDF-be a [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf)  módszerével [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter) Interfész.
+item1: Töltsön be PUB-fájlt a [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metódusával [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Osztály.
+item2: Fájl elemzése a [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse)  metódusával [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfész.
+item3: PUB konvertálása PDF-be a [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf)  módszerével [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Interfész.
 ---
 
 {{<section feature2>}}
 ---
 title: Ismerkedjen meg a .NET PUB API-val
 item1: Telepítés parancssorból ```nuget install Aspose.PUB``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.PUB``` segítségével.
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a webhelyről [downloads](https://releases.aspose.com/pub/net).
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a webhelyről [downloads](https://releases.aspose.com/pub/net/).
 ---
 
 {{<section codeexample>}}
