@@ -28,8 +28,8 @@ p4: Burada MS Publisher belgesinin boyut, genişlik, yükseklik, kullanılan yaz
 title: .NET'te Yayıncı dosyalarını okuyun
 item1: ".pub dosyalarının özelliklerini görüntülemek için sonraki adımları uygulamanız gerekir:"
 item2: Yalnızca tek sayfalık belgelerle değil, aynı zamanda çok sayfalı .pub dosyalarını da destekleyen .NET PUB API'sini entegre edin.
-item3: PUB dosyanızı [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) [*PubFactory*](https:/) kullanarak yükleyin /reference.aspose.com/pub/net/aspose.pub/pubfactory) Sınıf.
-item4: Belgeyi [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) aracılığıyla ayrıştırın [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Arayüzü.
+item3: PUB dosyanızı [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) [*PubFactory*](https:/) kullanarak yükleyin /reference.aspose.com/pub/net/aspose.pub/pubfactory) Sınıf.
+item4: Belgeyi [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) aracılığıyla ayrıştırın [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Arayüzü.
 item5: Belgeyi yazdırın [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

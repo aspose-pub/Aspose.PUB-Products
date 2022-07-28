@@ -29,8 +29,8 @@ p4: Перед кодированием метаданных необходим�
 ---
 title: Редактировать метаданные файлов PUB в .NET
 item1: "Процесс чтения метаданных Publisher состоит из следующих шагов:"
-item2: Загрузите файл PUB, используя [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) метод [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Класс.
-item3: Проанализируйте документ с помощью метода [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) метода [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Интерфейс.
+item2: Загрузите файл PUB, используя [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) метод [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Класс.
+item3: Проанализируйте документ с помощью метода [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) метода [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Интерфейс.
 item4: Редактировать метаданные, например, компанию с помощью метода [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) метода [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Класс.
 ---
 

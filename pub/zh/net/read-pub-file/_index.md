@@ -28,8 +28,8 @@ p4: 在这里，您将获得 .NET API 解决方案，可让您查看 MS Publishe
 title: 阅读 .NET 上的 Publisher 文件
 item1: "要查看 .pub 文件属性，您需要执行以下步骤:"
 item2: 集成 .NET PUB API，它不仅适用于单页文档，还支持多页 .pub 文件。
-item3: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) 上传您的 PUB 文件 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 类。
-item4: 通过 [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) 方法解析文档[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
+item3: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 上传您的 PUB 文件 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 类。
+item4: 通过 [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) 方法解析文档[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
 item5: 打印文档 [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties)。
 ---
 

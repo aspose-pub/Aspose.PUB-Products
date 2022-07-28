@@ -28,8 +28,8 @@ p4: Hier erhalten Sie die .NET-API-Lösung, mit der Sie die Eigenschaften des MS
 title: Lesen Sie Publisher-Dateien in .NET
 item1: "Um die Eigenschaften von .pub-Dateien anzuzeigen, müssen Sie die nächsten Schritte ausführen:"
 item2: Integrieren Sie die .NET PUB-API, die nicht nur mit einseitigen Dokumenten funktioniert, sondern auch mehrseitige .pub-Dateien unterstützt.
-item3: Laden Sie Ihre PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Methode von [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasse.
-item4: Analysieren Sie das Dokument über [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Methode von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Schnittstelle.
+item3: Laden Sie Ihre PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode von [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasse.
+item4: Analysieren Sie das Dokument über [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Schnittstelle.
 item5: Drucken Sie das Dokument [*Eigenschaften*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

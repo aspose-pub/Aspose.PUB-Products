@@ -28,8 +28,8 @@ p4: Здесь вы получите решение .NET API, которое п�
 title: Чтение файлов Publisher в .NET
 item1: "Чтобы просмотреть свойства файлов .pub, вам необходимо выполнить следующие действия:"
 item2: Интегрируйте .NET PUB API, который работает не только с одностраничными документами, но и поддерживает многостраничные файлы .pub.
-item3: Загрузите файл PUB, используя [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) метод [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Класс.
-item4: Проанализируйте документ с помощью метода [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) метода [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Интерфейс.
+item3: Загрузите файл PUB, используя [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) метод [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Класс.
+item4: Проанализируйте документ с помощью метода [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) метода [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Интерфейс.
 item5: Распечатать документ [*свойства*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

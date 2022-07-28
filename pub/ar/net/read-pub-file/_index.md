@@ -28,8 +28,8 @@ p4: هنا ستحصل على .NET API Solution الذي يتيح لك عرض خ�
 title: قراءة ملفات Publisher على .NET
 item1: "لعرض خصائص ملفات .pub ، ستحتاج إلى اتخاذ الخطوات التالية:"
 item2: تكامل .NET PUB API ، والذي لا يعمل فقط مع المستندات ذات الصفحة الواحدة ولكنه يدعم أيضًا ملفات .pub متعددة الصفحات.
-item3: قم بتحميل ملف PUB الخاص بك باستخدام طريقة [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) الخاصة بـ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) فئة.
-item4: قم بتحليل المستند عبر [*تحليل*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) طريقة [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) الواجهة.
+item3: قم بتحميل ملف PUB الخاص بك باستخدام طريقة [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) الخاصة بـ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) فئة.
+item4: قم بتحليل المستند عبر [*تحليل*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) طريقة [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) الواجهة.
 item5: طباعة الوثيقة [*الخصائص*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

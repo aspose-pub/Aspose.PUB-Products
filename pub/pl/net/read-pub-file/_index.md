@@ -28,8 +28,8 @@ p4: Tutaj otrzymasz rozwiązanie .NET API, które pozwala przeglądać właściw
 title: Czytaj pliki Publishera w .NET
 item1: "Aby wyświetlić właściwości plików .pub, musisz wykonać następujące czynności:"
 item2: Zintegruj interfejs API .NET PUB, który działa nie tylko z dokumentami jednostronicowymi, ale także obsługuje wielostronicowe pliki .pub.
-item3: Prześlij plik PUB za pomocą [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasa.
-item4: Przeanalizuj dokument za pomocą metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfejs.
+item3: Prześlij plik PUB za pomocą [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasa.
+item4: Przeanalizuj dokument za pomocą metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfejs.
 item5: Wydrukuj dokument [*właściwości*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

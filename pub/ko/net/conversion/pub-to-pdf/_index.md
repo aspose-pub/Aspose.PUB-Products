@@ -26,9 +26,9 @@ p3: 변환을 실행하기 전에 .NET PUB를 PDF 변환기 API로 통합해야 
 {{<section feature1>}}
 ---
 title: .NET에서 PUB에서 PDF로 변환
-item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) 메서드를 사용하여 PUB 파일 로드 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 클래스.'
-item2: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) 방법으로 파일 구문 분석 [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 인터페이스.'
-item3: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) 메서드를 통해 PUB를 PDF로 변환 [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) 인터페이스.'
+item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 메서드를 사용하여 PUB 파일 로드 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 클래스.'
+item2: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) 방법으로 파일 구문 분석 [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 인터페이스.'
+item3: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) 메서드를 통해 PUB를 PDF로 변환 [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) 인터페이스.'
 ---
 
 {{<section feature2>}}

@@ -6,7 +6,7 @@ description: PUB-Manipulations- und Parsing-Bibliothek. Dies ist die API-Lösung
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs zur Bearbeitung von Microsoft Publisher-Dateien" h2="Native .NET-, Java- und C++-APIs zum Laden, Bearbeiten und Konvertieren von PUB-Dateien ohne Softwareabhängigkeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net//" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIs zur Bearbeitung von Microsoft Publisher-Dateien" h2="Native .NET-, Java- und C++-APIs zum Laden, Bearbeiten und Konvertieren von PUB-Dateien ohne Softwareabhängigkeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB High-Code-APIs enthalten" >}}
@@ -47,6 +47,6 @@ Analysieren Sie .pub-Dateien und konvertieren Sie sie in C++-Anwendungen, die au
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net//" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

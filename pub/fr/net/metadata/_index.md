@@ -29,8 +29,8 @@ p4: Avant de coder les métadonnées, vous devez intégrer l'API de métadonnée
 ---
 title: Modifier les métadonnées des fichiers PUB sur .NET
 item1: "Le processus de lecture des métadonnées de l'éditeur comprend les étapes suivantes :"
-item2: Téléchargez votre fichier PUB en utilisant [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Méthode de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
-item3: Analysez le document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Méthode de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/).
+item2: Téléchargez votre fichier PUB en utilisant [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Méthode de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
+item3: Analysez le document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Méthode de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/).
 item4: Modifier les métadonnées, par exemple la société au moyen de [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Méthode de [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Classe.
 ---
 

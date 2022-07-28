@@ -29,8 +29,8 @@ p4: Před kódováním metadat musíte integrovat C# .NET PUB Metadata API. Nás
 ---
 title: Upravte metadata souborů PUB na .NET
 item1: "Proces čtení metadat vydavatele se skládá z následujících kroků:"
-item2: Nahrajte svůj soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Třída.
-item3: Analyzujte dokument pomocí metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Rozhraní.
+item2: Nahrajte svůj soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Třída.
+item3: Analyzujte dokument pomocí metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Rozhraní.
 item4: Upravte metadata, např. společnost, pomocí [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Metoda [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Třída.
 ---
 

@@ -29,8 +29,8 @@ p4: Sebelum coding Metadata, Anda perlu mengintegrasikan C# .NET PUB Metadata AP
 ---
 title: Edit Metadata File PUB di .NET
 item1: "Proses membaca Metadata penerbit terdiri dari langkah-langkah berikut:"
-item2: Unggah file PUB Anda menggunakan [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Metode [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Kelas.
-item3: Parsing dokumen melalui [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Metode [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Antarmuka.
+item2: Unggah file PUB Anda menggunakan [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metode [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Kelas.
+item3: Parsing dokumen melalui [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metode [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Antarmuka.
 item4: Edit metadata mis. Perusahaan melalui [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Metode [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Kelas.
 ---
 

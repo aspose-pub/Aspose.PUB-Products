@@ -26,9 +26,9 @@ p3: 在運行轉換之前，您需要集成 .NET PUB to PDF Converter API，它�
 {{<section feature1>}}
 ---
 title: .NET 上的 PUB 到 PDF 轉換
-item1: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) 的方法加載 PUB 文件 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 類。
-item2: 通過[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse)方法解析文件[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
-item3: 通過 [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) 將 PUB 轉換為 PDF [*IPdfConverter*]的方法(https://apireference .aspose.com/pub/net/aspose.pub/ipdfconverter) 接口。
+item1: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 的方法加載 PUB 文件 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 類。
+item2: 通過[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse)方法解析文件[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
+item3: 通過 [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) 將 PUB 轉換為 PDF [*IPdfConverter*]的方法(https://apireference .aspose.com/pub/net/aspose.pub/ipdfconverter) 接口。
 ---
 
 {{<section feature2>}}

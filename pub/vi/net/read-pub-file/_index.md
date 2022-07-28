@@ -28,8 +28,8 @@ p4: Tại đây, bạn sẽ nhận được Giải pháp API .NET cho phép bạ
 title: Đọc tệp nhà xuất bản trên .NET
 item1: "Để xem thuộc tính tệp .pub, bạn sẽ cần thực hiện các bước tiếp theo:"
 item2: Tích hợp .NET PUB API, không chỉ hoạt động với các tài liệu một trang mà còn hỗ trợ các tệp .pub nhiều trang.
-item3: Tải lên tệp PUB của bạn bằng [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Phương thức [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Lớp.
-item4: Phân tích cú pháp tài liệu qua [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Phương thức [*IPubParser*](https://hamkhảo.aspose.com/pub/net/aspose.pub/ipubparser) Giao diện.
+item3: Tải lên tệp PUB của bạn bằng [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Phương thức [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Lớp.
+item4: Phân tích cú pháp tài liệu qua [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Phương thức [*IPubParser*](https://hamkhảo.aspose.com/pub/net/aspose.pub/ipubparser) Giao diện.
 item5: In tài liệu [*thuộc tính*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

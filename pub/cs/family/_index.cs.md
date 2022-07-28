@@ -6,7 +6,7 @@ description: Knihovna pro manipulaci a analýzu PUB. Toto je řešení API pro n
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní API pro manipulaci se soubory Microsoft Publisher Files" h2="Nativní rozhraní API .NET, Java a C++ pro načítání, úpravy a převod souborů PUB bez jakékoli softwarové závislosti." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net//" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní API pro manipulaci se soubory Microsoft Publisher Files" h2="Nativní rozhraní API .NET, Java a C++ pro načítání, úpravy a převod souborů PUB bez jakékoli softwarové závislosti." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB High Code API zahrnuje" >}}
@@ -47,6 +47,6 @@ Analyzujte soubory .pub a také převádějte do PDF, Word, Excel a obrazových 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net//" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

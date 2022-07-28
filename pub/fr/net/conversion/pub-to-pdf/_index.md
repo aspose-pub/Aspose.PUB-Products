@@ -26,9 +26,9 @@ p3: Avant d'exécuter la conversion, vous devez intégrer l'API .NET PUB to PDF 
 {{<section feature1>}}
 ---
 title: Conversion PUB en PDF sur .NET
-item1: Charger le fichier PUB en utilisant [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Méthode de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
-item2: Analyser le fichier au moyen de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Méthode de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/).
-item3: Convertir PUB en PDF via [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) Méthode de [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/).
+item1: Charger le fichier PUB en utilisant [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Méthode de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
+item2: Analyser le fichier au moyen de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Méthode de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/).
+item3: Convertir PUB en PDF via [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Méthode de [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/).
 ---
 
 {{<section feature2>}}

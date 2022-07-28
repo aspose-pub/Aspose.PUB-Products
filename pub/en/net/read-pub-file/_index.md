@@ -28,8 +28,8 @@ p4: Here you will get the .NET API Solution that lets you view the MS Publisher 
 title: Read Publisher files on .NET
 item1: "To view .pub files properties you will need to take the next steps:"
 item2: Integrate .NET PUB API, which works not only with single-page documents but also supports multipage .pub files.
-item3: Upload your PUB file using [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Method of [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Class.
-item4: Parse the document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Method of [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interface.
+item3: Upload your PUB file using [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Method of [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Class.
+item4: Parse the document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Method of [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interface.
 item5: Print document [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

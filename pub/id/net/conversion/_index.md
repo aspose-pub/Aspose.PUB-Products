@@ -28,9 +28,9 @@ title: Konversikan file .pub Penerbit
 item1: Mari kita lihat fungsinya melalui konversi PUB ke PDF.
 item2: "Proses Konversi penayang terdiri dari langkah-langkah berikut:"
 item3: Integrasikan .NET PUB ke PDF Converter API, yang berfungsi tidak hanya dengan dokumen satu halaman tetapi juga mendukung file .pub multihalaman.
-item4: Muat file PUB menggunakan Kelas [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
-item5: CreateParser dan Parse melalui [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) Metode [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Antarmuka.
-item6: Jalankan konversi melalui Metode [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/).
+item4: Muat file PUB menggunakan Kelas [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
+item5: CreateParser dan Parse melalui [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Metode [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Antarmuka.
+item6: Jalankan konversi melalui Metode [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/).
 ---
 
 {{<section codeexample>}}

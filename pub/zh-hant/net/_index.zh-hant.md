@@ -7,11 +7,11 @@ metakeywords: 用於 PUB 的 C#、用於 PUB 的 Csharp、C# PUB、pub .NET
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET API 來操作發布者文件" h2="將 PUB Publisher 格式轉換為 PDF，無需任何軟件依賴." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/pub/net//" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET API 來操作發布者文件" h2="將 PUB Publisher 格式轉換為 PDF，無需任何軟件依賴." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-net.svg" pfName="Aspose.PUB " subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/net//" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.PUB/" nugetPackageName="Aspose.PUB" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -343,7 +343,7 @@ Aspose.PUB for .NET 是一個靈活且易於使用的庫，用於處理電子出
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net//" pricingInformationLink="https://purchase.aspose.com/pricing/pub/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB 為其他流行的開發環境提供單獨的 PUB 處理 API，如下所列：" >}}
 

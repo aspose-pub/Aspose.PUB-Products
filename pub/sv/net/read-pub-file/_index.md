@@ -28,8 +28,8 @@ p4: Här får du .NET API-lösningen som låter dig se MS Publisher-dokumentets 
 title: Läs utgivarfiler på .NET
 item1: "För att se egenskaper för .pub-filer måste du ta följande steg:"
 item2: Integrera .NET PUB API, som inte bara fungerar med ensidiga dokument utan också stöder flersidiga .pub-filer.
-item3: Ladda upp din PUB-fil med [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Metoden [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klass.
-item4: Analysera dokumentet via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Metoden för [*IPubParser*](https://referens.aspose.com/pub/net/aspose.pub/ipubparser) Gränssnitt.
+item3: Ladda upp din PUB-fil med [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metoden [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klass.
+item4: Analysera dokumentet via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metoden för [*IPubParser*](https://referens.aspose.com/pub/net/aspose.pub/ipubparser) Gränssnitt.
 item5: Skriv ut dokument [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

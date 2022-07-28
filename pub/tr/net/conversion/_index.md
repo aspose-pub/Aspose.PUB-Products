@@ -28,9 +28,9 @@ title: Publisher .pub dosyalarını dönüştürün
 item1: PUB'dan PDF'ye dönüştürme yoluyla işlevselliğe bakalım.
 item2: "Yayıncı Dönüşüm süreci aşağıdaki adımlardan oluşur:"
 item3: .NET PUB'u yalnızca tek sayfalı belgelerle değil, aynı zamanda çok sayfalı .pub dosyalarını da destekleyen PDF Converter API'ye entegre edin.
-item4: '[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//) Sınıfını kullanarak PUB dosyasını yükleyin.'
-item5: CreateParser ve [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Arayüzü.
-item6: Dönüştürmeyi [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/) Yöntemiyle çalıştırın.
+item4: '[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Sınıfını kullanarak PUB dosyasını yükleyin.'
+item5: CreateParser ve [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Arayüzü.
+item6: Dönüştürmeyi [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) Yöntemiyle çalıştırın.
 ---
 
 {{<section codeexample>}}

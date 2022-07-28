@@ -29,8 +29,8 @@ p4: 'قبل تشفير البيانات الوصفية ، تحتاج إلى دم
 ---
 title: تحرير البيانات الوصفية لملفات PUB على .NET
 item1: "تتكون عملية قراءة البيانات الوصفية للناشر من الخطوات التالية:"
-item2: قم بتحميل ملف PUB الخاص بك باستخدام طريقة [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) الخاصة بـ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) فئة.
-item3: قم بتحليل المستند عبر [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) طريقة [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) الواجهة.
+item2: قم بتحميل ملف PUB الخاص بك باستخدام طريقة [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) الخاصة بـ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) فئة.
+item3: قم بتحليل المستند عبر [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) طريقة [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) الواجهة.
 item4: تحرير البيانات الوصفية ، مثل الشركة عن طريق [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) طريقة [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) فئة.
 ---
 

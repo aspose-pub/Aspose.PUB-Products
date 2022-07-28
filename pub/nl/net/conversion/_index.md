@@ -28,9 +28,9 @@ title: Converteer Publisher .pub-bestanden
 item1: Laten we eens kijken naar de functionaliteit via de PUB naar PDF-conversie.
 item2: "Het conversieproces van de uitgever bestaat uit de volgende stappen:"
 item3: Integreer .NET PUB naar PDF Converter API, die niet alleen werkt met documenten van één pagina, maar ook .pub-bestanden met meerdere pagina's ondersteunt.
-item4: Laad het PUB-bestand met de klasse [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
-item5: CreateParser en Parse via de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Interface.
-item6: Voer de conversie uit met behulp van de [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/) Methode.
+item4: Laad het PUB-bestand met de klasse [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
+item5: CreateParser en Parse via de [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interface.
+item6: Voer de conversie uit met behulp van de [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) Methode.
 ---
 
 {{<section codeexample>}}

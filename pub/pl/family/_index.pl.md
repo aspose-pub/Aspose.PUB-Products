@@ -6,7 +6,7 @@ description: Biblioteka do manipulacji i analizowania PUB. Jest to rozwiązanie 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Interfejsy API do manipulacji plikami Microsoft Publisher" h2="Natywne interfejsy API .NET, Java i C++ do ładowania, edytowania i konwertowania plików PUB bez żadnych zależności programowych." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net//" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Interfejsy API do manipulacji plikami Microsoft Publisher" h2="Natywne interfejsy API .NET, Java i C++ do ładowania, edytowania i konwertowania plików PUB bez żadnych zależności programowych." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub.svg" pfName="Aspose.PUB" downloadUrl="https://releases.aspose.com/pub/net/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PUB High Code API obejmuje" >}}
@@ -47,6 +47,6 @@ Analizuj pliki .pub, a także konwertuj do formatów PDF, Word, Excel i obrazów
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net//" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/net/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -44,6 +44,6 @@ feature: conversion
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java//" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
 
 {{< blocks/products/pf/feature-page-options pairs="pub-to-pdf" >}}

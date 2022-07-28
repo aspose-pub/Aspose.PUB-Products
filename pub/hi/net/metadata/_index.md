@@ -29,8 +29,8 @@ p4: मेटाडेटा को कोड करने से पहले, 
 ---
 title: .NET पर पब फ़ाइलों का मेटाडेटा संपादित करें
 item1: "प्रकाशक मेटाडेटा पढ़ने की प्रक्रिया में अगले चरण होते हैं:"
-item2: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) विधि का उपयोग करके अपनी PUB फ़ाइल अपलोड करें [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) कक्षा।'
-item3: दस्तावेज़ को [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) के माध्यम से पार्स करें। aspose.com/pub/net/aspose.pub/ipubparser) इंटरफ़ेस।
+item2: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) विधि का उपयोग करके अपनी PUB फ़ाइल अपलोड करें [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) कक्षा।'
+item3: दस्तावेज़ को [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) के माध्यम से पार्स करें। aspose.com/pub/net/aspose.pub/ipubparser) इंटरफ़ेस।
 item4: '[*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) के माध्यम से मेटाडेटा संपादित करें जैसे कंपनी [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) कक्षा।'
 ---
 

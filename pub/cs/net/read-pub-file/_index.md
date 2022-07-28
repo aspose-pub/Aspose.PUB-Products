@@ -28,8 +28,8 @@ p4: Zde získáte řešení .NET API, které vám umožní zobrazit vlastnosti d
 title: Číst soubory Publisher na .NET
 item1: "Chcete-li zobrazit vlastnosti souborů .pub, budete muset provést následující kroky:"
 item2: Integrujte rozhraní .NET PUB API, které pracuje nejen s jednostránkovými dokumenty, ale podporuje i vícestránkové soubory .pub.
-item3: Nahrajte svůj soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Třída.
-item4: Analyzujte dokument pomocí metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Rozhraní.
+item3: Nahrajte svůj soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Třída.
+item4: Analyzujte dokument pomocí metody [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) metody [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Rozhraní.
 item5: Vytiskněte dokument [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

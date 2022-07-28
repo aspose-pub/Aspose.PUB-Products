@@ -95,7 +95,7 @@ feature: conversion
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java//" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
 
 {{< /blocks/products/pf/main-container >}} 
 {{< /blocks/products/pf/main-wrap-class >}}

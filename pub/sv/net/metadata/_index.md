@@ -29,8 +29,8 @@ p4: Innan du kodar Metadata måste du integrera C# .NET PUB Metadata API. Följa
 ---
 title: Redigera metadata för PUB-filer på .NET
 item1: "Läsprocessen för utgivarens metadata består av följande steg:"
-item2: Ladda upp din PUB-fil med [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Metoden [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klass.
-item3: Analysera dokumentet via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Metoden för [*IPubParser*](https://referens.aspose.com/pub/net/aspose.pub/ipubparser) Gränssnitt.
+item2: Ladda upp din PUB-fil med [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metoden [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klass.
+item3: Analysera dokumentet via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metoden för [*IPubParser*](https://referens.aspose.com/pub/net/aspose.pub/ipubparser) Gränssnitt.
 item4: Redigera metadata t.ex. företag med hjälp av [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Metoden [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Klass.
 ---
 

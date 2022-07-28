@@ -28,9 +28,9 @@ title: Konvertera Publisher .pub-filer
 item1: Låt oss titta på funktionaliteten genom PUB till PDF-konvertering.
 item2: "Utgivarkonverteringsprocessen består av följande steg:"
 item3: Integrera .NET PUB till PDF Converter API, som inte bara fungerar med ensidiga dokument utan också stöder flersidiga .pub-filer.
-item4: Ladda PUB-fil med klassen [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//).
-item5: CreateParser och Parse via metoden [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) för [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) Gränssnitt.
-item6: Kör konverteringen med hjälp av metoden [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/).
+item4: Ladda PUB-fil med klassen [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/).
+item5: CreateParser och Parse via metoden [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) för [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Gränssnitt.
+item6: Kör konverteringen med hjälp av metoden [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/).
 ---
 
 {{<section codeexample>}}

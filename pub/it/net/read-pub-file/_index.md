@@ -28,8 +28,8 @@ p4: Qui otterrai la soluzione API .NET che ti consente di visualizzare le propri
 title: Leggi i file dell'editore su .NET
 item1: "Per visualizzare le proprietà dei file .pub dovrai eseguire i passaggi seguenti:"
 item2: Integra l'API .NET PUB, che funziona non solo con documenti a pagina singola, ma supporta anche file .pub multipagina.
-item3: Carica il tuo file PUB utilizzando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Metodo di [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
-item4: Analizza il documento tramite [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Metodo di [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interfaccia.
+item3: Carica il tuo file PUB utilizzando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metodo di [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
+item4: Analizza il documento tramite [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metodo di [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interfaccia.
 item5: Stampa il documento [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

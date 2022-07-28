@@ -26,9 +26,9 @@ p3: 変換を実行する前に、.NETPUBをPDFConverter APIに統合する必�
 {{<section feature1>}}
 ---
 title: .NETでのPUBからPDFへの変換
-item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/）クラス。'
-item2: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) を使用してファイルを解析する[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) インターフェース。'
-item3: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) を介してPUBをPDFに変換する[*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) インターフェース。'
+item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/）クラス。'
+item2: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) を使用してファイルを解析する[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) インターフェース。'
+item3: '[*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) を介してPUBをPDFに変換する[*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) インターフェース。'
 ---
 
 {{<section feature2>}}

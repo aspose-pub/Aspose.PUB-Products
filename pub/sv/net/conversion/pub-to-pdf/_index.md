@@ -26,9 +26,9 @@ p3: Innan du kör konverteringen måste du integrera .NET PUB till PDF Converter
 {{<section feature1>}}
 ---
 title: PUB till PDF-konvertering på .NET
-item1: Ladda PUB-fil med [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Metoden för [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klass.
-item2: Analysera fil med hjälp av [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Metod med [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Gränssnitt.
-item3: Konvertera PUB till PDF via [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//methods/converttopdf) Metod för [*IFDConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Gränssnitt.
+item1: Ladda PUB-fil med [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metoden för [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klass.
+item2: Analysera fil med hjälp av [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metod med [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Gränssnitt.
+item3: Konvertera PUB till PDF via [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Metod för [*IFDConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Gränssnitt.
 ---
 
 {{<section feature2>}}

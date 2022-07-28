@@ -28,8 +28,8 @@ p4: Aqui você obterá a solução .NET API que permite visualizar as propriedad
 title: Ler arquivos do Publisher no .NET
 item1: "Para visualizar as propriedades dos arquivos .pub, você precisará executar as próximas etapas:"
 item2: Integre a API .NET PUB, que funciona não apenas com documentos de página única, mas também suporta arquivos .pub de várias páginas.
-item3: Carregue seu arquivo PUB usando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) Método de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Class.
-item4: Analise o documento via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) Método de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interface.
+item3: Carregue seu arquivo PUB usando [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Método de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Class.
+item4: Analise o documento via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Método de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interface.
 item5: Imprimir documento [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

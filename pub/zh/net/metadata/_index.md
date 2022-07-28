@@ -29,8 +29,8 @@ p4: 在编码元数据之前，您需要集成 C# .NET PUB 元数据 API。以�
 ---
 title: 在 .NET 上编辑 PUB 文件的元数据
 item1: "发布者元数据读取过程包括以下步骤："
-item2: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) [*PubFactory*](https:///reference.aspose.com/pub/net/aspose.pub/pubfactory) 类。
-item3: 通过[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse)方法解析文档[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
+item2: 使用 [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) [*PubFactory*](https:///reference.aspose.com/pub/net/aspose.pub/pubfactory) 类。
+item3: 通过[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse)方法解析文档[*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
 item4: 通过 [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) 方法编辑元数据，例如公司 [*DocSummaryInfo*](https:///reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) 类。
 ---
 

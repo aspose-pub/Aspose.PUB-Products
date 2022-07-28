@@ -7,11 +7,11 @@ metakeywords: Java for PUB, Java PUB 解决方案, Java PUb, pub Java 库
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java PUB 文件操作 API" h2="在基于 Java 的应用程序中加载和转换 PUB 为 PDF，无需任何软件依赖." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/pub/java//" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java PUB 文件操作 API" h2="在基于 Java 的应用程序中加载和转换 PUB 为 PDF，无需任何软件依赖." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-java.svg" pfName="Aspose.PUB " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/pub/java/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="出版商：" mavenRepoLink="https://repository.aspose.com/pub/" directDownloadLink="https://releases.aspose.com/pub/java//" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/java/" installationsDocsLink="https://docs.aspose.com/pub/java/installation/" nugetLink="" nugetPackageName="出版商：" mavenRepoLink="https://repository.aspose.com/pub/" directDownloadLink="https://releases.aspose.com/pub/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -341,7 +341,7 @@ MS Publisher 以 .pub 扩展名保存文件，除了 Publisher 之外，没有�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java//" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/java/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB 为其他流行的开发环境提供单独的 PUB 处理 API，如下所示：" >}}
 

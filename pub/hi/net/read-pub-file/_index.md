@@ -28,8 +28,8 @@ p4: यहां आपको .NET API सॉल्यूशन मिलेग�
 title: .NET पर प्रकाशक फ़ाइलें पढ़ें
 item1: ".pub फ़ाइलें गुण देखने के लिए आपको निम्नलिखित कदम उठाने होंगे:"
 item2: एकीकृत .NET PUB API, जो न केवल एकल-पृष्ठ दस्तावेज़ों के साथ काम करता है, बल्कि बहुपृष्ठ .pub फ़ाइलों का भी समर्थन करता है।
-item3: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//methods/createparser/index) विधि का उपयोग करके अपनी PUB फ़ाइल अपलोड करें [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) कक्षा।'
-item4: दस्तावेज़ को [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//methods/parse) के माध्यम से पार्स करें। [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) इंटरफ़ेस।
+item3: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) विधि का उपयोग करके अपनी PUB फ़ाइल अपलोड करें [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) कक्षा।'
+item4: दस्तावेज़ को [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) के माध्यम से पार्स करें। [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) इंटरफ़ेस।
 item5: दस्तावेज़ प्रिंट करें [*गुण*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties)।
 ---
 

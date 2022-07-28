@@ -28,9 +28,9 @@ title: 转换 Publisher .pub 文件
 item1: 让我们看看通过 PUB 到 PDF 转换的功能。
 item2: "发布者转换过程包括以下步骤："
 item3: 将 .NET PUB 集成到 PDF Converter API，它不仅适用于单页文档，还支持多页 .pub 文件。
-item4: 使用 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//) 类加载 PUB 文件。
-item5: 通过 [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) 的 [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) 接口。
-item6: 通过 [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/) 方法运行转换。
+item4: 使用 [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 类加载 PUB 文件。
+item5: 通过 [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) 的 [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 接口。
+item6: 通过 [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) 方法运行转换。
 ---
 
 {{<section codeexample>}}

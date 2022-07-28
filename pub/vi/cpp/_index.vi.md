@@ -7,11 +7,11 @@ metakeywords: Java cho c ++, giải pháp cpp PUB, Java cpp, thư viện pub c +
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API C++ để phân tích cú pháp tệp nhà xuất bản" h2="Thao tác với tệp Publisher cũng như Chuyển đổi định dạng PUB sang PDF trong bất kỳ ứng dụng dựa trên C++ nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/pub/cpp//" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API C++ để phân tích cú pháp tệp nhà xuất bản" h2="Thao tác với tệp Publisher cũng như Chuyển đổi định dạng PUB sang PDF trong bất kỳ ứng dụng dựa trên C++ nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/headers/aspose_pub-for-cpp.svg" pfName="Aspose.PUB " subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/pub/cpp/" tryOnlineUrl="https://products.aspose.app/pub/applications" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/cpp/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/cpp//" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/cpp/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/cpp/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -351,7 +351,7 @@ PubFactory::CreatePdfConverter()-&gt;ConvertToPdf(document, filePdf);</code></pr
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/cpp//" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/pub/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/pub/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PUB" description="Aspose.PUB cung cấp các API xử lý PUB riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 

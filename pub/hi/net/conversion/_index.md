@@ -28,9 +28,9 @@ title: प्रकाशक .pub फ़ाइलों को कनवर्�
 item1: आइए पब से पीडीएफ रूपांतरण के माध्यम से कार्यक्षमता को देखें।
 item2: "प्रकाशक रूपांतरण प्रक्रिया में अगले चरण होते हैं:"
 item3: .NET PUB को PDF कन्वर्टर API में एकीकृत करें, जो न केवल सिंगल-पेज दस्तावेज़ों के साथ काम करता है बल्कि मल्टीपेज .pub फ़ाइलों का भी समर्थन करता है।
-item4: '[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory//) क्लास का उपयोग करके PUB फ़ाइल लोड करें।'
-item5: '[Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//parse/) की विधि [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser//) इंटरफ़ेस।'
-item6: '[ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter//converttopdf/) विधि के माध्यम से रूपांतरण चलाएँ।'
+item4: '[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) क्लास का उपयोग करके PUB फ़ाइल लोड करें।'
+item5: '[Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) की विधि [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) इंटरफ़ेस।'
+item6: '[ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) विधि के माध्यम से रूपांतरण चलाएँ।'
 ---
 
 {{<section codeexample>}}
