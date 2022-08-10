@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-java.md
 title: Solução de API do PUB Converter | Java

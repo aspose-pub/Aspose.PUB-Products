@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/reader-net.md
 title: อ่านไฟล์ PUB | .NET
@@ -28,8 +28,8 @@ p4: ที่นี่ คุณจะได้รับโซลูชัน .N
 title: อ่านไฟล์ผู้จัดพิมพ์บน .NET
 item1: "หากต้องการดูคุณสมบัติของไฟล์ .pub คุณจะต้องทำตามขั้นตอนต่อไปนี้:"
 item2: ผสานรวม .NET PUB API ซึ่งใช้งานได้ไม่เฉพาะกับเอกสารหน้าเดียว แต่ยังรองรับไฟล์ .pub แบบหลายหน้าอีกด้วย
-item3: อัปโหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Method ของ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) คลาส
-item4: แยกวิเคราะห์เอกสารผ่าน [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Method ของ [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) อินเทอร์เฟซ
+item3: อัปโหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Method ของ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) คลาส
+item4: แยกวิเคราะห์เอกสารผ่าน [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Method ของ [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) อินเทอร์เฟซ
 item5: พิมพ์เอกสาร [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties)
 ---
 

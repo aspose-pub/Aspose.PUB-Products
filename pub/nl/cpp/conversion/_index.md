@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion.md
 title: PUB Converter API-oplossing | C++

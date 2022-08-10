@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-java.md
 title: 编辑出版商 | PUB 元数据 |爪哇

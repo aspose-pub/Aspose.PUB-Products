@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-java.md
 title: Μετατροπή PUB σε PDF | Ιάβα

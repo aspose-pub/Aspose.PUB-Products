@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-java.md
 title: PUB Converter API-lösning | Java
@@ -30,7 +30,7 @@ item2: "Utgivarkonverteringsprocessen består av följande steg:"
 item3: Integrera Java PUB till PDF Converter API, som inte bara fungerar med ensidiga dokument utan också stöder flersidiga .pub-filer.
 item4: Ladda PUB-fil med klassen [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory).
 item5: CreateParser och Parse via metoden [*Parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) i [*IPubParser*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Gränssnitt.
-item6: Kör konverteringen med hjälp av [*ConvertToPdf*()](https://reference.aspose.com/pub/java/com.aspose.pub/IFFConverter#convertToPdf-com.aspose.pub.Document-java.io.OutputStream-) Metod.
+item6: Kör konverteringen med hjälp av [*ConvertToPdf*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) Metod.
 ---
 
 {{<section codeexample>}}

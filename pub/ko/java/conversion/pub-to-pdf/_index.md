@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-java.md
 title: PUB를 PDF로 변환 | 자바

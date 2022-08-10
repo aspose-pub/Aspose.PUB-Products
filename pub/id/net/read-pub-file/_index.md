@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/reader-net.md
 title: Baca file PUB | .NET
@@ -28,8 +28,8 @@ p4: Di sini Anda akan mendapatkan .NET API Solution yang memungkinkan Anda melih
 title: Baca file Publisher di .NET
 item1: "Untuk melihat properti file .pub, Anda perlu melakukan langkah berikut:"
 item2: Integrasikan .NET PUB API, yang berfungsi tidak hanya dengan dokumen satu halaman tetapi juga mendukung file .pub multihalaman.
-item3: Unggah file PUB Anda menggunakan [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Metode [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Kelas.
-item4: Parsing dokumen melalui [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metode [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Antarmuka.
+item3: Unggah file PUB Anda menggunakan [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Metode [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Kelas.
+item4: Parsing dokumen melalui [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Metode [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Antarmuka.
 item5: Cetak dokumen [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

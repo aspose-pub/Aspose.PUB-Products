@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/reader-net.md
 title: PUB-fájlok olvasása | .NET
@@ -28,8 +28,8 @@ p4: Itt kapja meg a .NET API megoldást, amellyel megtekintheti az MS Publisher 
 title: Olvassa el a Publisher fájlokat a .NET-en
 item1: "A .pub fájlok tulajdonságainak megtekintéséhez a következő lépéseket kell végrehajtania:"
 item2: Integrálja a .NET PUB API-t, amely nem csak egyoldalas dokumentumokkal működik, hanem támogatja a többoldalas .pub fájlokat is.
-item3: Töltse fel PUB-fájlját a [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) módszerével [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Osztály.
-item4: Elemezze a dokumentumot a [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse)   metódusával [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfész.
+item3: Töltse fel PUB-fájlját a [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) módszerével [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Osztály.
+item4: Elemezze a dokumentumot a [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/)   metódusával [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfész.
 item5: Nyomtassa ki a dokumentumot [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

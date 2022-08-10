@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-cpp.md
 title: Kiadó szerkesztése | PUB metaadatok | C++

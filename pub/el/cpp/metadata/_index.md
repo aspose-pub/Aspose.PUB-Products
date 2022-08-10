@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-cpp.md
 title: Επεξεργασία εκδότη | Μεταδεδομένα PUB | C++

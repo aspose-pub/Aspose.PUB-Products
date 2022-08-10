@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/reader-net.md
 title: PUBファイルを読む| .NET
@@ -28,8 +28,8 @@ p4: ここでは、サイズ、幅、高さ、使用されているフォント�
 title: .NETでパブリッシャーファイルを読み取る
 item1: ".pubファイルのプロパティを表示するには、次の手順を実行する必要があります。"
 item2: .NET PUB APIを統合します。これは、単一ページのドキュメントだけでなく、複数ページの.pubファイルもサポートします。
-item3: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index)メソッド[*PubFactory*](https//reference.aspose.com/pub/net/aspose.pub/pubfactory)クラス。'
-item4: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse)[*IPubParser*](https//reference。aspose.com/pub/net/aspose.pub/ipubparser)インターフェース。'
+item3: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/)メソッド[*PubFactory*](https//reference.aspose.com/pub/net/aspose.pub/pubfactory)クラス。'
+item4: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/)[*IPubParser*](https//reference。aspose.com/pub/net/aspose.pub/ipubparser)インターフェース。'
 item5: ドキュメント[*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties)を印刷します。
 ---
 

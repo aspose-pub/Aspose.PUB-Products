@@ -30,7 +30,7 @@ Parse .pub files as well as convert to PDF, Word, Excel, and image formats withi
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -30,7 +30,7 @@ description: مكتبة تحليل وتحليل PUB. هذا هو حل API لتح
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

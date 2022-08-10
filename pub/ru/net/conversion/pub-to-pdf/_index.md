@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: Конвертировать PUB в PDF | .NET
@@ -26,9 +26,9 @@ p3: Перед запуском преобразования вам необхо
 {{<section feature1>}}
 ---
 title: Преобразование PUB в PDF на .NET
-item1: Загрузите файл PUB, используя [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Метод [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Класс.
-item2: Разобрать файл с помощью метода [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) метода [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Интерфейс.
-item3: Преобразование PUB в PDF с помощью [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) методом [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Интерфейс.
+item1: Загрузите файл PUB, используя [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Метод [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Класс.
+item2: Разобрать файл с помощью метода [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) метода [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Интерфейс.
+item3: Преобразование PUB в PDF с помощью [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) методом [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Интерфейс.
 ---
 
 {{<section feature2>}}

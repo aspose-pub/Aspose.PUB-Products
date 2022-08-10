@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion.md
 title: Giải pháp API chuyển đổi PUB | C ++

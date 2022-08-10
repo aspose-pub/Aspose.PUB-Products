@@ -29,9 +29,9 @@ p4: Before coding Metadata, you need to integrate C# .NET PUB Metadata API. The 
 ---
 title: Edit Metadata of PUB Files on .NET
 item1: "The publisher Metadata reading process consists of the next steps:"
-item2: Upload your PUB file using [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Method of [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Class.
-item3: Parse the document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Method of [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interface.
-item4: Edit metadata e.g Company by means of [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Method of [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Class.
+item2: Upload your PUB file using [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Method of [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Class.
+item3: Parse the document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Method of [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interface.
+item4: Edit metadata e.g Company by means of [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/setcompany/) Method of [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/) Class.
 ---
 
 {{<section feature2>}}

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-java.md
 title: Sunting Penerbit | Metadata PUB | Jawa
@@ -35,7 +35,7 @@ item1: "Untuk Mengedit Metadata PUB, kami akan menggunakan [Aspose.PUB for Java 
 ---
 title: Lihat dan Edit Metadata PUB di Java
 item1: "Proses membaca Metadata penerbit terdiri dari langkah-langkah berikut:"
-item2: Unggah file PUB Anda menggunakan [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metode [*PubFactory* ](https://reference.aspose.com/pub/Java/com.aspose.pub/PubFactory) Kelas.
+item2: Unggah file PUB Anda menggunakan [*createParser*()](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metode [*PubFactory* ](https://reference.aspose.com/pub/java/com.aspose.pub/pubfactory/) Kelas.
 item3: Parsing file melalui [*parse*()](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) metode [*IPdfConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Antarmuka.
 item4: Edit metadata mis. Bahasa melalui [*setLanguage*()](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo#setLanguage-java.lang.String-) Metode [*DocSummaryInfo*](https://reference.aspose.com/pub/java/com.aspose.pub/DocSummaryInfo) Kelas.
 ---

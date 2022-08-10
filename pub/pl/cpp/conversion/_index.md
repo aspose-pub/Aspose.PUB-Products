@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion.md
 title: Rozwiązanie API konwertera PUB | C++

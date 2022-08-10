@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion.md
 title: حل PUB Converter API | C ++

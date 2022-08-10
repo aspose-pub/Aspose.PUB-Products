@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-net.md
 title: Herausgeber bearbeiten | PUB-Metadaten | .NET
@@ -29,9 +29,9 @@ p4: Vor dem Codieren von Metadaten müssen Sie die C# .NET PUB-Metadaten-API int
 ---
 title: Bearbeiten Sie Metadaten von PUB-Dateien in .NET
 item1: "Der Leseprozess für Publisher-Metadaten besteht aus den nächsten Schritten:"
-item2: Laden Sie Ihre PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode von [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasse.
-item3: Analysieren Sie das Dokument über [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Schnittstelle.
-item4: Bearbeiten Sie Metadaten, z. B. Unternehmen, mithilfe von [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Methode von [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Klasse.
+item2: Laden Sie Ihre PUB-Datei mit [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Methode von [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Klasse.
+item3: Analysieren Sie das Dokument über [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Methode von [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Schnittstelle.
+item4: Bearbeiten Sie Metadaten, z. B. Unternehmen, mithilfe von [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/setcompany/) Methode von [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/) Klasse.
 ---
 
 {{<section feature2>}}

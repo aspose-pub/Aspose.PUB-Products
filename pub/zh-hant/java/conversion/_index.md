@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-java.md
 title: PUB 轉換器 API 解決方案 |爪哇

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-net.md
 title: แก้ไขผู้เผยแพร่ | ข้อมูลเมตาของ PUB | .NET
@@ -29,9 +29,9 @@ p4: ก่อนเขียนโค้ด Metadata คุณต้องผส
 ---
 title: แก้ไขข้อมูลเมตาของไฟล์ PUB บน .NET
 item1: "กระบวนการอ่านข้อมูลเมตาของผู้จัดพิมพ์ประกอบด้วยขั้นตอนถัดไป:"
-item2: อัปโหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Method ของ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) คลาส
-item3: แยกวิเคราะห์เอกสารผ่าน [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Method ของ [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) อินเทอร์เฟซ
-item4: แก้ไขข้อมูลเมตา เช่น บริษัท โดยใช้ [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Method of [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) คลาส
+item2: อัปโหลดไฟล์ PUB โดยใช้ [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Method ของ [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) คลาส
+item3: แยกวิเคราะห์เอกสารผ่าน [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Method ของ [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) อินเทอร์เฟซ
+item4: แก้ไขข้อมูลเมตา เช่น บริษัท โดยใช้ [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/setcompany/) Method of [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/) คลาส
 ---
 
 {{<section feature2>}}

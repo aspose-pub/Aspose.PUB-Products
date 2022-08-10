@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-java.md
 title: Redigera utgivare | PUB Metadata | Java

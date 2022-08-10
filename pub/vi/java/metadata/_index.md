@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-java.md
 title: Chỉnh sửa nhà xuất bản | Siêu dữ liệu PUB | Java

@@ -30,7 +30,7 @@ description: Библиотека манипулирования и синтак
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

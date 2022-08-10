@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child.md
 title: Convertir PUB en PDF | C++

@@ -30,7 +30,7 @@ PUB 文件處理桌面、Web 或任何基於 Java SE 或 EE 的應用程序的 J
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

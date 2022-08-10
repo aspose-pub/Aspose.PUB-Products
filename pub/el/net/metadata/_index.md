@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-net.md
 title: Επεξεργασία εκδότη | Μεταδεδομένα PUB | .NET
@@ -29,9 +29,9 @@ p4: Πριν κωδικοποιήσετε τα Μεταδεδομένα, πρέ�
 ---
 title: Επεξεργασία μεταδεδομένων αρχείων PUB στο .NET
 item1: "Η διαδικασία ανάγνωσης μεταδεδομένων εκδότη αποτελείται από τα ακόλουθα βήματα:"
-item2: Ανεβάστε το αρχείο PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Μέθοδο του [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Τάξη.
-item3: Αναλύστε το έγγραφο μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Μέθοδος [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
-item4: Επεξεργασία μεταδεδομένων π.χ. Εταιρεία μέσω του [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Μέθοδος [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Τάξη.
+item2: Ανεβάστε το αρχείο PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Μέθοδο του [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Τάξη.
+item3: Αναλύστε το έγγραφο μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Μέθοδος [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
+item4: Επεξεργασία μεταδεδομένων π.χ. Εταιρεία μέσω του [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/setcompany/) Μέθοδος [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/) Τάξη.
 ---
 
 {{<section feature2>}}

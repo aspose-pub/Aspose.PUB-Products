@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: Chuyển PUB sang PDF | .NET
@@ -26,9 +26,9 @@ p3: Trước khi chạy chuyển đổi, bạn cần tích hợp .NET PUB to PDF
 {{<section feature1>}}
 ---
 title: Chuyển đổi PUB sang PDF trên .NET
-item1: Tải tệp PUB bằng [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Phương thức [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Lớp.
-item2: Phân tích cú pháp tệp bằng phương pháp [*Phân tích cú pháp*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Phương thức [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Giao diện.
-item3: Chuyển đổi PUB sang PDF qua [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Phương thức [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Giao diện.
+item1: Tải tệp PUB bằng [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Phương thức [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Lớp.
+item2: Phân tích cú pháp tệp bằng phương pháp [*Phân tích cú pháp*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Phương thức [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Giao diện.
+item3: Chuyển đổi PUB sang PDF qua [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) Phương thức [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Giao diện.
 ---
 
 {{<section feature2>}}

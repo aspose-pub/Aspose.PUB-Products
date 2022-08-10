@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: पब कनवर्टर एपीआई समाधान | .NET

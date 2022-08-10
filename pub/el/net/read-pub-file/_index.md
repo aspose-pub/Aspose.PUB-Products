@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/reader-net.md
 title: Ανάγνωση αρχείων PUB | .NET
@@ -28,8 +28,8 @@ p4: Εδώ θα λάβετε τη Λύση .NET API που σας επιτρέπ
 title: Διαβάστε τα αρχεία του Publisher στο .NET
 item1: "Για να προβάλετε τις ιδιότητες των αρχείων .pub θα χρειαστεί να ακολουθήσετε τα ακόλουθα βήματα:"
 item2: Ενσωματώστε το .NET PUB API, το οποίο λειτουργεί όχι μόνο με έγγραφα μιας σελίδας, αλλά υποστηρίζει επίσης πολυσέλιδα αρχεία .pub.
-item3: Ανεβάστε το αρχείο PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Μέθοδο του [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Τάξη.
-item4: Αναλύστε το έγγραφο μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Μέθοδος [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
+item3: Ανεβάστε το αρχείο PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Μέθοδο του [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Τάξη.
+item4: Αναλύστε το έγγραφο μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Μέθοδος [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
 item5: Εκτυπώστε το έγγραφο [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

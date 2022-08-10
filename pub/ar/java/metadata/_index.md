@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-java.md
 title: تحرير الناشر | البيانات الوصفية لـ PUB | جافا

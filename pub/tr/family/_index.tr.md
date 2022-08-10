@@ -30,7 +30,7 @@ Windows platformunda geliştirilen C++ uygulamalarında .pub dosyalarını ayrı
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="API Referansları" href="https://reference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="API Referansları" href="https://reference.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

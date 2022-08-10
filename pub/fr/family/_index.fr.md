@@ -30,7 +30,7 @@ Analysez les fichiers .pub et convertissez-les en formats PDF, Word, Excel et im
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="Références API" href="https://reference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="Références API" href="https://reference.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

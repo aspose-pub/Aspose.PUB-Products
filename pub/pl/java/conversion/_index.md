@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-java.md
 title: Rozwiązanie API konwertera PUB | Jawa

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion.md
 title: पब कनवर्टर एपीआई समाधान | सी++

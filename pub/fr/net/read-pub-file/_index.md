@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/reader-net.md
 title: Lire les fichiers PUB | .NET
@@ -28,8 +28,8 @@ p4: Ici, vous obtiendrez la solution API .NET qui vous permet d'afficher les pro
 title: Lire les fichiers Publisher sur .NET
 item1: "Pour afficher les propriétés des fichiers .pub, vous devrez suivre les étapes suivantes :"
 item2: Intégrez l'API .NET PUB, qui fonctionne non seulement avec des documents d'une seule page, mais prend également en charge les fichiers .pub multipages.
-item3: Téléchargez votre fichier PUB en utilisant [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Méthode de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
-item4: Analysez le document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Méthode de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/).
+item3: Téléchargez votre fichier PUB en utilisant [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Méthode de [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Classe.
+item4: Analysez le document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Méthode de [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/).
 item5: Imprimez le document [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

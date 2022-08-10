@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-java.md
 title: แก้ไขผู้เผยแพร่ | ข้อมูลเมตาของ PUB | Java

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/reader-net.md
 title: Lees PUB-bestanden | .NET
@@ -28,8 +28,8 @@ p4: Hier krijgt u de .NET API-oplossing waarmee u de eigenschappen van het MS Pu
 title: Lees Publisher-bestanden op .NET
 item1: "Om de eigenschappen van .pub-bestanden te bekijken, moet u de volgende stappen uitvoeren:"
 item2: Integreer .NET PUB API, die niet alleen werkt met documenten van één pagina, maar ook .pub-bestanden met meerdere pagina's ondersteunt.
-item3: Upload uw PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode van [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) klasse.
-item4: Parseer het document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interface.
+item3: Upload uw PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Methode van [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) klasse.
+item4: Parseer het document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interface.
 item5: Document afdrukken [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties).
 ---
 

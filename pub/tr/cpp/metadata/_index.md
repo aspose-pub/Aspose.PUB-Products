@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-cpp.md
 title: Yayıncıyı Düzenle | PUB Meta Verileri | C++

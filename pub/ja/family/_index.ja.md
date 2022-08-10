@@ -30,7 +30,7 @@ Windowsプラットフォームで開発されたC++アプリケーション内�
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://reference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://reference.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

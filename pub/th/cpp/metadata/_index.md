@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-cpp.md
 title: แก้ไขผู้เผยแพร่ | ข้อมูลเมตาของ PUB | C++

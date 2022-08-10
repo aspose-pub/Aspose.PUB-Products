@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-java.md
 title: Konvertera PUB till PDF | Java
@@ -34,7 +34,7 @@ item1: "För att konvertera PUB till PDF kommer vi att använda [Aspose.PUB för
 title: PUB till PDF-konvertering på Java
 item1: Ladda PUB-fil med [*createParser()*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory#createParser-java.lang.String-) Metoden [*PubFactory*](https://reference.aspose.com/pub/java/com.aspose.pub/PubFactory) Klass.
 item2: Analysera fil med [*parse()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser#parse--) Metoden för [*IFFConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPubParser) Gränssnitt.
-item3: Konvertera PUB till PDF med [*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IFFConverter#convertToPdf-com.aspose.pub.Document-java.lang.String-) Metod för [*IFFConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IFFConverter) gränssnitt.
+item3: Konvertera PUB till PDF med [*convertToPdf()*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) Metod för [*IFFConverter*](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) gränssnitt.
 ---
 
 {{<section feature2>}}

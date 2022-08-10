@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-net.md
 title: Uitgever bewerken | PUB-metagegevens | .NET
@@ -29,9 +29,9 @@ p4: Voordat u Metadata codeert, moet u C# .NET PUB Metadata API integreren. In h
 ---
 title: Bewerk metadata van PUB-bestanden op .NET
 item1: "Het leesproces van de uitgever Metadata bestaat uit de volgende stappen:"
-item2: Upload uw PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode van [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) klasse.
-item3: Parseer het document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interface.
-item4: Bewerk metadata bijv. Bedrijf door middel van [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) Methode van [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) klasse.
+item2: Upload uw PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Methode van [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) klasse.
+item3: Parseer het document via [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interface.
+item4: Bewerk metadata bijv. Bedrijf door middel van [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/setcompany/) Methode van [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/) klasse.
 ---
 
 {{<section feature2>}}

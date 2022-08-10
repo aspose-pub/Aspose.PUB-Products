@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 deploy: false
 ---

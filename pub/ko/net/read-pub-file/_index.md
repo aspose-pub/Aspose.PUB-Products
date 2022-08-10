@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/reader-net.md
 title: PUB 파일 읽기 | .NET
@@ -28,8 +28,8 @@ p4: 여기에서 크기, 너비, 높이, 사용된 글꼴 이름, 필드 수 및
 title: .NET에서 게시자 파일 읽기
 item1: ".pub 파일 속성을 보려면 다음 단계를 수행해야 합니다."
 item2: 단일 페이지 문서뿐만 아니라 다중 페이지 .pub 파일도 지원하는 .NET PUB API를 통합합니다.
-item3: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) 메서드를 사용하여 PUB 파일을 업로드합니다. [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 클래스.'
-item4: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) 메서드를 통해 문서를 구문 분석합니다. [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 인터페이스.'
+item3: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) 메서드를 사용하여 PUB 파일을 업로드합니다. [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) 클래스.'
+item4: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) 메서드를 통해 문서를 구문 분석합니다. [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) 인터페이스.'
 item5: 문서 [*properties*](https://reference.aspose.com/pub/net/aspose.pub/document/#properties)를 인쇄합니다.
 ---
 

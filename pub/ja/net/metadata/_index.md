@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-net.md
 title: 出版社を編集| PUBメタデータ| .NET
@@ -29,9 +29,9 @@ p4: メタデータをコーディングする前に、C＃.NETPUBメタデー�
 ---
 title: .NET上のPUBファイルのメタデータを編集する
 item1: "パブリッシャーのメタデータ読み取りプロセスは、次のステップで構成されます。"
-item2: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) メソッド[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/)クラス。'
-item3: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) インターフェース。'
-item4: '[*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) クラス。'
+item2: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) メソッド[*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/)クラス。'
+item3: '[*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) インターフェース。'
+item4: '[*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/setcompany/) [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/) クラス。'
 ---
 
 {{<section feature2>}}

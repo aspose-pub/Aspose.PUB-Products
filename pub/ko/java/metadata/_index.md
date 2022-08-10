@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-java.md
 title: 게시자 편집 | PUB 메타데이터 | 자바

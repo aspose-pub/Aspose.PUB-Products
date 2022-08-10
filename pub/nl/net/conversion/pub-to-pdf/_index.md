@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: Converteer PUB naar PDF | .NET
@@ -26,9 +26,9 @@ p3: Voordat u de conversie uitvoert, moet u de .NET PUB naar PDF Converter API i
 {{<section feature1>}}
 ---
 title: PUB naar PDF-conversie op .NET
-item1: Laad PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Methode van [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) klasse.
-item2: Bestand ontleden door middel van [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interface.
-item3: Converteer PUB naar PDF via [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Methode van [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) interface.
+item1: Laad PUB-bestand met [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Methode van [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) klasse.
+item2: Bestand ontleden door middel van [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Methode van [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) interface.
+item3: Converteer PUB naar PDF via [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) Methode van [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) interface.
 ---
 
 {{<section feature2>}}

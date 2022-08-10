@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-net.md
 title: Yayıncıyı Düzenle | PUB Meta Verileri | .NET
@@ -29,9 +29,9 @@ p4: Meta Verileri kodlamadan önce, C# .NET PUB Meta Veri API'sini entegre etmen
 ---
 title: .NET'te PUB Dosyalarının Meta Verilerini Düzenleme
 item1: "Yayıncı Meta Veri okuma süreci aşağıdaki adımlardan oluşur:"
-item2: PUB dosyanızı [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) kullanarak yükleyin [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Sınıf.
-item3: Belgeyi [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) aracılığıyla ayrıştırın [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Arayüzü.
-item4: Meta verileri düzenleyin ör. Şirket [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/methods/setcompany) [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo) Sınıf.
+item2: PUB dosyanızı [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) kullanarak yükleyin [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Sınıf.
+item3: Belgeyi [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) aracılığıyla ayrıştırın [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Arayüzü.
+item4: Meta verileri düzenleyin ör. Şirket [*SetCompany*()](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/setcompany/) [*DocSummaryInfo*](https://reference.aspose.com/pub/net/aspose.pub/docsummaryinfo/) Sınıf.
 ---
 
 {{<section feature2>}}

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: PUB konvertálása PDF-be | .NET
@@ -26,9 +26,9 @@ p3: Az átalakítás futtatása előtt integrálnia kell a .NET PUB to PDF Conve
 {{<section feature1>}}
 ---
 title: Konverzió PUB-ból PDF-be .NET-en
-item1: Töltsön be PUB-fájlt a [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metódusával [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Osztály.
-item2: Fájl elemzése a [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse)  metódusával [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfész.
-item3: PUB konvertálása PDF-be a [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf)  módszerével [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Interfész.
+item1: Töltsön be PUB-fájlt a [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) metódusával [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Osztály.
+item2: Fájl elemzése a [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/)  metódusával [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Interfész.
+item3: PUB konvertálása PDF-be a [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/)  módszerével [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Interfész.
 ---
 
 {{<section feature2>}}

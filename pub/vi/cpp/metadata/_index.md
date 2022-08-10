@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-cpp.md
 title: Chỉnh sửa nhà xuất bản | Siêu dữ liệu PUB | C ++

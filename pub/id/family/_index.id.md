@@ -30,7 +30,7 @@ Parsing file .pub serta konversi ke PDF, Word, Excel, dan format gambar dalam ap
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-pub" >}}
-{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/pub" >}}
+{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/pub/" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

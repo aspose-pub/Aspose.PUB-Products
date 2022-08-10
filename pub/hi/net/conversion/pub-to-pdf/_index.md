@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: PUB को PDF में बदलें | .NET
@@ -26,9 +26,9 @@ p3: रूपांतरण चलाने से पहले आपको .N
 {{<section feature1>}}
 ---
 title: .NET . पर PUB से PDF रूपांतरण
-item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) विधि का उपयोग करके PUB फ़ाइल लोड करें [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) कक्षा।'
-item2: '[Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) के माध्यम से पार्स फ़ाइल [*IPubParser*](https://apireference) की विधि .aspose.com/pub/net/aspose.pub/ipubparser) इंटरफेस।'
-item3: '[ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) की विधि [*IPdfConverter*](https://apireference) के माध्यम से PUB को PDF में बदलें .aspose.com/pub/net/aspose.pub/ipdfconverter) इंटरफेस।'
+item1: '[*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) विधि का उपयोग करके PUB फ़ाइल लोड करें [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) कक्षा।'
+item2: '[Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) के माध्यम से पार्स फ़ाइल [*IPubParser*](https://apireference) की विधि .aspose.com/pub/net/aspose.pub/ipubparser) इंटरफेस।'
+item3: '[ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) की विधि [*IPdfConverter*](https://apireference) के माध्यम से PUB को PDF में बदलें .aspose.com/pub/net/aspose.pub/ipdfconverter) इंटरफेस।'
 ---
 
 {{<section feature2>}}

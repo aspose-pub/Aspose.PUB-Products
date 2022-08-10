@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-cpp.md
 title: प्रकाशक संपादित करें | पब मेटाडेटा | सी++

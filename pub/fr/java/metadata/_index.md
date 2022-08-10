@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/metadata-java.md
 title: Modifier l'éditeur | Métadonnées PUB | Java

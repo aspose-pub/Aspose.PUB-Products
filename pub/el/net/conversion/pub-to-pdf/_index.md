@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: Μετατροπή PUB σε PDF | .NET
@@ -26,9 +26,9 @@ p3: Πριν εκτελέσετε τη μετατροπή, πρέπει να ε�
 {{<section feature1>}}
 ---
 title: Μετατροπή PUB σε PDF στο .NET
-item1: Φόρτωση αρχείου PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) Μέθοδος [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Τάξη.
-item2: Ανάλυση αρχείου μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Μέθοδος του [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
-item3: Μετατροπή PUB σε PDF μέσω [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Μέθοδος [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Διεπαφή.
+item1: Φόρτωση αρχείου PUB χρησιμοποιώντας [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) Μέθοδος [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Τάξη.
+item2: Ανάλυση αρχείου μέσω [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Μέθοδος του [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
+item3: Μετατροπή PUB σε PDF μέσω [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) Μέθοδος [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Διεπαφή.
 ---
 
 {{<section feature2>}}

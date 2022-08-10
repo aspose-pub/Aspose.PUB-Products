@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: Převést PUB do PDF | .NET
@@ -26,9 +26,9 @@ p3: Před spuštěním převodu je potřeba integrovat rozhraní .NET PUB to PDF
 {{<section feature1>}}
 ---
 title: Konverze PUB do PDF na .NET
-item1: Načtěte soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/methods/createparser/index) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Třída.
-item2: Analyzujte soubor pomocí [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/methods/parse) Metoda [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Rozhraní.
-item3: Převeďte PUB do PDF pomocí [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/methods/converttopdf) Metoda [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Rozhraní.
+item1: Načtěte soubor PUB pomocí metody [*CreateParser*()](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/createparser/) metody [*PubFactory*](https://reference.aspose.com/pub/net/aspose.pub/pubfactory/) Třída.
+item2: Analyzujte soubor pomocí [*Parse*()](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/parse/) Metoda [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Rozhraní.
+item3: Převeďte PUB do PDF pomocí [*ConvertToPdf*()](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) Metoda [*IPdfConverter*](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) Rozhraní.
 ---
 
 {{<section feature2>}}
