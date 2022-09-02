@@ -16,7 +16,7 @@ metakeywords: publisher solution, code publisher, pub library, ms publisher libr
 High Code APIs for Publisher PUB file format conversion in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PUB for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productLink="https://products.aspose.com/pub/java//" >}}
+{{< blocks/products/pf/product pfName="Aspose.PUB for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productLink="https://products.aspose.com/pub/java/" >}}
 Java APIs to manipulate PUB files. Load and convert .pub format to PDF within Java-based applications without any software dependencies.
 {{< /blocks/products/pf/product >}}
 
