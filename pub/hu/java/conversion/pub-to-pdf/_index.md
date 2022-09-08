@@ -26,7 +26,7 @@ p3: Az átalakítás futtatása előtt integrálnia kell a Java PUB to PDF Conve
 {{<section widget>}}
 ---
 title: Hogyan lehet PUB-t PDF-be konvertálni Java segítségével
-item1: "A PUB PDF-be konvertálásához az Aspose.PUB for Java API fájlt használjuk, amely egy funkciókban gazdag, hatékony és könnyen használható konverziós API Java platform. Legfrissebb verzióját közvetlenül a  webhelyről töltheti le [Maven](https://repository.aspose.com/pub/), és telepítheti a Mavenbe. -alapú projektet a következő konfigurációk hozzáadásával a pom.xml fájlhoz."
+item1: "A PUB PDF-be konvertálásához az Aspose.PUB for Java API fájlt használjuk, amely egy funkciókban gazdag, hatékony és könnyen használható konverziós API Java platform. Legfrissebb verzióját közvetlenül a  webhelyről töltheti le [Aspose Maven Repository](https://repository.aspose.com/pub/), és telepítheti a Mavenbe. -alapú projektet a következő konfigurációk hozzáadásával a pom.xml fájlhoz."
 ---
 
 {{<section feature1>}}

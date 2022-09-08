@@ -26,7 +26,7 @@ p3: Antes de executar a conversão, você precisa integrar o Java PUB ao PDF Con
 {{<section widget>}}
 ---
 title: Como converter PUB para PDF usando Java
-item1: "Para converter PUB em PDF, usaremos [Aspose.PUB for Java API](https://products.aspose.com/pub/java/), que é uma API de conversão rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente do [Maven](https://repository.aspose.com/pub/) e instalá-lo no seu Maven baseado em projeto adicionando as seguintes configurações ao pom.xml."
+item1: "Para converter PUB em PDF, usaremos [Aspose.PUB for Java API](https://products.aspose.com/pub/java/), que é uma API de conversão rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente do [Aspose Maven Repository](https://repository.aspose.com/pub/) e instalá-lo no seu Maven baseado em projeto adicionando as seguintes configurações ao pom.xml."
 ---
 
 {{<section feature1>}}

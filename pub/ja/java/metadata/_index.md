@@ -28,7 +28,7 @@ p4: メタデータをコーディングする前に、JavaPUBメタデータAPI
 {{<section widget>}}
 ---
 title: Javaを使用してPUBメタデータを編集する方法
-item1: "PUBメタデータを編集するには、機能が豊富で強力で使いやすい変換である [Aspose.PUB for Java API](https://products.aspose.com/pub/java/)を使用します。 Javaプラットフォーム用のAPI。最新バージョンは [Maven](https://repository.aspose.com/pub/) から直接ダウンロードして、Mavenにインストールできます。次の構成をpom.xmlに追加することによるベースのプロジェクト。"
+item1: "PUBメタデータを編集するには、機能が豊富で強力で使いやすい変換である [Aspose.PUB for Java API](https://products.aspose.com/pub/java/)を使用します。 Javaプラットフォーム用のAPI。最新バージョンは [Aspose Maven Repository](https://repository.aspose.com/pub/) から直接ダウンロードして、Mavenにインストールできます。次の構成をpom.xmlに追加することによるベースのプロジェクト。"
 ---
 
 {{<section feature1>}}

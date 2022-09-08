@@ -28,7 +28,7 @@ p4: Před kódováním metadat musíte integrovat Java PUB Metadata API. Násled
 {{<section widget>}}
 ---
 title: Jak upravit metadata PUB pomocí Javy
-item1: "Abychom mohli upravit metadata PUB, použijeme [Aspose.PUB for Java API](https://products.aspose.com/pub/java/), což je funkčně bohatý, výkonný a snadno použitelný převod. API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z [Maven](https://repository.aspose.com/pub/) a nainstalovat do svého Maven -založený projekt přidáním následujících konfigurací do souboru pom.xml."
+item1: "Abychom mohli upravit metadata PUB, použijeme [Aspose.PUB for Java API](https://products.aspose.com/pub/java/), což je funkčně bohatý, výkonný a snadno použitelný převod. API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z [Aspose Maven Repository](https://repository.aspose.com/pub/) a nainstalovat do svého Maven -založený projekt přidáním následujících konfigurací do souboru pom.xml."
 ---
 
 {{<section feature1>}}

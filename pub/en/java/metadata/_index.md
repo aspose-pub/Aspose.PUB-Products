@@ -28,7 +28,7 @@ p4: Before coding Metadata, you need to integrate Java PUB Metadata API. The fol
 {{<section widget>}}
 ---
 title: How to Edit PUB Metadata Using Java
-item1: "In order to Edit PUB Metadata, we’ll use [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) which is a feature-rich, powerful, and easy-to-use conversion API for the Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/pub/) and install it within your Maven-based project by adding the following configurations to the pom.xml."
+item1: "In order to Edit PUB Metadata, we’ll use [Aspose.PUB for Java API](https://products.aspose.com/pub/java/) which is a feature-rich, powerful, and easy-to-use conversion API for the Java platform. You can download its latest version directly from [Aspose Maven Repository](https://repository.aspose.com/pub/) and install it within your Maven-based project by adding the following configurations to the pom.xml."
 ---
 
 {{<section feature1>}}

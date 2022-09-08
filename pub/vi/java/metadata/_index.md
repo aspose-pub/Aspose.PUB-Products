@@ -28,7 +28,7 @@ p4: Trước khi mã hóa Siêu dữ liệu, bạn cần tích hợp API Siêu d
 {{<section widget>}}
 ---
 title: Cách chỉnh sửa siêu dữ liệu PUB bằng Java
-item1: "Để chỉnh sửa siêu dữ liệu PUB, chúng tôi sẽ sử dụng [Aspose.PUB dành cho API Java](https://products.aspose.com/pub/java/), đây là một chuyển đổi giàu tính năng, mạnh mẽ và dễ sử dụng API cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất trực tiếp từ [Maven](https://repository.aspose.com/pub/) và cài đặt nó trong Maven của bạn dựa trên dự án bằng cách thêm các cấu hình sau vào pom.xml."
+item1: "Để chỉnh sửa siêu dữ liệu PUB, chúng tôi sẽ sử dụng [Aspose.PUB dành cho API Java](https://products.aspose.com/pub/java/), đây là một chuyển đổi giàu tính năng, mạnh mẽ và dễ sử dụng API cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất trực tiếp từ [Aspose Maven Repository](https://repository.aspose.com/pub/) và cài đặt nó trong Maven của bạn dựa trên dự án bằng cách thêm các cấu hình sau vào pom.xml."
 ---
 
 {{<section feature1>}}

@@ -26,7 +26,7 @@ p3: 変換を実行する前に、JavaPUBをPDFConverter APIに統合する必�
 {{<section widget>}}
 ---
 title: Javaを使用してPUBをPDFに変換する方法
-item1: "PUBをPDFに変換するために、[Aspose.PUB for Java API](https://products.aspose.com/pub/java/) を使用します。これは、機能が豊富で強力で使いやすい変換APIです。 Javaプラットフォーム。最新バージョンは [Maven](https://repository.aspose.com/pub/) から直接ダウンロードして、Mavenにインストールできます。次の構成をpom.xmlに追加することによるベースのプロジェクト。"
+item1: "PUBをPDFに変換するために、[Aspose.PUB for Java API](https://products.aspose.com/pub/java/) を使用します。これは、機能が豊富で強力で使いやすい変換APIです。 Javaプラットフォーム。最新バージョンは [Aspose Maven Repository](https://repository.aspose.com/pub/) から直接ダウンロードして、Mavenにインストールできます。次の構成をpom.xmlに追加することによるベースのプロジェクト。"
 ---
 
 {{<section feature1>}}

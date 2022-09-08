@@ -26,7 +26,7 @@ p3: 변환을 실행하기 전에 단일 페이지 문서뿐만 아니라 다중
 {{<section widget>}}
 ---
 title: Java를 사용하여 PUB를 PDF로 변환하는 방법
-item1: "PUB를 PDF로 변환하기 위해 기능이 풍부하고 강력하며 사용하기 쉬운 변환 API인 [Aspose.PUB for Java API](https://products.aspose.com/pub/java/)를 사용합니다. 자바 플랫폼. [Maven](https://repository.aspose.com/pub/)에서 직접 최신 버전을 다운로드하여 Maven에 설치할 수 있습니다. pom.xml에 다음 구성을 추가하여 기반 프로젝트."
+item1: "PUB를 PDF로 변환하기 위해 기능이 풍부하고 강력하며 사용하기 쉬운 변환 API인 [Aspose.PUB for Java API](https://products.aspose.com/pub/java/)를 사용합니다. 자바 플랫폼. [Aspose Maven Repository](https://repository.aspose.com/pub/)에서 직접 최신 버전을 다운로드하여 Maven에 설치할 수 있습니다. pom.xml에 다음 구성을 추가하여 기반 프로젝트."
 ---
 
 {{<section feature1>}}

@@ -1,8 +1,8 @@
 ---
 title: Microsoft publisher file extension API | C++
 weight: 50
-url: /cpp/ 
-description: PUB files manipulation API solution. C++ library to parse, process and convert MS Publisher document formats to PDF. 
+url: /cpp/
+description: PUB files manipulation API solution. C++ library to parse, process and convert MS Publisher document formats to PDF.
 metakeywords: Java for c++, cpp PUB solution, Java cpp, pub c++ library
 ---
 
@@ -11,15 +11,15 @@ metakeywords: Java for c++, cpp PUB solution, Java cpp, pub c++ library
 
 {{< blocks/products/pf/main-container pfName="Aspose.PUB " subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/cpp/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/pub/cpp/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/pub/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/pub/cpp/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Pub.Cpp/" nugetPackageName="Aspose.PUB.Cpp" mavenRepoLink="https://repository.aspose.com/pub/" directDownloadLink="https://releases.aspose.com/pub/cpp/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
 MS Publisher is a program to create documents that are focused to work with page layout information. The program opens the next file formats MS Publisher 2.0 or later, files with a .txt extension, RTF files, MS Word files, HTML files, Unicode text, and many more. Pub files may include different types of data like images, texts, or graphics. That is why the format is well-spread in creating flyers, brochures, postcards, and other paper advertisement production.
-This software allows creating your own designed documents or using the the-formated designs for your document. MS Publisher saves files with .pub extension and not that many applications apart from Publisher can process such files. 
+This software allows creating your own designed documents or using the the-formated designs for your document. MS Publisher saves files with .pub extension and not that many applications apart from Publisher can process such files.
 </p>
 <p>
-Aspose.PUB for С++ is a flexible and easy-to-use library. It is developed to work with electronic publication files. This solution supports the loading, opening, editing, and conversion of popular electronic publication file format (.pub) to PDF. It offers quick and reliable conversion of PUB to PDF, HTML, XLSX, DOC, and the most popular image formats. 
+Aspose.PUB for С++ is a flexible and easy-to-use library. It is developed to work with electronic publication files. This solution supports the loading, opening, editing, and conversion of popular electronic publication file format (.pub) to PDF. It offers quick and reliable conversion of PUB to PDF, HTML, XLSX, DOC, and the most popular image formats.
 </p>
 <p>
 Apart from integrating into your own C++ project, the library is perfect for creating your own cross-platform applications to open, merge or convert MS Publisher files. Here you can see and try the examples of implementing the functionality into such applications. They are created by our teams with the use of the solution. With these solutions, you do not have to install any additional software, or subscription to get the result rendered.
@@ -337,6 +337,7 @@ PubFactory::CreatePdfConverter()-&gt;ConvertToPdf(document, filePdf);</code></pr
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/pub/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-pub/Aspose.PUB-for-C" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/pub/cpp/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/pub/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
