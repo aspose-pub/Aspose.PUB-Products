@@ -27,7 +27,7 @@ p3: Πριν εκτελέσετε τη μετατροπή, πρέπει να ε�
 ---
 title: Μετατροπή PUB σε PDF σε C++
 item1: Φόρτωση αρχείου PUB με τη βοήθεια του [*CreateParser()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.pub_factory#a88c04c4c35d45ee8febc7e1554d03c4b) http://sactory* apireference.aspose.com/pub/cpp/class/aspose.pub.pub_factory) Τάξη.
-item2: Αναλύστε το αρχείο χρησιμοποιώντας [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Μέθοδος [*IPubParser*](http://apose.posire..com/pub/cpp/class/aspose.pub.i_pub_parser) Διεπαφή.
+item2: Αναλύστε το αρχείο χρησιμοποιώντας [*Parse()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pub_parser#ae9fc7043f382a5b4a7b694f0fe477915) Μέθοδος [*IPubParser*](https://reference.aspose.com/pub/net/aspose.pub/ipubparser/) Διεπαφή.
 item3: Εκτελέστε τη Μετατροπή μέσω του [*ConvertToPdf()*](https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5)https://reference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter#acdea381bc8f2a2799e73a039b09ecdb5)https://reference.aspose.com/pub. apireference.aspose.com/pub/cpp/class/aspose.pub.i_pdf_converter) Διεπαφή.
 ---
 
